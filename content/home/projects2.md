@@ -128,12 +128,6 @@ details > p {
 
 
 
-##### **"_Unevenly Distribution of Minimum Wage Effects Across Firms: 	Does Firms' Size Matters?_" 2021. (presented at LASA 2021, Under Review)**
-
-<details><summary>Abstract</summary><p>Political economists have explored the implications of firm heterogeneity for trade politics, but existing studies do not explain how the effects of labor politics distribute across firms. This paper contributes by analyzing the impact of wage bargaining by firm size. It empirically tests theoretical expectations about the uneven distribution of effects by looking at a drastic change in labor market policies in Uruguay, where the government instituted coordinated wage bargaining and a minimum wage (MW) increase, causing a regulatory shock for all firms. However, small firms were more exposed to the MW increase than their large counterparts. Adopting a Fuzzy-DID approach, I demonstrate that small firms were less able to increase wages, faced higher formalization costs, and lost the most skilled workers. These findings have important implications for understanding wage bargaining politics and firm heterogeneity in developing countries, which I discuss.</p>
-</details> &nbsp; 
-
-
 ##### **"_When France Sneezes, Does Europe Catch Cold? The Dynamics of Temporal and Spatial Diffusion of Political Protests_" 2022. with [Jeffrey Nonnemacher](https://www.jeffreynonnemacher.com/)** (Submitted)
 
 <details><summary>Abstract</summary><p>Are protests contained to their specific space and time or do they have the ability to spread across borders and in the future? This question has interested scholars of social movements and political behavior for decades but the literature provides a mixed picture on whether protests diffuse throughout time and space. Using protest event analysis and novel spatiotemporal autoregressive distributed lag (STADL) models designed to capture both temporal and spatial dependence in the same model, we find significant dependencies across both time and space. Protests in one time period shape the onset of protests in the future and protests in one country increase protests in a neighboring country. These results help us understand the dynamics of protest diffusion and have important implications for the study of political behavior and social movements.</p>
@@ -170,11 +164,21 @@ details > p {
 </details> &nbsp; 
 
 
+##### **"_Politicians Speeches and Preferences in the midst of an immigration wave_" 2023. with [Jose Luis Incio](https://joseincio.com/) and [Guillermo Lezama](https://guillelezama.netlify.app/) (to be presented at Universidad de Salamanca 2023)** 
+
+<details><summary>Abstract</summary><p>How do political elites in host countries respond to mass-migration crises?  While parties may slowly adapt their political agendas, crisis events may generate marked short-term reactions by political leaders.  Our study examines the responses of political leaders in Peru, Colombia, Ecuador, Chile and Argentina to the recent influx of immigrants from Venezuela. We analyze immigration salience and politicians’ positions before, during, and after the first mass south-south migration, looking at politicians’ public statements on their Twitter accounts.  Using computational text-analysis methods over a corpus of 8 millions tweets by legislators between 2013 and 2022, we estimated the salience of immigration, parties' positions, and the framing used by politicians. Our desegregated time analysis allowed us to examine the short-term impact of the crisis.  While we provide evidence of an increase in salience, it is much less than expected. All parties increased their salience, and right-wing parties contributed to its salience, but so did leftist parties. However, against widespread expectations, most of the communication was positive and in solidarity with the migrants and refugees. Additionally, we found that political leaders used strategic framing, with right-wing legislators focusing on the Venezuelan crisis, whereas leftist legislators focused on employment and international cases of violation of humans rights. Overall, our study provides important insights into politicians' strategies and positions on immigration.
+.</p> </details> &nbsp; 
 
 
 
 
 # Pre-PhD
+
+
+##### **"_Unevenly Distribution of Minimum Wage Effects Across Firms: 	Does Firms' Size Matters?_" 2021. (presented at LASA 2021, Under Review)**
+
+<details><summary>Abstract</summary><p>Political economists have explored the implications of firm heterogeneity for trade politics, but existing studies do not explain how the effects of labor politics distribute across firms. This paper contributes by analyzing the impact of wage bargaining by firm size. It empirically tests theoretical expectations about the uneven distribution of effects by looking at a drastic change in labor market policies in Uruguay, where the government instituted coordinated wage bargaining and a minimum wage (MW) increase, causing a regulatory shock for all firms. However, small firms were more exposed to the MW increase than their large counterparts. Adopting a Fuzzy-DID approach, I demonstrate that small firms were less able to increase wages, faced higher formalization costs, and lost the most skilled workers. These findings have important implications for understanding wage bargaining politics and firm heterogeneity in developing countries, which I discuss.</p>
+</details> &nbsp; 
 
 
 
