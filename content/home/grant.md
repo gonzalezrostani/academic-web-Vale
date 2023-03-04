@@ -19,11 +19,18 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Andrew W. Mellon Predoctoral Fellow"
+  company = "Mellon Foundation"
+  company_url = "https://mellon.org/programs/higher-learning/regranting-programs/"
+ date_start = "2023-08-01"
+  date_end = "2024-08-01"
+  
+[[experience]]
   title = "Social Sciences Doctoral Dissertation (SSDD) Fellowship"
   company = "University of Pittsburgh"
   company_url = "https://www.polisci.pitt.edu/"
  date_start = "2022-08-01"
-  date_end = ""
+  date_end = "2023-08-01"
   
   [[experience]]
   title = "EITM Summer School Fellowship"
