@@ -108,7 +108,7 @@ details > p {
 
 
 
-##### "_Legislators’ Religiosity and Same-Sex Marriage in Latin America_" 2022 with [Scott Morgenstern](https://smorgens.wixsite.com/website) _(Forthcoming at Latin American Research Review - LARR)_ 
+##### "_Legislators’ Religiosity and Same-Sex Marriage in Latin America_" 2023 with [Scott Morgenstern](https://smorgens.wixsite.com/website) _(Forthcoming at Latin American Research Review - LARR)_ 
 
 <details><summary>Abstract</summary><p>Same-sex marriage (SSM) has risen to the top of political agendas across Latin America, but there is also great variance in terms of legal status,  public support, and the policymaking processes.  While the public and social movements have been critical to the advance of SSM, we know little about the views of  those who are directly charged with translating public views into policy: the legislators.  To fill this gap, we utilize a survey of the region’s legislators to first examine the range in support among countries and show how it correlates with legal changes.  We then examine the correlates of legislators’ support for SSM.  While we also test  gender, age, and ideology, our multivariate models focus on religiosity.  We show that in addition to driving support at the  individual level (in the expected direction), religiosity also works as a contextual variable such that having more secular colleagues encourages pious legislators to support same-sex marriage.</p>
 </details> &nbsp; 
