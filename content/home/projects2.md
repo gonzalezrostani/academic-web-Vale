@@ -141,7 +141,7 @@ details > p {
 
 
 
-##### **"_Moral and Economic Dimensions of Partisanship: Evidence from Latin American Political Elites_" 2023. with [Elias Chavarria](https://chavarriamora.com/), Chuang Chen, and [Scott Morgenstern](https://smorgens.wixsite.com/website) ** (to be presented at LASA 2023 and Universidad de Salamanca 2023)
+##### **"_Moral and Economic Dimensions of Partisanship: Evidence from Latin American Political Elites_" 2023. with [Elias Chavarria](https://chavarriamora.com/), Chuang Chen, and [Scott Morgenstern](https://smorgens.wixsite.com/website)** (to be presented at LASA 2023 and Universidad de Salamanca 2023)
 
 <details><summary>Abstract</summary><p>While most Latin American parties traditionally formed around issues of class and economics, moral issues, such as abortion and same-sex marriage, have gained salience. Since they are both new and salient, they are forcing legislators (as well as voters and other political actors) to re-think their ideological identification.  In this paper we use  the PELA survey of Latin American legislators to evaluate the correlation between ideology and moral and economic issues, with a focus on legislators who hold progressive views on one type of issue but conservative views on the other. Among our findings is that the left tolerates more diversity in opinions, and that many who hold rightist policy positions self-identify as centrists. This supports the ashamed right hypothesis, and largely discounts the idea that there is an “embarrassed left.”  Our findings also imply that the new social issues (we focus on abortion) do impact legislators’ ideological self positioning, in spite of previous studies that find that economics drives ideology in the region.</p>
 </details> &nbsp; 
