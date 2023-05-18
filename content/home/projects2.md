@@ -134,11 +134,17 @@ details > p {
 
 
 
-##### **"_When France Sneezes, Does Europe Catch Cold? The Dynamics of Temporal and Spatial Diffusion of Political Protests_" 2022. with [Jeffrey Nonnemacher](https://www.jeffreynonnemacher.com/)** (Under Review)
+##### **"_When France Sneezes, Does Europe Catch Cold? The Dynamics of Temporal and Spatial Diffusion of Political Protests_" 2022. with [Jeffrey Nonnemacher](https://www.jeffreynonnemacher.com/)** 
 
 <details><summary>Abstract</summary><p>Are protests contained to their specific space and time or do they have the ability to spread across borders and in the future? This question has interested scholars of social movements and political behavior for decades but the literature provides a mixed picture on whether protests diffuse throughout time and space. Using protest event analysis and novel spatiotemporal autoregressive distributed lag (STADL) models designed to capture both temporal and spatial dependence in the same model, we find significant dependencies across both time and space. Protests in one time period shape the onset of protests in the future and protests in one country increase protests in a neighboring country. These results help us understand the dynamics of protest diffusion and have important implications for the study of political behavior and social movements.</p>
 </details> &nbsp; 
 
+
+
+##### **"_Moral and Economic Dimensions of Partisanship: Evidence from Latin American Political Elites_" 2023. with [Elias Chavarria](https://chavarriamora.com/), Chuang Chen, and [Scott Morgenstern](https://smorgens.wixsite.com/website) ** (to be presented at LASA 2023 and Universidad de Salamanca 2023)
+
+<details><summary>Abstract</summary><p>While most Latin American parties traditionally formed around issues of class and economics, moral issues, such as abortion and same-sex marriage, have gained salience. Since they are both new and salient, they are forcing legislators (as well as voters and other political actors) to re-think their ideological identification.  In this paper we use  the PELA survey of Latin American legislators to evaluate the correlation between ideology and moral and economic issues, with a focus on legislators who hold progressive views on one type of issue but conservative views on the other. Among our findings is that the left tolerates more diversity in opinions, and that many who hold rightist policy positions self-identify as centrists. This supports the ashamed right hypothesis, and largely discounts the idea that there is an “embarrassed left.”  Our findings also imply that the new social issues (we focus on abortion) do impact legislators’ ideological self positioning, in spite of previous studies that find that economics drives ideology in the region.</p>
+</details> &nbsp; 
 
 
 
@@ -176,7 +182,7 @@ details > p {
 # Pre-PhD
 
 
-##### **"_Unevenly Distribution of Minimum Wage Effects Across Firms: 	Does Firms' Size Matters?_" 2021. (presented at LASA 2021, Under Review)**
+##### **"_Unevenly Distribution of Minimum Wage Effects Across Firms: 	Does Firms' Size Matters?_" 2021. (presented at LASA 2021)**
 
 <details><summary>Abstract</summary><p>Political economists have explored the implications of firm heterogeneity for trade politics, but existing studies do not explain how the effects of labor politics distribute across firms. This paper contributes by analyzing the impact of wage bargaining by firm size. It empirically tests theoretical expectations about the uneven distribution of effects by looking at a drastic change in labor market policies in Uruguay, where the government instituted coordinated wage bargaining and a minimum wage (MW) increase, causing a regulatory shock for all firms. However, small firms were more exposed to the MW increase than their large counterparts. Adopting a Fuzzy-DID approach, I demonstrate that small firms were less able to increase wages, faced higher formalization costs, and lost the most skilled workers. These findings have important implications for understanding wage bargaining politics and firm heterogeneity in developing countries, which I discuss.</p>
 </details> &nbsp; 
