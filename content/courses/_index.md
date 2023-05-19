@@ -29,7 +29,7 @@ layout: docs  # Do not modify.
 
 # Guest Lectures
 
-* Februray 2023,  Political Economy of Growth (PS 2543): Technological Change and Automation Wave
+* Februray 2023,  Political Economy of Growth (PS 2543): Technological Change and Automation
 * July 2023, Mobilization and Political Economy [MPE]: Theories of Political Economy
 
 # Training
