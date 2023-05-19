@@ -16,7 +16,10 @@ layout: docs  # Do not modify.
 * Undergraduate, University of Pittsburgh 
 * Summer 2022
 
+# Lab Instructor & Mentor [[Mobilization and Political Economy (MPE), NSF Summer Research Program]](https://www.migapprogram.com/)
 
+* Method Camp to place students from underrepresented backgrounds in graduate social science programs.
+* Summer 2023
 
 # Teaching Assistant 
 
@@ -25,7 +28,10 @@ layout: docs  # Do not modify.
 
 # Training
 
-2023 [**Achievement in Pedagogy Badge**](https://teaching.pitt.edu/graduate-student-teaching/pedagogy-credential/), University of Pittsburgh.
+2023 [**Achievement in Pedagogy Badge**](https://teaching.pitt.edu/graduate-student-teaching/pedagogy-credential/) - [certificate](https://www.dropbox.com/s/xsxx3rsjmwxa6v2/AIP_Gonzalez-Rostani_revised.pdf?dl=0), University of Pittsburgh.
+
+2021 [**Faculty Development**](https://teaching.pitt.edu/graduate-student-teaching/), University of Pittsburgh.
+
 
 2016 Thinking about teaching at university, Universidad de la Republica.
 
