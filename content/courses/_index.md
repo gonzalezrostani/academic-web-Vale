@@ -16,7 +16,9 @@ layout: docs  # Do not modify.
 * Undergraduate, University of Pittsburgh 
 * Summer 2022
 
-# Lab Instructor & Mentor Mobilization and Political Economy [MPE](https://www.migapprogram.com/), NSF Summer Research Program]
+# Lab Instructor & Mentor 
+
+**Mobilization and Political Economy [MPE](https://www.migapprogram.com/), NSF Summer Research Program]**
 
 * Method Camp to place students from underrepresented backgrounds in graduate social science programs.
 * Summer 2023
