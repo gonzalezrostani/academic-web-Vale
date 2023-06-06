@@ -18,7 +18,7 @@ layout: docs  # Do not modify.
 
 # Lab Instructor & Mentor 
 
-**Mobilization and Political Economy [MPE](https://www.migapprogram.com/), NSF Summer Research Program]**
+**Mobilization and Political Economy [MPE](https://www.migapprogram.com/), NSF Summer Research Program**
 
 * Method Camp to place students from underrepresented backgrounds in graduate social science programs.
 * Summer 2023
@@ -30,7 +30,7 @@ layout: docs  # Do not modify.
 # Guest Lectures
 
 * Februray 2023,  Political Economy of Growth (PS 2543): Technological Change and Automation
-* July 2023, Mobilization and Political Economy [MPE]: Theories of Political Economy
+* July 2023, Mobilization and Political Economy [MPE] Summer Camp: Theories of Political Economy
 
 # Training
 
