@@ -18,19 +18,6 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[experience]]
-  title = "Annual meeting of the Society for Political Methodology, PolMeth XL"
-  company = "NSF"
-  company_url = "https://polmeth2023.sites.stanford.edu/"
- date_start = "2023-08-01"
-  date_end = "2024-08-01"
-  
-[[experience]]
-  title = "The Mobilization and Political Economy (MPE) Summer Research Program [Instructor \& Mentor]"
-  company = "NSF REU"
-  company_url = "https://www.migapprogram.com/summerprogram"
- date_start = "2023-05-01"
-  date_end = "2023-08-01"
 
   
 [[experience]]
