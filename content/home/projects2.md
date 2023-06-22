@@ -119,14 +119,11 @@ details > p {
 
 <details><summary>Abstract</summary><p> The rise of automation has transformed economies around the world. We examine how its effects spill over and affect people's views about environmental issues and policies. We argue that the long-term economic threat posed by automation is expected to reduce environmental concern amongst those affected due to a deprioritization of problems with high levels of uncertainty and that require deep reforms to be addressed. Therefore, we expect automation risk to subsequently reduce support of environmental policy that imposes immediate direct costs, such as carbon taxation. Meanwhile, support for policies with diffuse costs, such as environmental subsidies, will only be affected by automation indirectly, to the extent that it reduces individuals' general environmental concern. Using European Social Survey data from 2002 to 2018 for 23 European countries, our analysis reveals that individuals exposed to automation are less likely to hold environmental concerns and less supportive of carbon taxes that impose immediate visible costs. Mediation analysis suggests that automation reduces support for environmental policies through its negative effect on environmental concern,  with this effect being larger for subsidies. Our findings have important implications for understanding how structural transformations in the economy shape individuals' preferences for tackling long-term societal problems like climate change.</p>
 </details> &nbsp; 
-<details><summary><a href="https://osf.io/esm98/">Paper</a> </summary><p> </p>
-</details> &nbsp; 
+
 
 ##### **"_The path from Automation to Political Behavior_" 2023. (presented at APSA 2022, IPES 2022, EPSA 2023, and to be presented at APSA 2023 and PolMeth XL)**
 
 <details><summary>Abstract</summary><p>I investigate the impact of automation exposure on political behavior in post-industrial societies, with a specific focus on the support for populism. I examine the potential causal mechanisms by exploring the interplay between economic and cultural factors. Through a parallel encouragement design survey experiment conducted in the US, I divide the sample into two groups: one group is randomly assigned to the treatment condition either related to exposure to robots and AI replacing jobs or a control condition related to technological development; the other group experiences manipulation of both the treatment and the encouragement of mediators (marginalization and nostalgia). My findings reveal that feelings of marginalization and nostalgia mediate the effects of technological change on support for populism and illiberal policies. To enhance external validity, I implement mediation analysis using survey data from the European Social Survey from 2012 to 2016. The results help us understand how structural changes in labor markets and cultural factors impact political behavior and inequality.</p>
-</details> &nbsp; 
-<details><summary><a href="https://osf.io/3kdpq">Pre-Analysis Plan</a> </summary><p> </p>
 </details> &nbsp; 
 
 
