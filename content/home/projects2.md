@@ -115,7 +115,7 @@ details > p {
 </details> &nbsp; 
 
 
-##### **"_The Threat of Automation and Public Support for Environmental Policy_" 2022. with [Liam F. Beiser-McGrath](http://www.liambeisermcgrath.com/) and [Michaël Aklin](https://michaelaklin.github.io/) (presented at EPG 2022, and at [Techno debates](https://techno-norface.net/techno-debates/) 2022, Under Review)**
+##### **"_The Threat of Automation and Public Support for Environmental Policies_" 2022. with [Liam F. Beiser-McGrath](http://www.liambeisermcgrath.com/) and [Michaël Aklin](https://michaelaklin.github.io/) (presented at EPG 2022, [Techno debates](https://techno-norface.net/techno-debates/) 2022, and EPSA 2023, Under Review)**
 
 <details><summary>Abstract</summary><p> The rise of automation has transformed economies around the world. We examine how its effects spill over and affect people's views about environmental issues and policies. We argue that the long-term economic threat posed by automation is expected to reduce environmental concern amongst those affected due to a deprioritization of problems with high levels of uncertainty and that require deep reforms to be addressed. Therefore, we expect automation risk to subsequently reduce support of environmental policy that imposes immediate direct costs, such as carbon taxation. Meanwhile, support for policies with diffuse costs, such as environmental subsidies, will only be affected by automation indirectly, to the extent that it reduces individuals' general environmental concern. Using European Social Survey data from 2002 to 2018 for 23 European countries, our analysis reveals that individuals exposed to automation are less likely to hold environmental concerns and less supportive of carbon taxes that impose immediate visible costs. Mediation analysis suggests that automation reduces support for environmental policies through its negative effect on environmental concern,  with this effect being larger for subsidies. Our findings have important implications for understanding how structural transformations in the economy shape individuals' preferences for tackling long-term societal problems like climate change.</p>
 </details> &nbsp; 
@@ -172,7 +172,7 @@ details > p {
 </details> &nbsp; 
 
 
-##### **"_Campaign Contributions and Economic Inequality in the United States_" 2022. with [Jude C. Hays](https://sites.pitt.edu/~jch61/)**
+##### **"_Campaign Contributions and Economic Inequality in the United States_" 2022. with [Jude C. Hays](https://sites.pitt.edu/~jch61/) (presented at Vienna University 2022)**
 
 <details><summary>Abstract</summary><p>Research on the political consequences of economic inequality focuses almost exclusively on relative inequality, using measures such as percentile ratios and gini coefficients for empirical analysis. Measures of relative inequality facilitate empirical comparison across space and time, but they do not always match theories that connect economic and political inequality. We demonstrate with a simple theoretical model that proportionate increases in income, gains that preserve levels of relative inequality in the population but increase levels of absolute inequality, generate greater inequality in campaign contributions from the poor and rich. Using data from U.S. Congressional Districts, we show empirically that greater levels of absolute inequality, rather than relative inequality, are in fact associated with larger differences in the rate at which rich and poor constituents make campaign contributions.</p>
 </details> &nbsp; 
