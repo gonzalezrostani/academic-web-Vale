@@ -18,8 +18,8 @@ bio:
 
 interests:
 - Political Economy
-- Representation
 - Political Methodology
+- Political Elites
 
 education:
   courses:
@@ -67,7 +67,7 @@ user_groups:
 
 I’m a Ph.D. candidate at the University of Pittsburgh and I will be an Andrew W. Mellon Predoctoral Fellow in 2023-2024. 
 
-My main research interests lie at the intersection of international political economy and comparative politics. My dissertation measures the consequences of technological change on individual political behavior and the evolution of party systems. I study the interplay between economic, cultural, and institutional factors using a mixed-methods approach that combines quantitative analysis, text as data, and formal modeling. I am also interested in international trade, inequality, labor informality, and automation’s effects on climate policy.
+My main research interests lie at the intersection of international political economy and comparative politics. My dissertation measures the consequences of technological change on individual political behavior and the evolution of party systems. I study the interplay between economic, cultural, and institutional factors using a mixed-methods approach that combines quantitative analysis, text as data, and formal modeling. I am also interested in international trade, inequality, automation’s effects on climate policy, and political methodology.
 
 Before coming to Pitt, I obtained a MA in Public Policies at the [Universidad Católica del Uruguay](https://ucu.edu.uy/es/taxonomy/term/40/node/113) and a BA in Public Accounting from [Universidad de la Republica](https://udelar.edu.uy/portal/). I also taught at the Universidad de la Republica, worked at KPMG, and advised national politicians in Uruguay.
 
