@@ -65,9 +65,11 @@ user_groups:
 - Visitors
 ---
 
-Hello and thanks for visiting my website! I’m a Ph.D. candidate (ABD) at the University of Pittsburgh and I will be an Andrew W. Mellon Predoctoral Fellow for the 2023-2024 academic year. My main research interests lie at the intersection of International Political Economy and Comparative Politics. My dissertation mainly focuses on the political consequences of technological change on individual political behavior and the evolution of party systems. It looks at the interplay between economic, cultural, and institutional factors. I use a mixed-methods approach in my work, incorporating quantitative analysis, text as data, and formal modeling. I am also interested in international trade, inequality, labor informality, and automation's effects on climate change.
+I’m a Ph.D. candidate at the University of Pittsburgh and I will be an Andrew W. Mellon Predoctoral Fellow in 2023-2024. 
 
-I am from Uruguay, where I taught classes on labor relations and administration at the [Universidad de la Republica](https://udelar.edu.uy/portal/). Before coming to Pitt, I obtained a MA in Public Policies at the [Universidad Católica del Uruguay](https://ucu.edu.uy/es/taxonomy/term/40/node/113) and a BA in Public Accounting from Universidad de la Republica.
+My main research interests lie at the intersection of international political economy and comparative politics. My dissertation measures the consequences of technological change on individual political behavior and the evolution of party systems. I study the interplay between economic, cultural, and institutional factors using a mixed-methods approach that combines quantitative analysis, text as data, and formal modeling. I am also interested in international trade, inequality, labor informality, and automation’s effects on climate policy.
+
+Before coming to Pitt, I obtained a MA in Public Policies at the [Universidad Católica del Uruguay](https://ucu.edu.uy/es/taxonomy/term/40/node/113) and a BA in Public Accounting from [Universidad de la Republica](https://udelar.edu.uy/portal/). I also taught at the Universidad de la Republica, worked at KPMG, and advised national politicians in Uruguay.
 
 You can check out my ongoing research projects below, as well as some resources I’ve worked on [here](https://gonzalez-rostani.netlify.app/resources/). Teaching experience and materials are available [here](https://gonzalez-rostani.netlify.app/courses/). 
 
