@@ -19,7 +19,7 @@ bio:
 interests:
 - Political Economy
 - Political Methodology
-- Political Elites
+- Comparative Politics
 
 education:
   courses:
