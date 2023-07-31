@@ -185,7 +185,7 @@ details > p {
 
 
 
-# Pre-PhD
+# Before being a PhD Student
 
 
 ##### **"_Unevenly Distribution of Minimum Wage Effects Across Firms: 	Does Firms' Size Matters?_" 2021. (presented at LASA 2021)**
