@@ -109,18 +109,11 @@ details > p {
 
 # Working papers 
 
-**"_Elections, Right-wing Populism, and Political-Economic Polarization:  The Role of Institutions and Political Outsiders_" 2022. (Invited to Revise and Resubmit at the Journal of Politics - JOP)** 
+**"_Elections, Right-wing Populism, and Political-Economic Polarization:  The Role of Institutions and Political Outsiders_" 2022.**  (Invited to Revise and Resubmit at the Journal of Politics - JOP)
 
 <details><summary>Abstract</summary><p>While there is little doubt that technological change is generating labor market polarization around the world, we know much less about its translation into partisan polarization. I explore the political polarization driven by the rise of right-wing populist parties and leaders throughout developed democracies. I build a theoretical model to explain how right-wing populists have attracted the votes of routine workers, workers exposed to automation risk, and previously loyal to mainstream left-wing parties, within both majoritarian multi-district and multiparty proportional systems. I empirically evaluate the theory, focusing primarily on the US and Germany, using individual vote-switching data and campaign targeting strategies inferred from the content of political speeches and party manifestos.</p>
 </details> &nbsp; 
 
-####
-**"_The Threat of Automation and Public Support for Environmental Policies_" 2022. with [Liam F. Beiser-McGrath](http://www.liambeisermcgrath.com/) and [Michaël Aklin](https://michaelaklin.github.io/)** (presented at EPG 2022, [Techno debates](https://techno-norface.net/techno-debates/) 2022, and EPSA 2023, Under Review)
-
-<details><summary>Abstract</summary><p> The rise of automation has transformed economies around the world. We examine how its effects spill over and affect people's views about environmental issues and policies. We argue that the long-term economic threat posed by automation is expected to reduce environmental concern amongst those affected due to a deprioritization of problems with high levels of uncertainty and that require deep reforms to be addressed. Therefore, we expect automation risk to subsequently reduce support of environmental policy that imposes immediate direct costs, such as carbon taxation. Meanwhile, support for policies with diffuse costs, such as environmental subsidies, will only be affected by automation indirectly, to the extent that it reduces individuals' general environmental concern. Using European Social Survey data from 2002 to 2018 for 23 European countries, our analysis reveals that individuals exposed to automation are less likely to hold environmental concerns and less supportive of carbon taxes that impose immediate visible costs. Mediation analysis suggests that automation reduces support for environmental policies through its negative effect on environmental concern,  with this effect being larger for subsidies. Our findings have important implications for understanding how structural transformations in the economy shape individuals' preferences for tackling long-term societal problems like climate change.</p>
-</details> &nbsp; 
-<details><summary><a href="https://osf.io/esm98/">Paper</a> </summary><p> </p>
-</details> &nbsp; 
 
 
 ####
@@ -141,6 +134,13 @@ details > p {
 <details><summary>Abstract</summary><p>  This paper investigages the impact of the fourth industrial revolution on politics by proposing a theoretical framework linking technological change with political apathy. Using hierarchical logistic modeling with varying intercepts by country and survey data from the European Social Survey from 2002 to 2018 for 23 European countries, I present evidence that individuals more exposed to technological change are less likely to feel close to a political party, participate in elections and take part in protests. Those individuals exposed to automation are about 10% less likely to be politically engaged than those respondents without exposure to automation risks. I also demonstrate that income levels and unionization rates substantially moderate the direct link between automation and political engagement. The impact of automation on political engagement is smaller among wealthier citizens and in highly unionized environment. The political message from these interaction effects speaks about the reinforcing forces between economic inequality and automation and the role of collective organization. My findings have important implications for understanding automation politics, political inequality, and the demand (or lack of) for protection. </p>
 </details> &nbsp; 
 
+####
+**"_The Threat of Automation and Public Support for Environmental Policies_" 2022. with [Liam F. Beiser-McGrath](http://www.liambeisermcgrath.com/) and [Michaël Aklin](https://michaelaklin.github.io/)** (presented at EPG 2022, [Techno debates](https://techno-norface.net/techno-debates/) 2022, and EPSA 2023, Under Review)
+
+<details><summary>Abstract</summary><p> The rise of automation has transformed economies around the world. We examine how its effects spill over and affect people's views about environmental issues and policies. We argue that the long-term economic threat posed by automation is expected to reduce environmental concern amongst those affected due to a deprioritization of problems with high levels of uncertainty and that require deep reforms to be addressed. Therefore, we expect automation risk to subsequently reduce support of environmental policy that imposes immediate direct costs, such as carbon taxation. Meanwhile, support for policies with diffuse costs, such as environmental subsidies, will only be affected by automation indirectly, to the extent that it reduces individuals' general environmental concern. Using European Social Survey data from 2002 to 2018 for 23 European countries, our analysis reveals that individuals exposed to automation are less likely to hold environmental concerns and less supportive of carbon taxes that impose immediate visible costs. Mediation analysis suggests that automation reduces support for environmental policies through its negative effect on environmental concern,  with this effect being larger for subsidies. Our findings have important implications for understanding how structural transformations in the economy shape individuals' preferences for tackling long-term societal problems like climate change.</p>
+</details> &nbsp; 
+<details><summary><a href="https://osf.io/esm98/">Paper</a> </summary><p> </p>
+</details> &nbsp; 
 
 
 ####
