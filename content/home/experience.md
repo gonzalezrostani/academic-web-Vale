@@ -19,6 +19,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Instructor & Mentor"
+  company = "NSF-REU Mobilization and Political Economy Summer Research Program"
+  company_url = "https://www.migapprogram.com/summerprogram"
+  date_start = "2023-05-01"
+  date_end = "2023-08-01"
+  
+[[experience]]
   title = "Instructor of Record"
   company = "University of Pittsburgh"
   company_url = "https://www.polisci.pitt.edu/"
