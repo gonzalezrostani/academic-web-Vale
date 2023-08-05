@@ -114,7 +114,7 @@ details > p {
 <details><summary>Abstract</summary><p>While there is little doubt that technological change is generating labor market polarization around the world, we know much less about its translation into partisan polarization. I explore the political polarization driven by the rise of right-wing populist parties and leaders throughout developed democracies. I build a theoretical model to explain how right-wing populists have attracted the votes of routine workers, workers exposed to automation risk, and previously loyal to mainstream left-wing parties, within both majoritarian multi-district and multiparty proportional systems. I empirically evaluate the theory, focusing primarily on the US and Germany, using individual vote-switching data and campaign targeting strategies inferred from the content of political speeches and party manifestos.</p>
 </details> &nbsp; 
 
-#
+####
 **"_The Threat of Automation and Public Support for Environmental Policies_" 2022. with [Liam F. Beiser-McGrath](http://www.liambeisermcgrath.com/) and [Michaël Aklin](https://michaelaklin.github.io/) (presented at EPG 2022, [Techno debates](https://techno-norface.net/techno-debates/) 2022, and EPSA 2023, Under Review)**
 
 <details><summary>Abstract</summary><p> The rise of automation has transformed economies around the world. We examine how its effects spill over and affect people's views about environmental issues and policies. We argue that the long-term economic threat posed by automation is expected to reduce environmental concern amongst those affected due to a deprioritization of problems with high levels of uncertainty and that require deep reforms to be addressed. Therefore, we expect automation risk to subsequently reduce support of environmental policy that imposes immediate direct costs, such as carbon taxation. Meanwhile, support for policies with diffuse costs, such as environmental subsidies, will only be affected by automation indirectly, to the extent that it reduces individuals' general environmental concern. Using European Social Survey data from 2002 to 2018 for 23 European countries, our analysis reveals that individuals exposed to automation are less likely to hold environmental concerns and less supportive of carbon taxes that impose immediate visible costs. Mediation analysis suggests that automation reduces support for environmental policies through its negative effect on environmental concern,  with this effect being larger for subsidies. Our findings have important implications for understanding how structural transformations in the economy shape individuals' preferences for tackling long-term societal problems like climate change.</p>
@@ -122,6 +122,8 @@ details > p {
 <details><summary><a href="https://osf.io/esm98/">Paper</a> </summary><p> </p>
 </details> &nbsp; 
 
+
+####
 
 **"_The path from Automation to Populist Political Behavior_" 2023. (presented at APSA 2022, IPES 2022, EUSA2023, EPSA 2023, PolMeth XL, and to be presented at APSA 2023)**
 
@@ -132,12 +134,16 @@ details > p {
 
 
 
+####
+
 **"_Engaged Robots, and Disengaged Workers: Automation and Political Apathy_" 2022. (presented at MPSA 2022 and EUSA 2022)**
 
 <details><summary>Abstract</summary><p>  This paper investigages the impact of the fourth industrial revolution on politics by proposing a theoretical framework linking technological change with political apathy. Using hierarchical logistic modeling with varying intercepts by country and survey data from the European Social Survey from 2002 to 2018 for 23 European countries, I present evidence that individuals more exposed to technological change are less likely to feel close to a political party, participate in elections and take part in protests. Those individuals exposed to automation are about 10% less likely to be politically engaged than those respondents without exposure to automation risks. I also demonstrate that income levels and unionization rates substantially moderate the direct link between automation and political engagement. The impact of automation on political engagement is smaller among wealthier citizens and in highly unionized environment. The political message from these interaction effects speaks about the reinforcing forces between economic inequality and automation and the role of collective organization. My findings have important implications for understanding automation politics, political inequality, and the demand (or lack of) for protection. </p>
 </details> &nbsp; 
 
 
+
+####
 
 **"_When France Sneezes, Does Europe Catch Cold? The Dynamics of Temporal and Spatial Diffusion of Political Protests_" 2022. with [Jeffrey Nonnemacher](https://www.jeffreynonnemacher.com/)** 
 
@@ -146,11 +152,15 @@ details > p {
 
 
 
+####
+
 **"_Moral and Economic Dimensions of Partisanship: Evidence from Latin American Political Elites_" 2023. with [Elias Chavarria](https://chavarriamora.com/), Chuang Chen, and [Scott Morgenstern](https://smorgens.wixsite.com/website)** (presented at LASA 2023 and Universidad de Salamanca 2023)
 
 <details><summary>Abstract</summary><p>While most Latin American parties traditionally formed around issues of class and economics, moral issues, such as abortion and same-sex marriage, have gained salience. Since they are both new and salient, they are forcing legislators (as well as voters and other political actors) to re-think their ideological identification.  In this paper we use  the PELA survey of Latin American legislators to evaluate the correlation between ideology and moral and economic issues, with a focus on legislators who hold progressive views on one type of issue but conservative views on the other. Among our findings is that the left tolerates more diversity in opinions, and that many who hold rightist policy positions self-identify as centrists. This supports the ashamed right hypothesis, and largely discounts the idea that there is an “embarrassed left.”  Our findings also imply that the new social issues (we focus on abortion) do impact legislators’ ideological self positioning, in spite of previous studies that find that economics drives ideology in the region.</p>
 </details> &nbsp; 
 
+
+####
 
 **"_Political Agenda Shaping and Differentiation in Response to Unprecedented Shocks: The Venezuelan Migration Crisis_" 2023. with [Jose Luis Incio](https://joseincio.com/) and [Guillermo Lezama](https://guillelezama.netlify.app/) (presented at Universidad de Salamanca 2023, PUCP 2023, and to be presented at Universidad Catolica del Uruguay)** 
 
@@ -162,12 +172,16 @@ details > p {
 
 
 
+####
+
 **"_You Can't Stop It If You Can't See It: Introducing a New Scalable System to Measure Populist Narratives at Higher Resolution_" 2022. with  [Bree Bang-Jensen](https://www.breebangjensen.com/) and [Michael Colaresi](https://michaelcolaresi.com/)** 
 
 <details><summary>Abstract</summary><p>The rise of populism across democracies is one of the greatest challenges to the existing world order since World War II. Yet, we only have very limited tools to measure populism within and across countries. Existing approaches rely on human coding, expert surveys, or diction ary-based analysis and suffer from high costs, low comparability, or low validity. To help overcome these limitations, we offer a new middle ground strategy between the expensive but rich qualitative reading of populist language and the cheaper, but coarsest machine coding of sets of texts. We extend the Parsing Unstructured Language into Sentiment-Aspect Representations (PULSAR) project to identify specific sentences and paragraphs as carrying populist narratives. We parse ``us'' versus ``them'' frames, as well as who is determined by the speaker as protecting or threatening ``the people''. We also code common aspects of political speeches such as agreement, opposition, and judgment holder that are not populist-specific. Our system uniquely matches the ``thin-centered'' definition of populism, such that not all utterances from parties ascribed to a populist worldview will carry populist content. To illustrate our contribution, we train our model using recent US Presidential campaig n speeches. Our method has important implications for studying populism's rise worldwide, it’s common patterns and local distinctiveness, especially for countries where researchers cannot afford costly systems.</p>
 </details> &nbsp; 
 
 
+
+####
 
 **"_Love of Variety? Heterogeneous Responses to Foreign Goods in the Marketplace_" 2022. with [Jude C. Hays](https://sites.pitt.edu/~jch61/) and [Junghyun Lim](https://junghyunlim.github.io/) (presented at University of Strathclyde 2022, the Hamburg Empirical Political Science Seminar Series 2022, MPSA  2023, U Penn-Pitt Workshop 2023)** 
 
@@ -177,11 +191,15 @@ details > p {
 </details> &nbsp; 
 
 
+####
+
 **"_Campaign Contributions and Economic Inequality in the United States_" 2022. with [Jude C. Hays](https://sites.pitt.edu/~jch61/) (presented at Vienna University 2022)**
 
 <details><summary>Abstract</summary><p>Research on the political consequences of economic inequality focuses almost exclusively on relative inequality, using measures such as percentile ratios and gini coefficients for empirical analysis. Measures of relative inequality facilitate empirical comparison across space and time, but they do not always match theories that connect economic and political inequality. We demonstrate with a simple theoretical model that proportionate increases in income, gains that preserve levels of relative inequality in the population but increase levels of absolute inequality, generate greater inequality in campaign contributions from the poor and rich. Using data from U.S. Congressional Districts, we show empirically that greater levels of absolute inequality, rather than relative inequality, are in fact associated with larger differences in the rate at which rich and poor constituents make campaign contributions.</p>
 </details> &nbsp; 
 
+
+####
 
 **"_A Spatiotemporal Approach to Model Multilevel Data Structures_" 2023. with [Jude C. Hays](https://sites.pitt.edu/~jch61/) (to be presented at APSA 2023)**
 
@@ -201,6 +219,8 @@ details > p {
 
 
 
+
+####
 
 **"Logros sindicales y relaciones de poder: el caso del SUNCA, Uruguay 2005 – 2014." 2017. _XVI Jornadas de Investigación : la excepcionalidad uruguaya en debate: ¿como el Uruguay no hay?_ See  [Spanish]**
 
