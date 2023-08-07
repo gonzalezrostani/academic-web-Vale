@@ -35,10 +35,10 @@
   weight = 50
 
 
-[[main]]
-    name = "Posts"
-    url = "posts/"
-    weight = 60
+#[[main]]
+ #   name = "Posts"
+  #  url = "posts/"
+   # weight = 60
     
 [[main]]
   name = "Contact"
