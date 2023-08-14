@@ -105,6 +105,16 @@ details > p {
 }
 </style>
 
+# Publication 
+
+**"_Legislators’ Religiosity and Same-Sex Marriage in Latin America_" 2023 with [Scott Morgenstern](https://smorgens.wixsite.com/website)** _(Forthcoming at Latin American Research Review - LARR)_ 
+
+<details><summary>Abstract</summary><p>Same-sex marriage (SSM) has risen to the top of political agendas across Latin America, but there is also great variance in terms of legal status,  public support, and the policymaking processes.  While the public and social movements have been critical to the advance of SSM, we know little about the views of  those who are directly charged with translating public views into policy: the legislators.  To fill this gap, we utilize a survey of the region’s legislators to first examine the range in support among countries and show how it correlates with legal changes.  We then examine the correlates of legislators’ support for SSM.  While we also test  gender, age, and ideology, our multivariate models focus on religiosity.  We show that in addition to driving support at the  individual level (in the expected direction), religiosity also works as a contextual variable such that having more secular colleagues encourages pious legislators to support same-sex marriage.</p>
+</details> &nbsp; 
+<details><summary>Resumen</summary><p>El matrimonio entre personas del mismo sexo (MPMS) ha marcado la agenda política en muchos países de América Latina, aunque aún es ilegal en muchos países del continente. No obstante, el apoyo público varía mucho en la región, así como también los roles de los tribunales, presidentes y legislaturas. En este artículo nos enfocamos en los legisladores, ya que son los encargados de representar al público y convertir sus demandas en política pública. Si bien muchas legislaturas han discutido el tema, la literatura no ha examinado de manera intensiva las actitudes de estos representantes hacia el MPMS. Para analizar este fenómeno aplicamos un marco teórico que amplía las teorías basadas en el contexto y contacto social, y utilizamos una encuesta implementada a legisladores en la región para estudiar las variables que correlacionan con el apoyo al MPMS. Si bien también evaluamos variables a nivel individual (tales como género e ideología), nuestros modelos se enfocan en el rol contextual de la religiosidad. Los resultados muestran que tener más colegas seculares alienta a los legisladores, incluso a los creyentes, a apoyar el matrimonio entre personas del mismo sexo.</p>
+</details> &nbsp; 
+<details><summary><a href="https://www.cambridge.org/core/journals/latin-american-research-review/article/legislators-religiosity-and-samesex-marriage-in-latin-america/E1036194383293859C18F10394554923#article">First View</a> </summary><p> </p>
+</details> &nbsp; 
 
 
 # Working papers 
