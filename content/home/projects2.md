@@ -220,7 +220,8 @@ details > p {
 </details> &nbsp; 
 <details><summary><a href="https://osf.io/y8nrm">Pre-Analysis Plan</a> </summary><p> </p>
 </details> &nbsp; 
-
+<details><summary><a href="https://www.dropbox.com/scl/fi/9cnrq5j1yo3kos8vlmp4r/MPSA_LoV.pdf?rlkey=gv9zxmps90mlbkolkc0asgwvu&raw=1">Slides</a> </summary><p> </p>
+</details> &nbsp; 
 
 ####
 
