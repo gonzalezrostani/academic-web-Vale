@@ -176,6 +176,7 @@ details > p {
 <details><summary>Draft Upon Request</summary><p>Please send me an email, and I will share our most recent working paper.</p>
 </details> &nbsp; 
 
+
 ####
 
 **"_Moral and Economic Dimensions of Partisanship: Evidence from Latin American Political Elites_" 2023. with [Elias Chavarria](https://chavarriamora.com/), Chuang Chen, and [Scott Morgenstern](https://smorgens.wixsite.com/website)** (presented at LASA 2023 and Universidad de Salamanca 2023)
