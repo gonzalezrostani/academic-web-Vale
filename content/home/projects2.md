@@ -135,7 +135,10 @@ details > p {
 </details> &nbsp; 
 <details><summary><a href="https://osf.io/3kdpq">Pre-Analysis Plan</a> </summary><p> </p>
 </details> &nbsp; 
-
+<details><summary><a href="https://www.dropbox.com/scl/fi/8pn35fxqb3wl6yx1ur1hj/Polmeth_VG.pdf?rlkey=h064fyaroqgvkgp73czlw1xr8&raw=1">Poster</a> </summary><p> </p>
+</details> &nbsp; 
+<details><summary><a href="https://www.dropbox.com/scl/fi/0g6wo4lwac6ldk42gr0mw/APSA_Automation_Culture.pdf?rlkey=ecck0pxx7v4hb6wjsgs3s9ww6&raw=1">Manuscript</a> </summary><p> </p>
+</details> &nbsp; 
 
 
 ####
@@ -143,6 +146,8 @@ details > p {
 **"_Engaged Robots, and Disengaged Workers: Automation and Political Apathy_" 2022.** (presented at MPSA 2022, EUSA 2022, CPRG-Pitt 2023)
 
 <details><summary>Abstract</summary><p>  This paper investigages the impact of the fourth industrial revolution on politics by proposing a theoretical framework linking technological change with political apathy. Using hierarchical logistic modeling with varying intercepts by country and survey data from the European Social Survey from 2002 to 2018 for 23 European countries, I present evidence that individuals more exposed to technological change are less likely to feel close to a political party, participate in elections and take part in protests. Those individuals exposed to automation are about 10% less likely to be politically engaged than those respondents without exposure to automation risks. I also demonstrate that income levels and unionization rates substantially moderate the direct link between automation and political engagement. The impact of automation on political engagement is smaller among wealthier citizens and in highly unionized environment. The political message from these interaction effects speaks about the reinforcing forces between economic inequality and automation and the role of collective organization. My findings have important implications for understanding automation politics, political inequality, and the demand (or lack of) for protection. </p>
+</details> &nbsp; 
+<details><summary><a href="https://www.dropbox.com/scl/fi/wa2svc1bygw000r42o3ch/IPE_Automation__Rev_.pdf?rlkey=u6vm6f1ri05lma5nr4fq48pnp&raw=1">Manuscript</a> </summary><p> </p>
 </details> &nbsp; 
 
 ####
@@ -153,15 +158,13 @@ details > p {
 <details><summary><a href="https://osf.io/esm98/">Manuscript</a> </summary><p> </p>
 </details> &nbsp; 
 
-
 ####
 
-**"_When France Sneezes, Does Europe Catch Cold? The Dynamics of Temporal and Spatial Diffusion of Political Protests_" 2022. with [Jeffrey Nonnemacher](https://www.jeffreynonnemacher.com/)** 
+**"_Political Agenda Shaping and Differentiation in Response to Unprecedented Shocks: The Venezuelan Migration Crisis_" 2023. with [Jose Luis Incio](https://joseincio.com/) and [Guillermo Lezama](https://guillelezama.netlify.app/)** (presented at Universidad de Salamanca 2023, PUCP 2023, and to be presented at Universidad Catolica del Uruguay) 
 
-<details><summary>Abstract</summary><p>Are protests contained to their specific space and time or do they have the ability to spread across borders and in the future? This question has interested scholars of social movements and political behavior for decades but the literature provides a mixed picture on whether protests diffuse throughout time and space. Using protest event analysis and novel spatiotemporal autoregressive distributed lag (STADL) models designed to capture both temporal and spatial dependence in the same model, we find significant dependencies across both time and space. Protests in one time period shape the onset of protests in the future and protests in one country increase protests in a neighboring country. These results help us understand the dynamics of protest diffusion and have important implications for the study of political behavior and social movements.</p>
+<details><summary>Abstract</summary><p>This study examines how political parties respond to an unprecedented shock that dramatically changes the importance of a particular issue on their agendas. We investigate whether political parties develop distinct policy agendas in an area that previously received minimal attention but, due to the shock, becomes one of the primary concerns among the public. The study analyzes the Venezuelan crisis, which has resulted in a significant influx of over 6.1 million immigrants to Latin American countries unaccustomed to such flows, posing a unique challenge. Using computational text-analysis methods applied to a corpus of over 3 million tweets from Chilean and Peruvian parliament members between 2013 and 2021, our findings demonstrate that all party families increase the salience of the immigration issue without remarkable differences. Additionally, within the context of this issue, no party family claims exclusive ownership of matters related to immigrants' identity or country of origin (such as Venezuela), crime, or employment concerns. Instead, parties differentiate, employing distinct vocabularies aligned with their ideologies, and emphasizing different aspects. These findings have significant implications for understanding the transformative power of unexpected events that emerge as new topics on the political agenda, particularly within the context of the emerging phenomenon of South-South migration.</p> </details> &nbsp; 
+<details><summary><a href="https://www.dropbox.com/scl/fi/21ptwextg6d3bkrxpp25q/Immigration.pdf?raw=1&rlkey=h04pr9r8jnd4rq8tnco9757z6">Manuscript</a> </summary><p> </p>
 </details> &nbsp; 
-
-
 
 ####
 
@@ -169,13 +172,20 @@ details > p {
 
 <details><summary>Abstract</summary><p>While most Latin American parties traditionally formed around issues of class and economics, moral issues, such as abortion and same-sex marriage, have gained salience. Since they are both new and salient, they are forcing legislators (as well as voters and other political actors) to re-think their ideological identification.  In this paper we use  the PELA survey of Latin American legislators to evaluate the correlation between ideology and moral and economic issues, with a focus on legislators who hold progressive views on one type of issue but conservative views on the other. Among our findings is that the left tolerates more diversity in opinions, and that many who hold rightist policy positions self-identify as centrists. This supports the ashamed right hypothesis, and largely discounts the idea that there is an “embarrassed left.”  Our findings also imply that the new social issues (we focus on abortion) do impact legislators’ ideological self positioning, in spite of previous studies that find that economics drives ideology in the region.</p>
 </details> &nbsp; 
+<details><summary><a href="https://www.dropbox.com/scl/fi/j6gfgaxp0o1i6yo6lult1/Chavarr-aMora_Chen_GonzalezRostani_Morgenstern-1.pdf?raw=1&rlkey=jwxrksqg46up12w6z7bcncdzo">Manuscript</a> </summary><p> </p>
+</details> &nbsp; 
 
 
 ####
 
-**"_Political Agenda Shaping and Differentiation in Response to Unprecedented Shocks: The Venezuelan Migration Crisis_" 2023. with [Jose Luis Incio](https://joseincio.com/) and [Guillermo Lezama](https://guillelezama.netlify.app/)** (presented at Universidad de Salamanca 2023, PUCP 2023, and to be presented at Universidad Catolica del Uruguay) 
+**"_When France Sneezes, Does Europe Catch Cold? The Dynamics of Temporal and Spatial Diffusion of Political Protests_" 2022. with [Jeffrey Nonnemacher](https://www.jeffreynonnemacher.com/)** 
 
-<details><summary>Abstract</summary><p>This study examines how political parties respond to an unprecedented shock that dramatically changes the importance of a particular issue on their agendas. We investigate whether political parties develop distinct policy agendas in an area that previously received minimal attention but, due to the shock, becomes one of the primary concerns among the public. The study analyzes the Venezuelan crisis, which has resulted in a significant influx of over 6.1 million immigrants to Latin American countries unaccustomed to such flows, posing a unique challenge. Using computational text-analysis methods applied to a corpus of over 3 million tweets from Chilean and Peruvian parliament members between 2013 and 2021, our findings demonstrate that all party families increase the salience of the immigration issue without remarkable differences. Additionally, within the context of this issue, no party family claims exclusive ownership of matters related to immigrants' identity or country of origin (such as Venezuela), crime, or employment concerns. Instead, parties differentiate, employing distinct vocabularies aligned with their ideologies, and emphasizing different aspects. These findings have significant implications for understanding the transformative power of unexpected events that emerge as new topics on the political agenda, particularly within the context of the emerging phenomenon of South-South migration.</p> </details> &nbsp; 
+<details><summary>Abstract</summary><p>Are protests contained to their specific space and time or do they have the ability to spread across borders and in the future? This question has interested scholars of social movements and political behavior for decades but the literature provides a mixed picture on whether protests diffuse throughout time and space. Using protest event analysis and novel spatiotemporal autoregressive distributed lag (STADL) models designed to capture both temporal and spatial dependence in the same model, we find significant dependencies across both time and space. Protests in one time period shape the onset of protests in the future and protests in one country increase protests in a neighboring country. These results help us understand the dynamics of protest diffusion and have important implications for the study of political behavior and social movements.</p>
+</details> &nbsp; 
+<details><summary><a href="https://www.dropbox.com/scl/fi/5u6nwusqlv0rc7a2n8x1y/Protest.pdf?raw=1&rlkey=gyuh6wka3alfbjd9qhnagczye">Research Note Draft</a> </summary><p> </p>
+</details> &nbsp; 
+
+
 
 
 # Work in progress 
