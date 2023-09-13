@@ -151,7 +151,7 @@ details > p {
 <details><summary><a href=https://www.cambridge.org/core/journals/latin-american-research-review/article/legislators-religiosity-and-samesex-marriage-in-latin-america/E1036194383293859C18F10394554923#article>First View</a> </summary><p> </p>
 </details> &nbsp; <br>
 
-<be>
+<br>
 
 ## Working papers 
 
