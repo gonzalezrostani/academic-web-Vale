@@ -115,7 +115,7 @@ details > p {
 <details><summary><a href=https://www.dropbox.com/scl/fi/1x0itrjpb4u9z8g7i6zcu/Revised_ms.pdf?rlkey=bmqsg5beltmvf7o6tynd4zgqj&raw=1>Manuscript</a> </summary><p> </p>
 </details> &nbsp;  
 
-##### 
+<br>
 
 **The path from Automation to Populist Political Behavior.** 2023. (presented at APSA 2022, IPES 2022, EUSA2023, EPSA 2023, PolMeth XL, and to be presented at APSA 2023)
 
