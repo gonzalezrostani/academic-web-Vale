@@ -126,19 +126,19 @@ details > p {
 <details><summary><a href=https://www.dropbox.com/scl/fi/8pn35fxqb3wl6yx1ur1hj/Polmeth_VG.pdf?rlkey=h064fyaroqgvkgp73czlw1xr8&raw=1>Poster</a> </summary><p> </p>
 </details> &nbsp; 
 <details><summary><a href=https://www.dropbox.com/scl/fi/0g6wo4lwac6ldk42gr0mw/APSA_Automation_Culture.pdf?rlkey=ecck0pxx7v4hb6wjsgs3s9ww6&raw=1>Manuscript</a> </summary><p> </p>
-</details> &nbsp; 
+</details> &nbsp; <br>
 
 
-####
+<br>
 
 **Engaged Robots, and Disengaged Workers: Automation and Political Apathy.** 2022. (presented at MPSA 2022, EUSA 2022, CPRG-Pitt 2023)
 
 <details><summary>Abstract</summary><p>  This paper investigages the impact of the fourth industrial revolution on politics by proposing a theoretical framework linking technological change with political apathy. Using hierarchical logistic modeling with varying intercepts by country and survey data from the European Social Survey from 2002 to 2018 for 23 European countries, I present evidence that individuals more exposed to technological change are less likely to feel close to a political party, participate in elections and take part in protests. Those individuals exposed to automation are about 10% less likely to be politically engaged than those respondents without exposure to automation risks. I also demonstrate that income levels and unionization rates substantially moderate the direct link between automation and political engagement. The impact of automation on political engagement is smaller among wealthier citizens and in highly unionized environment. The political message from these interaction effects speaks about the reinforcing forces between economic inequality and automation and the role of collective organization. My findings have important implications for understanding automation politics, political inequality, and the demand (or lack of) for protection. </p>
 </details> &nbsp; 
 <details><summary><a href=https://www.dropbox.com/scl/fi/wa2svc1bygw000r42o3ch/IPE_Automation__Rev_.pdf?rlkey=u6vm6f1ri05lma5nr4fq48pnp&raw=1>Manuscript</a> </summary><p> </p>
-</details> &nbsp; 
+</details> &nbsp; <br>
 
-
+<br>
 ## Publication 
 
 **Legislators’ Religiosity and Same-Sex Marriage in Latin America.** 2023 with [Scott Morgenstern](https://smorgens.wixsite.com/website) _(Forthcoming at Latin American Research Review - LARR)_ 
@@ -148,8 +148,9 @@ details > p {
 <details><summary>Resumen</summary><p>El matrimonio entre personas del mismo sexo (MPMS) ha marcado la agenda política en muchos países de América Latina, aunque aún es ilegal en muchos países del continente. No obstante, el apoyo público varía mucho en la región, así como también los roles de los tribunales, presidentes y legislaturas. En este artículo nos enfocamos en los legisladores, ya que son los encargados de representar al público y convertir sus demandas en política pública. Si bien muchas legislaturas han discutido el tema, la literatura no ha examinado de manera intensiva las actitudes de estos representantes hacia el MPMS. Para analizar este fenómeno aplicamos un marco teórico que amplía las teorías basadas en el contexto y contacto social, y utilizamos una encuesta implementada a legisladores en la región para estudiar las variables que correlacionan con el apoyo al MPMS. Si bien también evaluamos variables a nivel individual (tales como género e ideología), nuestros modelos se enfocan en el rol contextual de la religiosidad. Los resultados muestran que tener más colegas seculares alienta a los legisladores, incluso a los creyentes, a apoyar el matrimonio entre personas del mismo sexo.</p>
 </details> &nbsp; 
 <details><summary><a href=https://www.cambridge.org/core/journals/latin-american-research-review/article/legislators-religiosity-and-samesex-marriage-in-latin-america/E1036194383293859C18F10394554923#article>First View</a> </summary><p> </p>
-</details> &nbsp; 
+</details> &nbsp; <br>
 
+<be>
 
 ## Working papers 
 
@@ -161,64 +162,65 @@ details > p {
 <details><summary>Abstract</summary><p> The rise of automation has transformed economies around the world. We examine how its effects spill over and affect people's views about environmental issues and policies. We argue that the long-term economic threat posed by automation is expected to reduce environmental concern amongst those affected due to a deprioritization of problems with high levels of uncertainty and that require deep reforms to be addressed. Therefore, we expect automation risk to subsequently reduce support of environmental policy that imposes immediate direct costs, such as carbon taxation. Meanwhile, support for policies with diffuse costs, such as environmental subsidies, will only be affected by automation indirectly, to the extent that it reduces individuals' general environmental concern. Using European Social Survey data from 2002 to 2018 for 23 European countries, our analysis reveals that individuals exposed to automation are less likely to hold environmental concerns and less supportive of carbon taxes that impose immediate visible costs. Mediation analysis suggests that automation reduces support for environmental policies through its negative effect on environmental concern,  with this effect being larger for subsidies. Our findings have important implications for understanding how structural transformations in the economy shape individuals' preferences for tackling long-term societal problems like climate change.</p>
 </details> &nbsp; 
 <details><summary><a href=https://osf.io/esm98/>Manuscript</a> </summary><p> </p>
-</details> &nbsp; 
+</details> &nbsp; <br>
 
-####
+<br>
 
 **Political Agenda Shaping and Differentiation in Response to Unprecedented Shocks: The Venezuelan Migration Crisis.** 2023. with [Jose Luis Incio](https://joseincio.com/) and [Guillermo Lezama](https://guillelezama.netlify.app/) (presented at Universidad de Salamanca 2023, PUCP 2023, and UCU 2023) 
 
 <details><summary>Abstract</summary><p>This study examines how political parties respond to an unprecedented shock that dramatically changes the importance of a particular issue on their agendas. We investigate whether political parties develop distinct policy agendas in an area that previously received minimal attention but, due to the shock, becomes one of the primary concerns among the public. The study analyzes the Venezuelan crisis, which has resulted in a significant influx of over 6.1 million immigrants to Latin American countries unaccustomed to such flows, posing a unique challenge. Using computational text-analysis methods applied to a corpus of over 3 million tweets from Chilean and Peruvian parliament members between 2013 and 2021, our findings demonstrate that all party families increase the salience of the immigration issue without remarkable differences. Additionally, within the context of this issue, no party family claims exclusive ownership of matters related to immigrants' identity or country of origin (such as Venezuela), crime, or employment concerns. Instead, parties differentiate, employing distinct vocabularies aligned with their ideologies, and emphasizing different aspects. These findings have significant implications for understanding the transformative power of unexpected events that emerge as new topics on the political agenda, particularly within the context of the emerging phenomenon of South-South migration.</p> </details> &nbsp; 
 <details><summary><a href=https://www.dropbox.com/scl/fi/21ptwextg6d3bkrxpp25q/Immigration.pdf?raw=1&rlkey=h04pr9r8jnd4rq8tnco9757z6>Manuscript</a> </summary><p> </p>
-</details> &nbsp; 
+</details> &nbsp; <br>
 
 
-####
+<br>
 
 **A Spatiotemporal Approach to Model Multilevel Data Structures.** 2023. with [Jude C. Hays](https://sites.pitt.edu/~jch61/) (presented at APSA 2023)
 
 <details><summary>Abstract</summary><p>The analysis of multilevel data is common in political science and the social sciences more generally. We examine the case where random community-level effects cluster geographically in space. Ignoring this spatial dependence leads to inefficient coefficient estimates and overconfident standard errors. We propose a two-step spatial feasible generalized least squares estimator that, under empirically identifiable conditions, provides relatively efficient coefficient estimates and accurate standard errors compared to the maximum likelihood estimation of non-spatial models.</p>
 </details> &nbsp; 
 <details><summary>Draft Upon Request</summary><p>Please send me an email, and I will share our most recent working paper.</p>
-</details> &nbsp; 
+</details> &nbsp; <br>
 
 
-####
+<br>
 
 **Moral and Economic Dimensions of Partisanship: Evidence from Latin American Political Elites.** 2023. with [Elias Chavarria](https://chavarriamora.com/), Chuang Chen, and [Scott Morgenstern](https://smorgens.wixsite.com/website) (presented at LASA 2023, Universidad de Salamanca 2023, and CPRG-Pitt)
 
 <details><summary>Abstract</summary><p>While most Latin American parties traditionally formed around issues of class and economics, moral issues, such as abortion and same-sex marriage, have gained salience. Since they are both new and salient, they are forcing legislators (as well as voters and other political actors) to re-think their ideological identification.  In this paper we use  the PELA survey of Latin American legislators to evaluate the correlation between ideology and moral and economic issues, with a focus on legislators who hold progressive views on one type of issue but conservative views on the other. Among our findings is that the left tolerates more diversity in opinions, and that many who hold rightist policy positions self-identify as centrists. This supports the ashamed right hypothesis, and largely discounts the idea that there is an “embarrassed left.”  Our findings also imply that the new social issues (we focus on abortion) do impact legislators’ ideological self positioning, in spite of previous studies that find that economics drives ideology in the region.</p>
 </details> &nbsp; 
 <details><summary><a href=https://www.dropbox.com/scl/fi/j6gfgaxp0o1i6yo6lult1/Chavarr-aMora_Chen_GonzalezRostani_Morgenstern-1.pdf?raw=1&rlkey=jwxrksqg46up12w6z7bcncdzo>Manuscript</a> </summary><p> </p>
-</details> &nbsp; 
+</details> &nbsp; <br>
 
 
-####
+<br>
 
 **When France Sneezes, Does Europe Catch Cold? The Dynamics of Temporal and Spatial Diffusion of Political Protests.** 2022. with [Jeffrey Nonnemacher](https://www.jeffreynonnemacher.com/)
 
 <details><summary>Abstract</summary><p>Are protests contained to their specific space and time or do they have the ability to spread across borders and in the future? This question has interested scholars of social movements and political behavior for decades but the literature provides a mixed picture on whether protests diffuse throughout time and space. Using protest event analysis and novel spatiotemporal autoregressive distributed lag (STADL) models designed to capture both temporal and spatial dependence in the same model, we find significant dependencies across both time and space. Protests in one time period shape the onset of protests in the future and protests in one country increase protests in a neighboring country. These results help us understand the dynamics of protest diffusion and have important implications for the study of political behavior and social movements.</p>
 </details> &nbsp; 
 <details><summary><a href=https://www.dropbox.com/scl/fi/5u6nwusqlv0rc7a2n8x1y/Protest.pdf?raw=1&rlkey=gyuh6wka3alfbjd9qhnagczye>Research Note Draft</a> </summary><p> </p>
-</details> &nbsp; 
+</details> &nbsp; <br>
 
 
 
+<br>
 
 ## Work in progress 
 
 
 
 
-####
+
 
 **You Can't Stop It If You Can't See It: Introducing a New Scalable System to Measure Populist Narratives at Higher Resolution.** 2022. with  [Bree Bang-Jensen](https://www.breebangjensen.com/) and [Michael Colaresi](https://michaelcolaresi.com/)
 
 <details><summary>Abstract</summary><p>The rise of populism across democracies is one of the greatest challenges to the existing world order since World War II. Yet, we only have very limited tools to measure populism within and across countries. Existing approaches rely on human coding, expert surveys, or diction ary-based analysis and suffer from high costs, low comparability, or low validity. To help overcome these limitations, we offer a new middle ground strategy between the expensive but rich qualitative reading of populist language and the cheaper, but coarsest machine coding of sets of texts. We extend the Parsing Unstructured Language into Sentiment-Aspect Representations (PULSAR) project to identify specific sentences and paragraphs as carrying populist narratives. We parse ``us'' versus ``them'' frames, as well as who is determined by the speaker as protecting or threatening ``the people''. We also code common aspects of political speeches such as agreement, opposition, and judgment holder that are not populist-specific. Our system uniquely matches the ``thin-centered'' definition of populism, such that not all utterances from parties ascribed to a populist worldview will carry populist content. To illustrate our contribution, we train our model using recent US Presidential campaig n speeches. Our method has important implications for studying populism's rise worldwide, it’s common patterns and local distinctiveness, especially for countries where researchers cannot afford costly systems.</p>
-</details> &nbsp; 
+</details> &nbsp; <br>
 
 
 
-####
+<br>
 
 **Love of Variety? Heterogeneous Responses to Foreign Goods in the Marketplace.** 2022. with [Jude C. Hays](https://sites.pitt.edu/~jch61/) and [Junghyun Lim](https://junghyunlim.github.io/) (presented at University of Strathclyde 2022, the Hamburg Empirical Political Science Seminar Series 2022, MPSA  2023, U Penn-Pitt Workshop 2023) 
 
@@ -227,18 +229,18 @@ details > p {
 <details><summary><a href=https://osf.io/y8nrm>Pre-Analysis Plan</a> </summary><p> </p>
 </details> &nbsp; 
 <details><summary><a href=https://www.dropbox.com/scl/fi/9cnrq5j1yo3kos8vlmp4r/MPSA_LoV.pdf?rlkey=gv9zxmps90mlbkolkc0asgwvu&raw=1>Slides</a> </summary><p> </p>
-</details> &nbsp; 
+</details> &nbsp; <br>
 
-####
+<br>
 
 **Campaign Contributions and Economic Inequality in the United States.** 2022. with [Jude C. Hays](https://sites.pitt.edu/~jch61/) (presented at Vienna University 2022)
 
 <details><summary>Abstract</summary><p>Research on the political consequences of economic inequality focuses almost exclusively on relative inequality, using measures such as percentile ratios and gini coefficients for empirical analysis. Measures of relative inequality facilitate empirical comparison across space and time, but they do not always match theories that connect economic and political inequality. We demonstrate with a simple theoretical model that proportionate increases in income, gains that preserve levels of relative inequality in the population but increase levels of absolute inequality, generate greater inequality in campaign contributions from the poor and rich. Using data from U.S. Congressional Districts, we show empirically that greater levels of absolute inequality, rather than relative inequality, are in fact associated with larger differences in the rate at which rich and poor constituents make campaign contributions.</p>
-</details> &nbsp; 
+</details> &nbsp; <br>
 
 
 
-
+<br>
 
 ## Before being a PhD Student
 
@@ -246,12 +248,12 @@ details > p {
 **Unevenly Distribution of Minimum Wage Effects Across Firms: 	Does Firms' Size Matters?** 2021. (presented at LASA 2021)
 
 <details><summary>Abstract</summary><p>Political economists have explored the implications of firm heterogeneity for trade politics, but existing studies do not explain how the effects of labor politics distribute across firms. This paper contributes by analyzing the impact of wage bargaining by firm size. It empirically tests theoretical expectations about the uneven distribution of effects by looking at a drastic change in labor market policies in Uruguay, where the government instituted coordinated wage bargaining and a minimum wage (MW) increase, causing a regulatory shock for all firms. However, small firms were more exposed to the MW increase than their large counterparts. Adopting a Fuzzy-DID approach, I demonstrate that small firms were less able to increase wages, faced higher formalization costs, and lost the most skilled workers. These findings have important implications for understanding wage bargaining politics and firm heterogeneity in developing countries, which I discuss.</p>
-</details> &nbsp; 
+</details> &nbsp; <br>
 
 
 
 
-####
+<br>
 
 **Logros sindicales y relaciones de poder: el caso del SUNCA, Uruguay 2005 – 2014.** 2017. (presented at XVI Jornadas de Investigación : la excepcionalidad uruguaya en debate: ¿como el Uruguay no hay?)
 
