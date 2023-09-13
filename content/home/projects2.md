@@ -139,6 +139,7 @@ details > p {
 </details> &nbsp; <br>
 
 <br>
+
 ## Publication 
 
 **Legislators’ Religiosity and Same-Sex Marriage in Latin America.** 2023 with [Scott Morgenstern](https://smorgens.wixsite.com/website) _(Forthcoming at Latin American Research Review - LARR)_ 
