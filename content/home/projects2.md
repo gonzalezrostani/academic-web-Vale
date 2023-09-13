@@ -115,6 +115,8 @@ details > p {
 <details><summary><a href=https://www.dropbox.com/scl/fi/1x0itrjpb4u9z8g7i6zcu/Revised_ms.pdf?rlkey=bmqsg5beltmvf7o6tynd4zgqj&raw=1>Manuscript</a> </summary><p> </p>
 </details> &nbsp;  
 
+##### 
+
 **The path from Automation to Populist Political Behavior.** 2023. (presented at APSA 2022, IPES 2022, EUSA2023, EPSA 2023, PolMeth XL, and to be presented at APSA 2023)
 
 <details><summary>Abstract</summary><p>I investigate the impact of automation exposure on political behavior in post-industrial societies, with a specific focus on the support for populism. I examine the potential causal mechanisms by exploring the interplay between economic and cultural factors. Through a parallel encouragement design survey experiment conducted in the US, I divide the sample into two groups: one group is randomly assigned to the treatment condition either related to exposure to robots and AI replacing jobs or a control condition related to technological development; the other group experiences manipulation of both the treatment and the encouragement of mediators (marginalization and nostalgia). My findings reveal that feelings of marginalization and nostalgia mediate the effects of technological change on support for populism and illiberal policies. To enhance external validity, I implement mediation analysis using survey data from the European Social Survey from 2012 to 2016. The results help us understand how structural changes in labor markets and cultural factors impact political behavior and inequality.</p>
