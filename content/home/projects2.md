@@ -106,7 +106,7 @@ details > p {
 </style>
 
 
-### Dissertation 
+## **Dissertation** 
 
 **Elections, Right-wing Populism, and Political-Economic Polarization:  The Role of Institutions and Political Outsiders.** 2022.  (Revised and Resubmitted at the _Journal of Politics - JOP_)
 
