@@ -262,3 +262,10 @@ details > p {
 </details> &nbsp; 
 <details><summary><a href=https://www.colibri.udelar.edu.uy/jspui/handle/20.500.12008/10784>Article</a> </summary><p> </p>
 </details> &nbsp; 
+
+## **Diffussion**
+
+[La noche de la nostalgia](http://www.razonesypersonas.com/2023/10/la-noche-de-la-nostalgia.html) (The night of nostalgia), October 12, 2023. Published at Razones y Personas (with Creative Commons Attribution 3.0 Unported License). 
+
+[Todo robot es político!](http://www.razonesypersonas.com/2022/06/todo-robot-es-politico.html) (Every robot is political!), June 16, 2022. Published at Razones y Personas (with Creative Commons Attribution 3.0 Unported License)
+
