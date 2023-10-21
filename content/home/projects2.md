@@ -167,6 +167,17 @@ details > p {
 
 <br>
 
+
+**How Germane are Moral and Economic Policies to Ideology? Evidence from Latin American Legislators** 2023. with [Elias Chavarria](https://chavarriamora.com/), Chuang Chen, and [Scott Morgenstern](https://smorgens.wixsite.com/website) (presented at LASA 2023, Universidad de Salamanca 2023, and CPRG-Pitt, Under Review)
+
+<details><summary>Abstract</summary><p>Many legislators do not have consistently progressive or conservative policy positions. How does the mix of issue positions relate to the manner in which the legislators consider their placement on the left-right ideological scale? Analyzing data from the Parliamentary Elites in Latin America (PELA) survey, this paper counterposes combinations of legislators’ moral and economic policy positions with their self-located ideological score. Our results confirm the importance of economics, which is consistent with older studies, but we also find that moral issues are at least consistent with – and perhaps germane– to the left-right placement of many of the region’s legislators. Among the findings are that the left is more heterogeneous, especially with respect to moral views, than is the right. We also show that many centrists are closeted conservatives, supporting the “ashamed right” thesis.</p>
+</details> &nbsp; 
+<details><summary><a href=https://www.dropbox.com/scl/fi/kanubrhwebc2qqat7nlj6/Chavarr-aMora_Chen_GonzalezRostani_Morgenstern-1.pdf?rlkey=tmike90pwjhagcgblwnqyzl30&raw=1</a> </summary><p> </p>
+</details> &nbsp; <br>
+
+
+<br>
+
 **Political Agenda Shaping and Differentiation in Response to Unprecedented Shocks: The Venezuelan Migration Crisis.** 2023. with [Jose Luis Incio](https://joseincio.com/) and [Guillermo Lezama](https://guillelezama.netlify.app/) (presented at Universidad de Salamanca 2023, PUCP 2023, and UCU 2023) 
 
 <details><summary>Abstract</summary><p>This study examines how political parties respond to an unprecedented shock that dramatically changes the importance of a particular issue on their agendas. We investigate whether political parties develop distinct policy agendas in an area that previously received minimal attention but, due to the shock, becomes one of the primary concerns among the public. The study analyzes the Venezuelan crisis, which has resulted in a significant influx of over 6.1 million immigrants to Latin American countries unaccustomed to such flows, posing a unique challenge. Using computational text-analysis methods applied to a corpus of over 3 million tweets from Chilean and Peruvian parliament members between 2013 and 2021, our findings demonstrate that all party families increase the salience of the immigration issue without remarkable differences. Additionally, within the context of this issue, no party family claims exclusive ownership of matters related to immigrants' identity or country of origin (such as Venezuela), crime, or employment concerns. Instead, parties differentiate, employing distinct vocabularies aligned with their ideologies, and emphasizing different aspects. These findings have significant implications for understanding the transformative power of unexpected events that emerge as new topics on the political agenda, particularly within the context of the emerging phenomenon of South-South migration.</p> </details> &nbsp; 
@@ -186,15 +197,6 @@ details > p {
 
 <br>
 
-**Moral and Economic Dimensions of Partisanship: Evidence from Latin American Political Elites.** 2023. with [Elias Chavarria](https://chavarriamora.com/), Chuang Chen, and [Scott Morgenstern](https://smorgens.wixsite.com/website) (presented at LASA 2023, Universidad de Salamanca 2023, and CPRG-Pitt)
-
-<details><summary>Abstract</summary><p>While most Latin American parties traditionally formed around issues of class and economics, moral issues, such as abortion and same-sex marriage, have gained salience. Since they are both new and salient, they are forcing legislators (as well as voters and other political actors) to re-think their ideological identification.  In this paper we use  the PELA survey of Latin American legislators to evaluate the correlation between ideology and moral and economic issues, with a focus on legislators who hold progressive views on one type of issue but conservative views on the other. Among our findings is that the left tolerates more diversity in opinions, and that many who hold rightist policy positions self-identify as centrists. This supports the ashamed right hypothesis, and largely discounts the idea that there is an “embarrassed left.”  Our findings also imply that the new social issues (we focus on abortion) do impact legislators’ ideological self positioning, in spite of previous studies that find that economics drives ideology in the region.</p>
-</details> &nbsp; 
-<details><summary><a href=https://www.dropbox.com/scl/fi/j6gfgaxp0o1i6yo6lult1/Chavarr-aMora_Chen_GonzalezRostani_Morgenstern-1.pdf?raw=1&rlkey=jwxrksqg46up12w6z7bcncdzo>Manuscript</a> </summary><p> </p>
-</details> &nbsp; <br>
-
-
-<br>
 
 **When France Sneezes, Does Europe Catch Cold? The Dynamics of Temporal and Spatial Diffusion of Political Protests.** 2022. with [Jeffrey Nonnemacher](https://www.jeffreynonnemacher.com/)
 
