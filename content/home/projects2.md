@@ -125,7 +125,7 @@ details > p {
 </details> &nbsp; 
 <details><summary><a href=https://www.dropbox.com/scl/fi/8pn35fxqb3wl6yx1ur1hj/Polmeth_VG.pdf?rlkey=h064fyaroqgvkgp73czlw1xr8&raw=1>Poster</a> </summary><p> </p>
 </details> &nbsp; 
-<details><summary><a href=https://www.dropbox.com/scl/fi/0g6wo4lwac6ldk42gr0mw/APSA_Automation_Culture.pdf?rlkey=ecck0pxx7v4hb6wjsgs3s9ww6&raw=1>Manuscript</a> </summary><p> </p>
+<details><summary><a https://www.dropbox.com/scl/fi/iak5nhnxda3ktu764nm6v/APSA_Automation_Culture.pdf?rlkey=v138tu259ghqvmi21yydm07gl&raw=1>Manuscript</a> </summary><p> </p>
 </details> &nbsp; <br>
 
 
