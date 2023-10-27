@@ -18,9 +18,15 @@ Install package:
 
     library(devtools); devtools::install_github("judechays/STADL", dependencies = TRUE)
 
-### Other projects
+### Other projects/tools
 
 Hi! Here you can find some side projects of things that I have learned, and as I enjoyed learning them, I also enjoy sharing them. Most of them are for "beginners," but it is always good to have a nice starting point. I will be updating as I systematize some of my work. I hope you find it helpful. 
+
+#### Presentation Tips
+
+Presentation skills should be developed, and it is crucial to strategize the most effective way to convey our research in advance. Below, you will find a series of recommendations formulated specifically for the final paper presentation at the MPE Summer Methods Camp. I hope you find them useful.
+
+[See material](https://www.dropbox.com/scl/fi/k51kpz2rfdb3cbzoonjji/MPE-Final-Presentation-Guide.pdf?rlkey=bz9iowcrd0snnl2oj88j82c58&raw=1)
 
 #### Latex Tips  
 [See my repo](https://github.com/gonzalezrostani/Latex-Tips), and [Overleaf](https://www.overleaf.com/read/rrdfvjbpfyrq)
