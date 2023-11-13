@@ -112,7 +112,7 @@ details > p {
 
 <details><summary>Abstract</summary><p>While there is little doubt that technological change is generating labor market polarization around the world, we know much less about its translation into partisan polarization. I explore the political polarization driven by the rise of right-wing populist parties and leaders throughout developed democracies. I build a theoretical model to explain how right-wing populists have attracted the votes of routine workers, workers exposed to automation risk, and previously loyal to mainstream left-wing parties, within both majoritarian multi-district and multiparty proportional systems. I empirically evaluate the theory, focusing primarily on the US and Germany, using individual vote-switching data and campaign targeting strategies inferred from the content of political speeches and party manifestos.</p>
 </details> &nbsp; 
-<details><summary><a href=https://www.dropbox.com/scl/fi/1x0itrjpb4u9z8g7i6zcu/Revised_ms.pdf?rlkey=bmqsg5beltmvf7o6tynd4zgqj&raw=1>Manuscript</a> </summary><p> </p>
+<details><summary><a href=https://gonzalez-rostani.com/img/Papers/Revised_ms.pdf>Manuscript</a> </summary><p> </p>
 </details> &nbsp;<br>  
 
 <br>
@@ -123,9 +123,9 @@ details > p {
 </details> &nbsp; 
 <details><summary><a href=https://osf.io/3kdpq>Pre-Analysis Plan</a> </summary><p> </p>
 </details> &nbsp; 
-<details><summary><a href=https://www.dropbox.com/scl/fi/8pn35fxqb3wl6yx1ur1hj/Polmeth_VG.pdf?rlkey=h064fyaroqgvkgp73czlw1xr8&raw=1>Poster</a> </summary><p> </p>
+<details><summary><a href=https://gonzalez-rostani.com/img/Papers/Polmeth_VG.pdf>Poster</a> </summary><p> </p>
 </details> &nbsp; 
-<details><summary><a href=https://www.dropbox.com/scl/fi/iak5nhnxda3ktu764nm6v/APSA_Automation_Culture.pdf?rlkey=v138tu259ghqvmi21yydm07gl&raw=1>Manuscript</a> </summary><p> </p>
+<details><summary><a href=https://gonzalez-rostani.com/img/Papers/APSA_Automation_Culture.pdf>Manuscript</a> </summary><p> </p>
 </details> &nbsp; <br>
 
 
@@ -133,9 +133,9 @@ details > p {
 
 **Engaged Robots, and Disengaged Workers: Automation and Political Apathy.** 2022. (presented at MPSA 2022, EUSA 2022, CPRG-Pitt 2023)
 
-<details><summary>Abstract</summary><p>  This paper investigages the impact of the fourth industrial revolution on politics by proposing a theoretical framework linking technological change with political apathy. Using hierarchical logistic modeling with varying intercepts by country and survey data from the European Social Survey from 2002 to 2018 for 23 European countries, I present evidence that individuals more exposed to technological change are less likely to feel close to a political party, participate in elections and take part in protests. Those individuals exposed to automation are about 10% less likely to be politically engaged than those respondents without exposure to automation risks. I also demonstrate that income levels and unionization rates substantially moderate the direct link between automation and political engagement. The impact of automation on political engagement is smaller among wealthier citizens and in highly unionized environment. The political message from these interaction effects speaks about the reinforcing forces between economic inequality and automation and the role of collective organization. My findings have important implications for understanding automation politics, political inequality, and the demand (or lack of) for protection. </p>
+<details><summary>Abstract</summary><p>  This paper investigates the impact of the fourth industrial revolution on politics by proposing a theoretical framework linking technological change with political apathy. Using hierarchical logistic modeling with varying intercepts by country and survey data from the European Social Survey from 2002 to 2018 for 23 European countries, I present evidence that individuals more exposed to technological change are less likely to feel close to a political party, participate in elections and take part in protests. Those individuals exposed to automation are about 10% less likely to be politically engaged than those respondents without exposure to automation risks. I also demonstrate that income levels and unionization rates substantially moderate the direct link between automation and political engagement. The impact of automation on political engagement is smaller among wealthier citizens and in highly unionized environment. The political message from these interaction effects speaks about the reinforcing forces between economic inequality and automation and the role of collective organization. My findings have important implications for understanding automation politics, political inequality, and the demand (or lack of) for protection. </p>
 </details> &nbsp; 
-<details><summary><a href=https://www.dropbox.com/scl/fi/wa2svc1bygw000r42o3ch/IPE_Automation__Rev_.pdf?rlkey=u6vm6f1ri05lma5nr4fq48pnp&raw=1>Manuscript</a> </summary><p> </p>
+<details><summary><a href=https://gonzalez-rostani.com/img/Papers/IPE_Automation__Rev_.pdf>Manuscript</a> </summary><p> </p>
 </details> &nbsp; <br>
 
 <br>
@@ -172,7 +172,7 @@ details > p {
 
 <details><summary>Abstract</summary><p>Many legislators do not have consistently progressive or conservative policy positions. How does the mix of issue positions relate to the manner in which the legislators consider their placement on the left-right ideological scale? Analyzing data from the Parliamentary Elites in Latin America (PELA) survey, this paper counterposes combinations of legislators’ moral and economic policy positions with their self-located ideological score. Our results confirm the importance of economics, which is consistent with older studies, but we also find that moral issues are at least consistent with – and perhaps germane– to the left-right placement of many of the region’s legislators. Among the findings are that the left is more heterogeneous, especially with respect to moral views, than is the right. We also show that many centrists are closeted conservatives, supporting the “ashamed right” thesis.</p>
 </details> &nbsp; 
-<details><summary><a href=https://www.dropbox.com/scl/fi/kanubrhwebc2qqat7nlj6/Chavarr-aMora_Chen_GonzalezRostani_Morgenstern-1.pdf?rlkey=tmike90pwjhagcgblwnqyzl30&raw=1>Manuscript</a> </summary><p> </p>
+<details><summary><a href=https://gonzalez-rostani.com/img/Papers/Chavarr-aMora_Chen_GonzalezRostani_Morgenstern-1.pdf>Manuscript</a> </summary><p> </p>
 </details> &nbsp; <br>
 
 
@@ -181,7 +181,7 @@ details > p {
 **Political Agenda Shaping and Differentiation in Response to Unprecedented Shocks: The Venezuelan Migration Crisis.** 2023. with [Jose Luis Incio](https://joseincio.com/) and [Guillermo Lezama](https://guillelezama.netlify.app/) (presented at Universidad de Salamanca 2023, PUCP 2023, and UCU 2023) 
 
 <details><summary>Abstract</summary><p>This study examines how political parties respond to an unprecedented shock that dramatically changes the importance of a particular issue on their agendas. We investigate whether political parties develop distinct policy agendas in an area that previously received minimal attention but, due to the shock, becomes one of the primary concerns among the public. The study analyzes the Venezuelan crisis, which has resulted in a significant influx of over 6.1 million immigrants to Latin American countries unaccustomed to such flows, posing a unique challenge. Using computational text-analysis methods applied to a corpus of over 3 million tweets from Chilean and Peruvian parliament members between 2013 and 2021, our findings demonstrate that all party families increase the salience of the immigration issue without remarkable differences. Additionally, within the context of this issue, no party family claims exclusive ownership of matters related to immigrants' identity or country of origin (such as Venezuela), crime, or employment concerns. Instead, parties differentiate, employing distinct vocabularies aligned with their ideologies, and emphasizing different aspects. These findings have significant implications for understanding the transformative power of unexpected events that emerge as new topics on the political agenda, particularly within the context of the emerging phenomenon of South-South migration.</p> </details> &nbsp; 
-<details><summary><a href=https://www.dropbox.com/scl/fi/21ptwextg6d3bkrxpp25q/Immigration.pdf?raw=1&rlkey=h04pr9r8jnd4rq8tnco9757z6>Manuscript</a> </summary><p> </p>
+<details><summary><a href=https://gonzalez-rostani.com/img/Papers/Immigration.pdf>Manuscript</a> </summary><p> </p>
 </details> &nbsp; <br>
 
 
@@ -211,7 +211,7 @@ details > p {
 
 <details><summary>Abstract</summary><p>Are protests contained to their specific space and time or do they have the ability to spread across borders and in the future? This question has interested scholars of social movements and political behavior for decades but the literature provides a mixed picture on whether protests diffuse throughout time and space. Using protest event analysis and novel spatiotemporal autoregressive distributed lag (STADL) models designed to capture both temporal and spatial dependence in the same model, we find significant dependencies across both time and space. Protests in one time period shape the onset of protests in the future and protests in one country increase protests in a neighboring country. These results help us understand the dynamics of protest diffusion and have important implications for the study of political behavior and social movements.</p>
 </details> &nbsp; 
-<details><summary><a href=https://www.dropbox.com/scl/fi/5u6nwusqlv0rc7a2n8x1y/Protest.pdf?raw=1&rlkey=gyuh6wka3alfbjd9qhnagczye>Research Note Draft</a> </summary><p> </p>
+<details><summary><a href=https://gonzalez-rostani.com/img/Papers/Protest.pdf>Research Note Draft</a> </summary><p> </p>
 </details> &nbsp; <br>
 
 
