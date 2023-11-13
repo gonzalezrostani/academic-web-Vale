@@ -54,7 +54,7 @@ social:
   link: https://scholar.google.com/citations?user=zR40PGgAAAAJ&hl=en
 - icon: cv
   icon_pack: ai
-  link: https://www.dropbox.com/scl/fi/tugddy5c4nxfvdszxaknn/CV_GonzalezRostani.pdf?rlkey=2xoa5b180mjf2uc77c65ae90g&raw=1
+  link: https://gonzalez-rostani.com/img/Papers/CV_GonzalezRostani.pdf
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
