@@ -18,7 +18,7 @@ layout: docs  # Do not modify.
 
 # Lab Instructor & Mentor 
 
-**Mobilization and Political Economy [MPE](https://www.migapprogram.com/), NSF Summer Research Program**
+**Mobilization and Political Economy [MPE](https://www.migapprogram.com/), NSF-REU Summer Research Program**
 
 * Method Camp to place students from underrepresented backgrounds in graduate social science programs.
 * Summer 2023
