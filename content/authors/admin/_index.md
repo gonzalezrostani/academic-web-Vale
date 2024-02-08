@@ -72,7 +72,7 @@ user_groups:
 - Visitors
 ---
 
-I’m a Ph.D. candidate at the University of Pittsburgh and I will be an Andrew W. Mellon Predoctoral Fellow in 2023-2024. 
+I'm a Ph.D. candidate at the University of Pittsburgh and an Andrew W. Mellon Predoctoral Fellow (2023-2024). I will be a Post-Doctoral Research Associate at the Bobst Center for Peace and Justice, Princeton University (2024-2025). In Fall 2025, I will join the University of Southern California's (USC) POIR Department as an Assistant Professor.
 
 My main research interests lie at the intersection of international political economy and comparative politics. My dissertation explores the consequences of technological change on individual political behavior and the evolution of party systems. I study the interplay between economic, cultural, and institutional factors using a mixed-methods approach that combines quantitative analysis, text as data, survey experiment, and formal modeling. I am also interested in international trade, inequality, automation’s effects on climate policy, and political methodology.
 
