@@ -140,6 +140,14 @@ details > p {
 
 <br>
 
+**Who Influences Whom? Analyzing the Interplay of Mainstream and Outsider Parties in Social Media Campaigns.** 2024
+
+<details><summary>Abstract</summary><p>Do mainstream parties respond to outsider parties, or vice versa? Previous research suggests an alignment between the issues prioritized by both mainstream and outsider parties, but definitive evidence on who influences whom is limited. I investigate this with fine-grained temporal analyses of YouTube videos posted by political parties in the year leading up to elections since 2015 in the UK and Spain. Using dictionaries, Wordscores, and transformer-based models, I classify the content by issues and communication characteristics, such as whether a message is populist or extreme. I then apply vector autoregression models to explore short-term dynamics of rhetorical influence. In the UK, a majoritarian system, mainstream right and left parties respond to each other, while the outsider right follows mainstream parties. In Spain, a multi-party system, mainstream parties influence each other, and outsider parties influence the mainstream left and each other. More importantly, in both systems, mainstream parties more often lead than follow outsiders' messages. These findings have important implications for understanding party dynamics and competition during electoral campaigns.</p>
+</details> &nbsp; <br>
+
+
+<be>
+
 ## **Publications** 
 
 
