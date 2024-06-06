@@ -142,6 +142,18 @@ details > p {
 
 ## **Publication** 
 
+
+**How Germane are Moral and Economic Policies to Ideology? Evidence from Latin American Legislators** 2024. with [Elias Chavarria](https://chavarriamora.com/), Chuang Chen, and [Scott Morgenstern](https://smorgens.wixsite.com/website) (Conditionally accepted at Legislative Studies Quarterly)
+
+<details><summary>Abstract</summary><p>Many legislators do not have consistently progressive or conservative policy positions. How does the mix of issue positions relate to the manner in which the legislators consider their placement on the left-right ideological scale? Analyzing data from the Parliamentary Elites in Latin America (PELA) survey, this paper counterposes combinations of legislators’ moral and economic policy positions with their self-located ideological score. Our results confirm the importance of economics, which is consistent with older studies, but we also find that moral issues are at least consistent with – and perhaps germane– to the left-right placement of many of the region’s legislators. Among the findings are that the left is more heterogeneous, especially with respect to moral views, than is the right. We also show that many centrists are closeted conservatives, supporting the “ashamed right” thesis.</p>
+</details> &nbsp; 
+<details><summary><a href=https://gonzalez-rostani.com/img/Papers/Chavarr%C3%ADaMora_Chen_GonzalezRostani_Morgenstern%20(1).pdf>Manuscript</a> </summary><p> </p>
+</details> &nbsp; <br>
+
+<be>
+
+
+
 **Legislators’ Religiosity and Same-Sex Marriage in Latin America.** 2023 with [Scott Morgenstern](https://smorgens.wixsite.com/website) _(Forthcoming at Latin American Research Review - LARR)_ 
 
 <details><summary>Abstract</summary><p>Same-sex marriage (SSM) has risen to the top of political agendas across Latin America, but there is also great variance in terms of legal status,  public support, and the policymaking processes.  While the public and social movements have been critical to the advance of SSM, we know little about the views of  those who are directly charged with translating public views into policy: the legislators.  To fill this gap, we utilize a survey of the region’s legislators to first examine the range in support among countries and show how it correlates with legal changes.  We then examine the correlates of legislators’ support for SSM.  While we also test  gender, age, and ideology, our multivariate models focus on religiosity.  We show that in addition to driving support at the  individual level (in the expected direction), religiosity also works as a contextual variable such that having more secular colleagues encourages pious legislators to support same-sex marriage.</p>
@@ -167,15 +179,6 @@ details > p {
 
 <br>
 
-
-**How Germane are Moral and Economic Policies to Ideology? Evidence from Latin American Legislators** 2023. with [Elias Chavarria](https://chavarriamora.com/), Chuang Chen, and [Scott Morgenstern](https://smorgens.wixsite.com/website) (presented at LASA 2023, Universidad de Salamanca 2023, and CPRG-Pitt, R&R)
-
-<details><summary>Abstract</summary><p>Many legislators do not have consistently progressive or conservative policy positions. How does the mix of issue positions relate to the manner in which the legislators consider their placement on the left-right ideological scale? Analyzing data from the Parliamentary Elites in Latin America (PELA) survey, this paper counterposes combinations of legislators’ moral and economic policy positions with their self-located ideological score. Our results confirm the importance of economics, which is consistent with older studies, but we also find that moral issues are at least consistent with – and perhaps germane– to the left-right placement of many of the region’s legislators. Among the findings are that the left is more heterogeneous, especially with respect to moral views, than is the right. We also show that many centrists are closeted conservatives, supporting the “ashamed right” thesis.</p>
-</details> &nbsp; 
-<details><summary><a href=https://gonzalez-rostani.com/img/Papers/Chavarr%C3%ADaMora_Chen_GonzalezRostani_Morgenstern%20(1).pdf>Manuscript</a> </summary><p> </p>
-</details> &nbsp; <br>
-
-<br>
 
 **Social Media vs. Surveys: A New Scalable Approach to Understanding Political Discourse.** 2023. with [Jose Luis Incio](https://joseincio.com/) and [Guillermo Lezama](https://guillelezama.netlify.app/) (APSA 2024, R&R)
 
