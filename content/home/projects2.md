@@ -140,7 +140,7 @@ details > p {
 
 <br>
 
-## **Publication** 
+## **Publications** 
 
 
 **How Germane are Moral and Economic Policies to Ideology? Evidence from Latin American Legislators** 2024. with [Elias Chavarria](https://chavarriamora.com/), Chuang Chen, and [Scott Morgenstern](https://smorgens.wixsite.com/website) (Conditionally accepted at Legislative Studies Quarterly)
@@ -150,7 +150,7 @@ details > p {
 <details><summary><a href=https://gonzalez-rostani.com/img/Papers/Chavarr%C3%ADaMora_Chen_GonzalezRostani_Morgenstern%20(1).pdf>Manuscript</a> </summary><p> </p>
 </details> &nbsp; <br>
 
-<be>
+<br>
 
 
 
