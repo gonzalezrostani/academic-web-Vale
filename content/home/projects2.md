@@ -227,8 +227,18 @@ details > p {
 </details> &nbsp; <br>
 
 
+<br>
+
+
+**Engaging Diversity: An Inclusive Approach to Undergraduate Mentorship in Mobilization and Political Economy** with [Chie Togami](https://chietogami.com/), [Mariely Lopez-Santana](https://marielylopezsantana.weebly.com/), Tania Ramirez, [Fernando Tormos-Aponte](https://www.fernandotormos.com/), and Mayra Velez-Serrano.
+
+<details><summary>Abstract</summary><p>The political science discipline faces significant disparities in the representation and participation of underrepresented minorities in graduate education. This lack of diversity among political scientists results in a narrower range of questions being explored within the field. Furthermore, the underrepresentation is particularly pronounced in the political methodology subfield, limiting the scope of tools and perspectives to those predominantly shaped by white scholars. This article proposes a template for teaching and mentoring undergraduate students from underrepresented backgrounds to enhance their opportunities in graduate programs. We examine the Mobilization and Political Economy program, a summer research initiative aimed at minority-serving institutions and underrepresented minorities, designed to equip participants with the tools to study social movements, political mobilization, and structural inequality.</p>
+</details> &nbsp; 
+<details><summary><a href=https://gonzalez-rostani.com/img/Papers/Article1_MPE.pdf>Manuscript</a> </summary><p> </p>
+</details> &nbsp; <br>
 
 <br>
+
 
 ## **Work in progress** 
 
@@ -285,6 +295,11 @@ details > p {
 </details> &nbsp; 
 <details><summary><a href=https://www.colibri.udelar.edu.uy/jspui/handle/20.500.12008/10784>Article</a> </summary><p> </p>
 </details> &nbsp; 
+
+<br>
+
+
+**Inaugural Experience: Mobilization and Political Economy** with [Chie Togami](https://chietogami.com/), [Mariely Lopez-Santana](https://marielylopezsantana.weebly.com/), Tania Ramirez, [Fernando Tormos-Aponte](https://www.fernandotormos.com/), and Mayra Velez-Serrano.
 
 <br>
 
