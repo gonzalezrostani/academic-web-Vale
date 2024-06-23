@@ -276,6 +276,10 @@ details > p {
 
 <br>
 
+**Inaugural Experience: Mobilization and Political Economy** with [Chie Togami](https://chietogami.com/), [Mariely Lopez-Santana](https://marielylopezsantana.weebly.com/), Tania Ramirez, [Fernando Tormos-Aponte](https://www.fernandotormos.com/), and Mayra Velez-Serrano. <br>
+
+<br>
+
 ## **Before being a PhD Student**
 
 
@@ -299,9 +303,7 @@ details > p {
 <br>
 
 
-**Inaugural Experience: Mobilization and Political Economy** with [Chie Togami](https://chietogami.com/), [Mariely Lopez-Santana](https://marielylopezsantana.weebly.com/), Tania Ramirez, [Fernando Tormos-Aponte](https://www.fernandotormos.com/), and Mayra Velez-Serrano.
 
-<br>
 
 ## **Diffusion**
 
