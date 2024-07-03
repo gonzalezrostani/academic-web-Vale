@@ -131,7 +131,7 @@ details > p {
 
 <br>
 
-**Engaged Robots, and Disengaged Workers: Automation and Political Apathy.** 2022. (presented at MPSA 2022, EUSA 2022, CPRG-Pitt 2023, R&R)
+**Engaged Robots, and Disengaged Workers: Automation and Political Apathy.** 2024. _(Accepted for publication at Economics & Politics)_
 
 <details><summary>Abstract</summary><p>  This paper investigates the impact of the fourth industrial revolution on politics by proposing a theoretical framework linking technological change with political apathy. Using hierarchical logistic modeling with varying intercepts by country and survey data from the European Social Survey from 2002 to 2018 for 23 European countries, I present evidence that individuals more exposed to technological change are less likely to feel close to a political party, participate in elections and take part in protests. Those individuals exposed to automation are about 10% less likely to be politically engaged than those respondents without exposure to automation risks. I also demonstrate that income levels and unionization rates substantially moderate the direct link between automation and political engagement. The impact of automation on political engagement is smaller among wealthier citizens and in highly unionized environment. The political message from these interaction effects speaks about the reinforcing forces between economic inequality and automation and the role of collective organization. My findings have important implications for understanding automation politics, political inequality, and the demand (or lack of) for protection. </p>
 </details> &nbsp; 
@@ -150,6 +150,16 @@ details > p {
 
 ## **Publications** 
 
+<br>
+
+**Engaged Robots, and Disengaged Workers: Automation and Political Apathy.** 2024. _(Accepted for publication at Economics & Politics)_
+
+<details><summary>Abstract</summary><p>  This paper investigates the impact of the fourth industrial revolution on politics by proposing a theoretical framework linking technological change with political apathy. Using hierarchical logistic modeling with varying intercepts by country and survey data from the European Social Survey from 2002 to 2018 for 23 European countries, I present evidence that individuals more exposed to technological change are less likely to feel close to a political party, participate in elections and take part in protests. Those individuals exposed to automation are about 10% less likely to be politically engaged than those respondents without exposure to automation risks. I also demonstrate that income levels and unionization rates substantially moderate the direct link between automation and political engagement. The impact of automation on political engagement is smaller among wealthier citizens and in highly unionized environment. The political message from these interaction effects speaks about the reinforcing forces between economic inequality and automation and the role of collective organization. My findings have important implications for understanding automation politics, political inequality, and the demand (or lack of) for protection. </p>
+</details> &nbsp; 
+<details><summary><a href=https://gonzalez-rostani.com/img/Papers/IPE_Automation__Rev_.pdf>Manuscript</a> </summary><p> </p>
+</details> &nbsp; <br>
+
+<br>
 
 **How Germane are Moral and Economic Policies to Ideology? Evidence from Latin American Legislators** 2024. with [Elias Chavarria](https://chavarriamora.com/), Chuang Chen, and [Scott Morgenstern](https://smorgens.wixsite.com/website) _(Conditionally accepted at Legislative Studies Quarterly)_
 
