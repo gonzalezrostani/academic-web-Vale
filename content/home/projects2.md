@@ -108,7 +108,7 @@ details > p {
 
 ## **Dissertation** 
 
-**Elections, Right-wing Populism, and Political-Economic Polarization:  The Role of Institutions and Political Outsiders.** 2022.  _(Conditionally accepted at the _Journal of Politics - JOP)_
+**Elections, Right-wing Populism, and Political-Economic Polarization:  The Role of Institutions and Political Outsiders.** 2022.  _(Conditionally accepted at the Journal of Politics - JOP)_
 
 <details><summary>Abstract</summary><p>While there is little doubt that technological change is generating labor market polarization around the world, we know much less about its translation into partisan polarization. I explore the political polarization driven by the rise of right-wing populist parties and leaders throughout developed democracies. I build a theoretical model to explain how right-wing populists have attracted the votes of routine workers, workers exposed to automation risk, and previously loyal to mainstream left-wing parties, within both majoritarian multi-district and multiparty proportional systems. I empirically evaluate the theory, focusing primarily on the US and Germany, using individual vote-switching data and campaign targeting strategies inferred from the content of political speeches and party manifestos.</p>
 </details> &nbsp; 
@@ -152,7 +152,7 @@ details > p {
 
 <br>
 
-**Elections, Right-wing Populism, and Political-Economic Polarization:  The Role of Institutions and Political Outsiders.** 2022.  _(Conditionally accepted at the _Journal of Politics - JOP)_
+**Elections, Right-wing Populism, and Political-Economic Polarization:  The Role of Institutions and Political Outsiders.** 2022.  _(Conditionally accepted at the Journal of Politics - JOP)_
 
 <details><summary>Abstract</summary><p>While there is little doubt that technological change is generating labor market polarization around the world, we know much less about its translation into partisan polarization. I explore the political polarization driven by the rise of right-wing populist parties and leaders throughout developed democracies. I build a theoretical model to explain how right-wing populists have attracted the votes of routine workers, workers exposed to automation risk, and previously loyal to mainstream left-wing parties, within both majoritarian multi-district and multiparty proportional systems. I empirically evaluate the theory, focusing primarily on the US and Germany, using individual vote-switching data and campaign targeting strategies inferred from the content of political speeches and party manifestos.</p>
 </details> &nbsp; 
