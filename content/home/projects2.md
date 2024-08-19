@@ -108,7 +108,7 @@ details > p {
 
 ## **Dissertation** 
 
-**Elections, Right-wing Populism, and Political-Economic Polarization:  The Role of Institutions and Political Outsiders.** 2022.  (Revised and Resubmitted at the _Journal of Politics - JOP_)
+**Elections, Right-wing Populism, and Political-Economic Polarization:  The Role of Institutions and Political Outsiders.** 2022.  _(Conditionally accepted at the _Journal of Politics - JOP)_
 
 <details><summary>Abstract</summary><p>While there is little doubt that technological change is generating labor market polarization around the world, we know much less about its translation into partisan polarization. I explore the political polarization driven by the rise of right-wing populist parties and leaders throughout developed democracies. I build a theoretical model to explain how right-wing populists have attracted the votes of routine workers, workers exposed to automation risk, and previously loyal to mainstream left-wing parties, within both majoritarian multi-district and multiparty proportional systems. I empirically evaluate the theory, focusing primarily on the US and Germany, using individual vote-switching data and campaign targeting strategies inferred from the content of political speeches and party manifestos.</p>
 </details> &nbsp; 
@@ -152,6 +152,16 @@ details > p {
 
 <br>
 
+**Elections, Right-wing Populism, and Political-Economic Polarization:  The Role of Institutions and Political Outsiders.** 2022.  _(Conditionally accepted at the _Journal of Politics - JOP)_
+
+<details><summary>Abstract</summary><p>While there is little doubt that technological change is generating labor market polarization around the world, we know much less about its translation into partisan polarization. I explore the political polarization driven by the rise of right-wing populist parties and leaders throughout developed democracies. I build a theoretical model to explain how right-wing populists have attracted the votes of routine workers, workers exposed to automation risk, and previously loyal to mainstream left-wing parties, within both majoritarian multi-district and multiparty proportional systems. I empirically evaluate the theory, focusing primarily on the US and Germany, using individual vote-switching data and campaign targeting strategies inferred from the content of political speeches and party manifestos.</p>
+</details> &nbsp; 
+<details><summary><a href=https://gonzalez-rostani.com/img/Papers/Revised_ms.pdf>Manuscript</a> </summary><p> </p>
+</details> &nbsp;<br>  
+
+
+<br>
+
 **Engaged Robots, and Disengaged Workers: Automation and Political Apathy.** 2024. _(Forthcoming at Economics & Politics)_
 
 <details><summary>Abstract</summary><p>  This paper investigates the impact of the fourth industrial revolution on politics by proposing a theoretical framework linking technological change with political apathy. Using hierarchical logistic modeling with varying intercepts by country and survey data from the European Social Survey from 2002 to 2018 for 23 European countries, I present evidence that individuals more exposed to technological change are less likely to feel close to a political party, participate in elections and take part in protests. Those individuals exposed to automation are about 10% less likely to be politically engaged than those respondents without exposure to automation risks. I also demonstrate that income levels and unionization rates substantially moderate the direct link between automation and political engagement. The impact of automation on political engagement is smaller among wealthier citizens and in highly unionized environment. The political message from these interaction effects speaks about the reinforcing forces between economic inequality and automation and the role of collective organization. My findings have important implications for understanding automation politics, political inequality, and the demand (or lack of) for protection. </p>
@@ -161,7 +171,7 @@ details > p {
 
 <br>
 
-**How Germane are Moral and Economic Policies to Ideology? Evidence from Latin American Legislators** 2024. with [Elias Chavarria](https://chavarriamora.com/), Chuang Chen, and [Scott Morgenstern](https://smorgens.wixsite.com/website) _(Conditionally accepted at Legislative Studies Quarterly)_
+**How Germane are Moral and Economic Policies to Ideology? Evidence from Latin American Legislators** 2024. with [Elias Chavarria](https://chavarriamora.com/), Chuang Chen, and [Scott Morgenstern](https://smorgens.wixsite.com/website) _(Forthcoming at Legislative Studies Quarterly)_
 
 <details><summary>Abstract</summary><p>Many legislators do not have consistently progressive or conservative policy positions. How does the mix of issue positions relate to the manner in which the legislators consider their placement on the left-right ideological scale? Analyzing data from the Parliamentary Elites in Latin America (PELA) survey, this paper counterposes combinations of legislators’ moral and economic policy positions with their self-located ideological score. Our results confirm the importance of economics, which is consistent with older studies, but we also find that moral issues are at least consistent with – and perhaps germane– to the left-right placement of many of the region’s legislators. Among the findings are that the left is more heterogeneous, especially with respect to moral views, than is the right. We also show that many centrists are closeted conservatives, supporting the “ashamed right” thesis.</p>
 </details> &nbsp; 
