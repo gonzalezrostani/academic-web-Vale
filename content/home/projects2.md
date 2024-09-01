@@ -215,6 +215,21 @@ details > p {
 <details><summary><a href=https://gonzalez-rostani.com/img/Papers/Pela_vs_Tweets.pdf>Manuscript</a> </summary><p> </p>
 </details> &nbsp; <br>
 
+
+<br>
+
+
+**Love of Variety? Heterogeneous Responses to Foreign Goods in the Marketplace.** 2022. with [Jude C. Hays](https://sites.pitt.edu/~jch61/) (presented at University of Strathclyde 2022, the Hamburg Empirical Political Science Seminar Series 2022, MPSA  2023, U Penn-Pitt Workshop 2023, APSA 2024) 
+
+<details><summary>Abstract</summary><p>This study investigates the influence of exposure to trade, especially foreign goods, on policy preferences and political behavior. Utilizing a novel survey experiment, we exposed respondents to varying market conditions, simulating a realistic consumption experience with well-known brands. Our findings reveal that exposure to foreign brands intensifies hostility towards immigrants, protectionism, and support for Trump among nationalists, while having no impact on cosmopolitans. Our results demonstrate that consumption in an increasingly diversified marketplace can drive a bottom-up process of trade policy polarization. Our study has significant implications for understanding the contemporary political backlash against economic globalization and standard models of international trade based on the ``love of variety."</p>
+</details> &nbsp; 
+<details><summary><a href=https://osf.io/y8nrm>Pre-Analysis Plan</a> </summary><p> </p>
+</details> &nbsp; 
+<details><summary><a href=https://gonzalez-rostani.com/img/Papers/APSA_LoV2.pdf>Slides</a> </summary><p> </p>
+</details> &nbsp;   
+<details><summary><a href=https://gonzalez-rostani.com/img/Papers/LoV_updated.pdf>Manuscript</a> </summary><p> </p>  
+</details> &nbsp; <br>
+
 <br>
 
 **Immigration Shocks and Politicians’ Rhetoric: Evidence from The Venezuelan Migration Crisis.** 2023. with [Jose Luis Incio](https://joseincio.com/) and [Guillermo Lezama](https://guillelezama.netlify.app/) (presented at Universidad de Salamanca 2023, PUCP 2023, UCU 2023, APSA 2024) 
@@ -273,17 +288,6 @@ details > p {
 </details> &nbsp; <br>
 
 
-
-<br>
-
-**Love of Variety? Heterogeneous Responses to Foreign Goods in the Marketplace.** 2022. with [Jude C. Hays](https://sites.pitt.edu/~jch61/) (presented at University of Strathclyde 2022, the Hamburg Empirical Political Science Seminar Series 2022, MPSA  2023, U Penn-Pitt Workshop 2023, APSA 2024) 
-
-<details><summary>Abstract</summary><p>This study investigates the influence of exposure to trade, especially foreign goods, on policy preferences and political behavior. Utilizing a novel survey experiment, we exposed respondents to varying market conditions, simulating a realistic consumption experience with well-known brands. Our findings reveal that exposure to foreign brands intensifies hostility towards immigrants, protectionism, and support for Trump among nationalists, while having no impact on cosmopolitans. Our results demonstrate that consumption in an increasingly diversified marketplace can drive a bottom-up process of trade policy polarization. Our study has significant implications for understanding the contemporary political backlash against economic globalization and standard models of international trade based on the ``love of variety."</p>
-</details> &nbsp; 
-<details><summary><a href=https://osf.io/y8nrm>Pre-Analysis Plan</a> </summary><p> </p>
-</details> &nbsp; 
-<details><summary><a href=https://www.dropbox.com/scl/fi/9cnrq5j1yo3kos8vlmp4r/MPSA_LoV.pdf?rlkey=gv9zxmps90mlbkolkc0asgwvu&raw=1>Slides</a> </summary><p> </p>
-</details> &nbsp; <br>
 
 <br>
 
