@@ -6,12 +6,12 @@ title: Valentina González-Rostani
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: University of Pittsburgh
-  url: "https://www.polisci.pitt.edu/"
+- name: Princeton University
+  url: "https://politics.princeton.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -23,9 +23,10 @@ interests:
 
 education:
   courses:
-  - course: PhD in Political Science, expected 2024
+  - course: PhD in Political Science
     institution: University of Pittsburgh
-  - course: MA in Political Science.
+    year: 2024
+  - course: MA in Political Science
     institution: University of Pittsburgh
     year: 2021
   - course: MA in Public Policies 
