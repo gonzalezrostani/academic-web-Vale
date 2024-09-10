@@ -106,48 +106,6 @@ details > p {
 </style>
 
 
-## **Dissertation** 
-
-**Elections, Right-wing Populism, and Political-Economic Polarization:  The Role of Institutions and Political Outsiders.** 2022.  _(Conditionally accepted at the Journal of Politics - JOP)_
-
-<details><summary>Abstract</summary><p>While there is little doubt that technological change is generating labor market polarization around the world, we know much less about its translation into partisan polarization. I explore the political polarization driven by the rise of right-wing populist parties and leaders throughout developed democracies. I build a theoretical model to explain how right-wing populists have attracted the votes of routine workers, workers exposed to automation risk, and previously loyal to mainstream left-wing parties, within both majoritarian multi-district and multiparty proportional systems. I empirically evaluate the theory, focusing primarily on the US and Germany, using individual vote-switching data and campaign targeting strategies inferred from the content of political speeches and party manifestos.</p>
-</details> &nbsp; 
-<details><summary><a href=https://gonzalez-rostani.com/img/Papers/Revised_ms.pdf>Manuscript</a> </summary><p> </p>
-</details> &nbsp;<br>  
-
-<br>
-
-**The path from Automation to Populist Political Behavior.** 2023. (presented at APSA 2022, IPES 2022, EUSA2023, EPSA 2023, PolMeth XL, APSA 2023,  Virtual IPES 2024, Yale, and to be presented at Caltech)
-
-<details><summary>Abstract</summary><p>I investigate the impact of automation exposure on political behavior in post-industrial societies, with a specific focus on the support for populism. I examine the potential causal mechanisms by exploring the interplay between economic and cultural factors. Through a parallel encouragement design survey experiment conducted in the US, I divide the sample into two groups: one group is randomly assigned to the treatment condition either related to exposure to robots and AI replacing jobs or a control condition related to technological development; the other group experiences manipulation of both the treatment and the encouragement of mediators (marginalization and nostalgia). My findings reveal that feelings of marginalization and nostalgia mediate the effects of technological change on support for populism and illiberal policies. To enhance external validity, I implement mediation analysis using survey data from the European Social Survey from 2012 to 2016. The results help us understand how structural changes in labor markets and cultural factors impact political behavior and inequality.</p>
-</details> &nbsp; 
-<details><summary><a href=https://osf.io/3kdpq>Pre-Analysis Plan</a> </summary><p> </p>
-</details> &nbsp; 
-<details><summary><a href=https://gonzalez-rostani.com/img/Papers/Polmeth_VG.pdf>Poster</a> </summary><p> </p>
-</details> &nbsp; 
-<details><summary><a href=https://gonzalez-rostani.com/img/Papers/APSA_Automation_Culture.pdf>Manuscript</a> </summary><p> </p>
-</details> &nbsp; <br>
-
-
-<br>
-
-**Engaged Robots, and Disengaged Workers: Automation and Political Apathy.** 2024. _(Forthcoming at Economics & Politics)_
-
-<details><summary>Abstract</summary><p>  This paper investigates the impact of the fourth industrial revolution on politics by proposing a theoretical framework linking technological change with political apathy. Using hierarchical logistic modeling with varying intercepts by country and survey data from the European Social Survey from 2002 to 2018 for 23 European countries, I present evidence that individuals more exposed to technological change are less likely to feel close to a political party, participate in elections and take part in protests. Those individuals exposed to automation are about 10% less likely to be politically engaged than those respondents without exposure to automation risks. I also demonstrate that income levels and unionization rates substantially moderate the direct link between automation and political engagement. The impact of automation on political engagement is smaller among wealthier citizens and in highly unionized environment. The political message from these interaction effects speaks about the reinforcing forces between economic inequality and automation and the role of collective organization. My findings have important implications for understanding automation politics, political inequality, and the demand (or lack of) for protection. </p>
-</details> &nbsp; 
-<details><summary><a href=http://doi.org/10.1111/ecpo.12307>Manuscript</a> </summary><p> </p>
-</details> &nbsp; <br>
-
-<br>
-
-**Who Influences Whom? Analyzing the Interplay of Mainstream and Outsider Parties in Social Media Campaigns.** 2024
-
-<details><summary>Abstract</summary><p>Do mainstream parties respond to outsider parties, or vice versa? Previous research suggests an alignment between the issues prioritized by both mainstream and outsider parties, but definitive evidence on who influences whom is limited. I investigate this with fine-grained temporal analyses of YouTube videos posted by political parties in the year leading up to elections since 2015 in the UK and Spain. Using dictionaries, Wordscores, and transformer-based models, I classify the content by issues and communication characteristics, such as whether a message is populist or extreme. I then apply vector autoregression models to explore short-term dynamics of rhetorical influence. In the UK, a majoritarian system, mainstream right and left parties respond to each other, while the outsider right follows mainstream parties. In Spain, a multi-party system, mainstream parties influence each other, and outsider parties influence the mainstream left and each other. More importantly, in both systems, mainstream parties more often lead than follow outsiders' messages. These findings have important implications for understanding party dynamics and competition during electoral campaigns.</p>
-</details> &nbsp; <br>
-
-
-<be>
-
 ## **Publications** 
 
 <br>
@@ -203,6 +161,49 @@ details > p {
 </details> &nbsp; <br>
 
 <br>
+
+
+## **Dissertation** 
+
+**Elections, Right-wing Populism, and Political-Economic Polarization:  The Role of Institutions and Political Outsiders.** 2022.  _(Conditionally accepted at the Journal of Politics - JOP)_
+
+<details><summary>Abstract</summary><p>While there is little doubt that technological change is generating labor market polarization around the world, we know much less about its translation into partisan polarization. I explore the political polarization driven by the rise of right-wing populist parties and leaders throughout developed democracies. I build a theoretical model to explain how right-wing populists have attracted the votes of routine workers, workers exposed to automation risk, and previously loyal to mainstream left-wing parties, within both majoritarian multi-district and multiparty proportional systems. I empirically evaluate the theory, focusing primarily on the US and Germany, using individual vote-switching data and campaign targeting strategies inferred from the content of political speeches and party manifestos.</p>
+</details> &nbsp; 
+<details><summary><a href=https://gonzalez-rostani.com/img/Papers/Revised_ms.pdf>Manuscript</a> </summary><p> </p>
+</details> &nbsp;<br>  
+
+<br>
+
+**The path from Automation to Populist Political Behavior.** 2023. (presented at APSA 2022, IPES 2022, EUSA2023, EPSA 2023, PolMeth XL, APSA 2023,  Virtual IPES 2024, Yale, and to be presented at Caltech)
+
+<details><summary>Abstract</summary><p>I investigate the impact of automation exposure on political behavior in post-industrial societies, with a specific focus on the support for populism. I examine the potential causal mechanisms by exploring the interplay between economic and cultural factors. Through a parallel encouragement design survey experiment conducted in the US, I divide the sample into two groups: one group is randomly assigned to the treatment condition either related to exposure to robots and AI replacing jobs or a control condition related to technological development; the other group experiences manipulation of both the treatment and the encouragement of mediators (marginalization and nostalgia). My findings reveal that feelings of marginalization and nostalgia mediate the effects of technological change on support for populism and illiberal policies. To enhance external validity, I implement mediation analysis using survey data from the European Social Survey from 2012 to 2016. The results help us understand how structural changes in labor markets and cultural factors impact political behavior and inequality.</p>
+</details> &nbsp; 
+<details><summary><a href=https://osf.io/3kdpq>Pre-Analysis Plan</a> </summary><p> </p>
+</details> &nbsp; 
+<details><summary><a href=https://gonzalez-rostani.com/img/Papers/Polmeth_VG.pdf>Poster</a> </summary><p> </p>
+</details> &nbsp; 
+<details><summary><a href=https://gonzalez-rostani.com/img/Papers/APSA_Automation_Culture.pdf>Manuscript</a> </summary><p> </p>
+</details> &nbsp; <br>
+
+
+<br>
+
+**Engaged Robots, and Disengaged Workers: Automation and Political Apathy.** 2024. _(Forthcoming at Economics & Politics)_
+
+<details><summary>Abstract</summary><p>  This paper investigates the impact of the fourth industrial revolution on politics by proposing a theoretical framework linking technological change with political apathy. Using hierarchical logistic modeling with varying intercepts by country and survey data from the European Social Survey from 2002 to 2018 for 23 European countries, I present evidence that individuals more exposed to technological change are less likely to feel close to a political party, participate in elections and take part in protests. Those individuals exposed to automation are about 10% less likely to be politically engaged than those respondents without exposure to automation risks. I also demonstrate that income levels and unionization rates substantially moderate the direct link between automation and political engagement. The impact of automation on political engagement is smaller among wealthier citizens and in highly unionized environment. The political message from these interaction effects speaks about the reinforcing forces between economic inequality and automation and the role of collective organization. My findings have important implications for understanding automation politics, political inequality, and the demand (or lack of) for protection. </p>
+</details> &nbsp; 
+<details><summary><a href=http://doi.org/10.1111/ecpo.12307>Manuscript</a> </summary><p> </p>
+</details> &nbsp; <br>
+
+<br>
+
+**Who Influences Whom? Analyzing the Interplay of Mainstream and Outsider Parties in Social Media Campaigns.** 2024
+
+<details><summary>Abstract</summary><p>Do mainstream parties respond to outsider parties, or vice versa? Previous research suggests an alignment between the issues prioritized by both mainstream and outsider parties, but definitive evidence on who influences whom is limited. I investigate this with fine-grained temporal analyses of YouTube videos posted by political parties in the year leading up to elections since 2015 in the UK and Spain. Using dictionaries, Wordscores, and transformer-based models, I classify the content by issues and communication characteristics, such as whether a message is populist or extreme. I then apply vector autoregression models to explore short-term dynamics of rhetorical influence. In the UK, a majoritarian system, mainstream right and left parties respond to each other, while the outsider right follows mainstream parties. In Spain, a multi-party system, mainstream parties influence each other, and outsider parties influence the mainstream left and each other. More importantly, in both systems, mainstream parties more often lead than follow outsiders' messages. These findings have important implications for understanding party dynamics and competition during electoral campaigns.</p>
+</details> &nbsp; <br>
+
+
+<be>
 
 ## **Working papers** 
 
