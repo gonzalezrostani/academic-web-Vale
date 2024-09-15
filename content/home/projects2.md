@@ -278,12 +278,15 @@ details > p {
 <br>
 
 
-## **Work in progress** 
+## **Selected Work in progress** 
+
+**Techno-Optimists and Pessimists: Exploring the Perceptions and Policy Preferences in the Technological Era.**
+
+<details><summary>Abstract</summary><p>This study examines public perceptions towards technological change, focusing on subjective concerns, sociotropic views, actual exposure, and their correlation with policy preferences. The research categorizes individuals into enthusiasts, those personally or sociotropically concerned, and exposed groups, analyzing their demographics and political inclinations. Enthusiasts, primarily older, male, upper-class, non-routine workers, and Democrats, view technological advancements as beneficial for enhancing productivity in American companies. In contrast, those expressing concerns tend to be younger, female, lower-class, routine workers, non-white, and Republicans, displaying apprehension towards these changes. Individuals who have directly experienced technological integration are predominantly male, non-white, upper-class, and engaged in non-routine jobs. Policy preferences vary significantly across groups: those exposed to automation support Trump-like policies and display anti-trade, anti-immigration, and ethnocentric tendencies. In contrast, enthusiasts favor more open immigration, pro-trade, and pro-offshoring policies, and are less ethnocentric. The study also highlights that sociotropic concerns and future anxieties correlate more strongly with political views than current personal fears. Despite this, the correlation with objective measures such as RTI is weak.</p>
+</details> &nbsp; <br>
 
 
-
-
-
+<br>
 
 **You Can't Stop It If You Can't See It: Introducing a New Scalable System to Measure Populist Narratives at Higher Resolution.** 2022. with  [Bree Bang-Jensen](https://www.breebangjensen.com/) and [Michael Colaresi](https://michaelcolaresi.com/) (presented at ISA 2024)
 
