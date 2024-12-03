@@ -90,12 +90,12 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "mag384@pitt.edu"
+email = "gonzalezrostani@princeton.edu"
 #phone = "+1 412 897 5184"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "4600 Wesley W. Posvar Hall", city = "Pittsburgh", region = "PA", postcode = "15260", country = "United States", country_code = "US"}
+address = {street = "20 Prospect Avenue", city = "Princeton", region = "NJ", postcode = "08544", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -187,7 +187,7 @@ plugins_js  = []
   gravatar = false
 
   # Choose a shape for avatar images. Options: circle, square.
-  shape = "circle"
+  shape = "square"
 
 # Available address formats.
 [address_formats]
