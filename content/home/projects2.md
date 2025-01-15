@@ -172,8 +172,10 @@ details > p {
 
 <details><summary>Abstract</summary><p>While there is little doubt that technological change is generating labor market polarization around the world, we know much less about its translation into partisan polarization. I explore the political polarization driven by the rise of right-wing populist parties and leaders throughout developed democracies. I build a theoretical model to explain how right-wing populists have attracted the votes of routine workers, workers exposed to automation risk, and previously loyal to mainstream left-wing parties, within both majoritarian multi-district and multiparty proportional systems. I empirically evaluate the theory, focusing primarily on the US and Germany, using individual vote-switching data and campaign targeting strategies inferred from the content of political speeches and party manifestos.</p>
 </details> &nbsp; 
-<details><summary><a href=https://gonzalez-rostani.com/img/Papers/Revised_ms.pdf>Manuscript</a> </summary><p> </p>
-</details> &nbsp;<br>  
+<details><summary><a href=https://gonzalez-rostani.com/img/Papers/Revised_ms.pdf>Pre-Print</a> </summary><p> </p>
+</details> &nbsp; 
+<details><summary><a href=https://www.journals.uchicago.edu/doi/10.1086/734533>First View</a> </summary><p> </p>
+</details> &nbsp; <br>
 
 <br>
 
@@ -225,6 +227,26 @@ details > p {
 
 
 
+**Engaging Diversity: An Inclusive Approach to Undergraduate Mentorship in Mobilization and Political Economy** with [Chie Togami](https://chietogami.com/), [Mariely Lopez-Santana](https://marielylopezsantana.weebly.com/), Tania Ramirez, [Fernando Tormos-Aponte](https://www.fernandotormos.com/), and Mayra Velez-Serrano. (R&R at PS: Political Science & Politics)
+
+<details><summary>Abstract</summary><p>The political science discipline faces significant disparities in the representation and participation of underrepresented minorities in graduate education. This lack of diversity among political scientists results in a narrower range of questions being explored within the field. Furthermore, the underrepresentation is particularly pronounced in the political methodology subfield, limiting the scope of tools and perspectives to those predominantly shaped by white scholars. This article proposes a template for teaching and mentoring undergraduate students from underrepresented backgrounds to enhance their opportunities in graduate programs. We examine the Mobilization and Political Economy program, a summer research initiative aimed at minority-serving institutions and underrepresented minorities, designed to equip participants with the tools to study social movements, political mobilization, and structural inequality.</p>
+</details> &nbsp; 
+<details><summary><a href=https://gonzalez-rostani.com/img/Papers/Article1_MPE.pdf>Manuscript</a> </summary><p> </p>
+</details> &nbsp; <br>
+
+<br>
+
+
+**When France Sneezes, Does Europe Catch Cold? The Dynamics of Temporal and Spatial Diffusion of Political Protests.** 2025. with [Jeffrey Nonnemacher](https://www.jeffreynonnemacher.com/)  (R&R at the Journal of Elections, Public Opinion and Parties)
+
+<details><summary>Abstract</summary><p>Are protests contained to their specific space and time or do they have the ability to spread across borders and in the future? This question has interested scholars of social movements and political behavior for decades but the literature provides a mixed picture on whether protests diffuse throughout time and space. Using protest event analysis and novel spatiotemporal autoregressive distributed lag (STADL) models designed to capture both temporal and spatial dependence in the same model, we find significant dependencies across both time and space. Protests in one time period shape the onset of protests in the future and protests in one country increase protests in a neighboring country. These results help us understand the dynamics of protest diffusion and have important implications for the study of political behavior and social movements.</p>
+</details> &nbsp; 
+<details><summary><a href=https://gonzalez-rostani.com/img/Papers/Protest.pdf>Manuscript</a> </summary><p> </p>
+</details> &nbsp; <br>
+
+
+<br>
+
 **Love of Variety? Heterogeneous Responses to Foreign Goods in the Marketplace.** 2022. with [Jude C. Hays](https://sites.pitt.edu/~jch61/) (presented at University of Strathclyde 2022, the Hamburg Empirical Political Science Seminar Series 2022, MPSA  2023, U Penn-Pitt Workshop 2023, APSA 2024) 
 
 <details><summary>Abstract</summary><p>This study investigates the impact of exposure to foreign goods in the marketplace on the policy preferences and political behavior of US consumers. Using a survey experiment, we simulate a realistic consumption experience with well-known brands of sports utility vehicles. Our findings reveal that exposure to foreign brands intensifies hostility towards immigrants and trade among respondents holding pre-existing nationalist attitudes while also increasing their support for Trump as a presidential candidate. Exposure to foreign brands has the opposite effect on the preferences and behavior of cosmopolitans. Our results demonstrate that consumption in an increasingly diversified marketplace can drive a bottom-up process of trade policy polarization. Our study has significant implications for understanding the contemporary political backlash against economic globalization and standard models of international trade based on the ``love of variety." </p>
@@ -260,25 +282,6 @@ details > p {
 <br>
 
 
-**When France Sneezes, Does Europe Catch Cold? The Dynamics of Temporal and Spatial Diffusion of Political Protests.** 2022. with [Jeffrey Nonnemacher](https://www.jeffreynonnemacher.com/)
-
-<details><summary>Abstract</summary><p>Are protests contained to their specific space and time or do they have the ability to spread across borders and in the future? This question has interested scholars of social movements and political behavior for decades but the literature provides a mixed picture on whether protests diffuse throughout time and space. Using protest event analysis and novel spatiotemporal autoregressive distributed lag (STADL) models designed to capture both temporal and spatial dependence in the same model, we find significant dependencies across both time and space. Protests in one time period shape the onset of protests in the future and protests in one country increase protests in a neighboring country. These results help us understand the dynamics of protest diffusion and have important implications for the study of political behavior and social movements.</p>
-</details> &nbsp; 
-<details><summary><a href=https://gonzalez-rostani.com/img/Papers/Protest.pdf>Research Note Draft</a> </summary><p> </p>
-</details> &nbsp; <br>
-
-
-<br>
-
-
-**Engaging Diversity: An Inclusive Approach to Undergraduate Mentorship in Mobilization and Political Economy (R&R)** with [Chie Togami](https://chietogami.com/), [Mariely Lopez-Santana](https://marielylopezsantana.weebly.com/), Tania Ramirez, [Fernando Tormos-Aponte](https://www.fernandotormos.com/), and Mayra Velez-Serrano.
-
-<details><summary>Abstract</summary><p>The political science discipline faces significant disparities in the representation and participation of underrepresented minorities in graduate education. This lack of diversity among political scientists results in a narrower range of questions being explored within the field. Furthermore, the underrepresentation is particularly pronounced in the political methodology subfield, limiting the scope of tools and perspectives to those predominantly shaped by white scholars. This article proposes a template for teaching and mentoring undergraduate students from underrepresented backgrounds to enhance their opportunities in graduate programs. We examine the Mobilization and Political Economy program, a summer research initiative aimed at minority-serving institutions and underrepresented minorities, designed to equip participants with the tools to study social movements, political mobilization, and structural inequality.</p>
-</details> &nbsp; 
-<details><summary><a href=https://gonzalez-rostani.com/img/Papers/Article1_MPE.pdf>Manuscript</a> </summary><p> </p>
-</details> &nbsp; <br>
-
-<br>
 
 
 ## **Selected Work in progress** 
