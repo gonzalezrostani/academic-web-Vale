@@ -227,7 +227,7 @@ details > p {
 
 
 
-**Engaging Diversity: An Inclusive Approach to Undergraduate Mentorship in Mobilization and Political Economy** with [Chie Togami](https://chietogami.com/), [Mariely Lopez-Santana](https://marielylopezsantana.weebly.com/), Tania Ramirez, [Fernando Tormos-Aponte](https://www.fernandotormos.com/), and Mayra Velez-Serrano. (R&R at PS: Political Science & Politics)
+**Engaging Diversity: An Inclusive Approach to Undergraduate Mentorship in Mobilization and Political Economy** 2024. with [Chie Togami](https://chietogami.com/), [Mariely Lopez-Santana](https://marielylopezsantana.weebly.com/), Tania Ramirez, [Fernando Tormos-Aponte](https://www.fernandotormos.com/), and Mayra Velez-Serrano. (R&R at PS: Political Science & Politics)
 
 <details><summary>Abstract</summary><p>The political science discipline faces significant disparities in the representation and participation of underrepresented minorities in graduate education. This lack of diversity among political scientists results in a narrower range of questions being explored within the field. Furthermore, the underrepresentation is particularly pronounced in the political methodology subfield, limiting the scope of tools and perspectives to those predominantly shaped by white scholars. This article proposes a template for teaching and mentoring undergraduate students from underrepresented backgrounds to enhance their opportunities in graduate programs. We examine the Mobilization and Political Economy program, a summer research initiative aimed at minority-serving institutions and underrepresented minorities, designed to equip participants with the tools to study social movements, political mobilization, and structural inequality.</p>
 </details> &nbsp; 
@@ -247,7 +247,7 @@ details > p {
 
 <br>
 
-**Love of Variety? Heterogeneous Responses to Foreign Goods in the Marketplace.** 2022. with [Jude C. Hays](https://sites.pitt.edu/~jch61/) (presented at University of Strathclyde 2022, the Hamburg Empirical Political Science Seminar Series 2022, MPSA  2023, U Penn-Pitt Workshop 2023, APSA 2024) 
+**Love of Variety? An Experimental Study of Heterogeneous Responses to Foreign Brands in the Marketplace.** 2025. with [Jude C. Hays](https://sites.pitt.edu/~jch61/) (presented at University of Strathclyde 2022, the Hamburg Empirical Political Science Seminar Series 2022, MPSA  2023, U Penn-Pitt Workshop 2023, APSA 2024, Under Review) 
 
 <details><summary>Abstract</summary><p>This study investigates the impact of exposure to foreign goods in the marketplace on the policy preferences and political behavior of US consumers. Using a survey experiment, we simulate a realistic consumption experience with well-known brands of sports utility vehicles. Our findings reveal that exposure to foreign brands intensifies hostility towards immigrants and trade among respondents holding pre-existing nationalist attitudes while also increasing their support for Trump as a presidential candidate. Exposure to foreign brands has the opposite effect on the preferences and behavior of cosmopolitans. Our results demonstrate that consumption in an increasingly diversified marketplace can drive a bottom-up process of trade policy polarization. Our study has significant implications for understanding the contemporary political backlash against economic globalization and standard models of international trade based on the ``love of variety." </p>
 </details> &nbsp; 
