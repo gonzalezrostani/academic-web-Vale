@@ -312,7 +312,7 @@ details > p {
 
 <br>
 
-**Inaugural Experience: Mobilization and Political Economy** with [Chie Togami](https://chietogami.com/), [Mariely Lopez-Santana](https://marielylopezsantana.weebly.com/), Tania Ramirez, [Fernando Tormos-Aponte](https://www.fernandotormos.com/), and Mayra Velez-Serrano. <br>
+**Creating Pathways to Graduate Success: Reducing Barriers for Underrepresented Minority Students in the Social Sciences** with [Chie Togami](https://chietogami.com/), [Mariely Lopez-Santana](https://marielylopezsantana.weebly.com/), Tania Ramirez, [Fernando Tormos-Aponte](https://www.fernandotormos.com/), and Mayra Velez-Serrano. <br>
 
 <br>
 
