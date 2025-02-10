@@ -124,6 +124,19 @@ details > p {
 <br>
 
 
+
+
+**Engaging Diversity: An Inclusive Approach to Undergraduate Mentorship in Mobilization and Political Economy** 2025. with [Chie Togami](https://chietogami.com/), [Mariely Lopez-Santana](https://marielylopezsantana.weebly.com/), Tania Ramirez, [Fernando Tormos-Aponte](https://www.fernandotormos.com/), and Mayra Velez-Serrano. (Accepted at PS: Political Science & Politics)
+
+<details><summary>Abstract</summary><p>The political science discipline faces significant disparities in the representation and participation of underrepresented minorities in graduate education. This lack of diversity among political scientists results in a narrower range of questions being explored within the field. Furthermore, the underrepresentation is particularly pronounced in the political methodology subfield, limiting the scope of tools and perspectives to those predominantly shaped by white scholars. This article proposes a template for teaching and mentoring undergraduate students from underrepresented backgrounds to enhance their opportunities in graduate programs. We examine the Mobilization and Political Economy program, a summer research initiative aimed at minority-serving institutions and underrepresented minorities, designed to equip participants with the tools to study social movements, political mobilization, and structural inequality.</p>
+</details> &nbsp; 
+<details><summary><a href=https://gonzalez-rostani.com/img/Papers/Article1_MPE.pdf>Manuscript</a> </summary><p> </p>
+</details> &nbsp; <br>
+
+<br>
+
+
+
 **Social Media versus Surveys: A New Scalable Approach to Understanding Political Discourse.** 2024. with [Jose Luis Incio](https://joseincio.com/) and [Guillermo Lezama](https://guillelezama.netlify.app/)  _(Accepted at Legislative Legislative Studies Quarterly)_
 
 <details><summary>Abstract</summary><p>This paper explores how legislators use social media, specifically investigating whether their posts reflect the concerns stated by their legislative party peers in an anonymous survey. Utilizing data from Twitter, we compare legislators' social media posts with responses in PELA, a parliamentary elite survey in Latin America. We propose a novel, scalable method for analyzing political communications, employing OpenAI for topic identification in statements and BERTopic analysis to identify key political issues. This approach enables a thorough and detailed examination of these topics over time and across various political parties. Applying our method to statements from members of the Chilean Congress, we observe a general alignment between the preferences stated in surveys by elites and the prominence of issues on Twitter. This result validates Twitter as a tool for predicting politicians' preferences. Our methodological approach enhances our understanding of political communication and strategy, offering valuable tools for analyzing political rhetoric over time.</p>
@@ -220,18 +233,6 @@ details > p {
 <details><summary>Abstract</summary><p> The rise of automation has transformed economies around the world. We examine how its effects spill over and affect people's views about environmental issues and policies. We argue that the long-term economic threat posed by automation is expected to reduce environmental concern amongst those affected due to a deprioritization of problems with high levels of uncertainty and that require deep reforms to be addressed. Therefore, we expect automation risk to subsequently reduce support of environmental policy that imposes immediate direct costs, such as carbon taxation. Meanwhile, support for policies with diffuse costs, such as environmental subsidies, will only be affected by automation indirectly, to the extent that it reduces individuals' general environmental concern. Using European Social Survey data from 2002 to 2018 for 23 European countries, our analysis reveals that individuals exposed to automation are less likely to hold environmental concerns and less supportive of carbon taxes that impose immediate visible costs. Mediation analysis suggests that automation reduces support for environmental policies through its negative effect on environmental concern,  with this effect being larger for subsidies. Our findings have important implications for understanding how structural transformations in the economy shape individuals' preferences for tackling long-term societal problems like climate change.</p>
 </details> &nbsp; 
 <details><summary><a href=https://osf.io/esm98/>Manuscript</a> </summary><p> </p>
-</details> &nbsp; <br>
-
-<br>
-
-
-
-
-**Engaging Diversity: An Inclusive Approach to Undergraduate Mentorship in Mobilization and Political Economy** 2024. with [Chie Togami](https://chietogami.com/), [Mariely Lopez-Santana](https://marielylopezsantana.weebly.com/), Tania Ramirez, [Fernando Tormos-Aponte](https://www.fernandotormos.com/), and Mayra Velez-Serrano. (R&R at PS: Political Science & Politics)
-
-<details><summary>Abstract</summary><p>The political science discipline faces significant disparities in the representation and participation of underrepresented minorities in graduate education. This lack of diversity among political scientists results in a narrower range of questions being explored within the field. Furthermore, the underrepresentation is particularly pronounced in the political methodology subfield, limiting the scope of tools and perspectives to those predominantly shaped by white scholars. This article proposes a template for teaching and mentoring undergraduate students from underrepresented backgrounds to enhance their opportunities in graduate programs. We examine the Mobilization and Political Economy program, a summer research initiative aimed at minority-serving institutions and underrepresented minorities, designed to equip participants with the tools to study social movements, political mobilization, and structural inequality.</p>
-</details> &nbsp; 
-<details><summary><a href=https://gonzalez-rostani.com/img/Papers/Article1_MPE.pdf>Manuscript</a> </summary><p> </p>
 </details> &nbsp; <br>
 
 <br>
