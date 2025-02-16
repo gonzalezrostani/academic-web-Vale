@@ -248,7 +248,7 @@ details > p {
 
 <br>
 
-**Love of Variety? An Experimental Study of Heterogeneous Responses to Foreign Brands in the Marketplace.** 2025. with [Jude C. Hays](https://sites.pitt.edu/~jch61/) (presented at University of Strathclyde 2022, the Hamburg Empirical Political Science Seminar Series 2022, MPSA  2023, U Penn-Pitt Workshop 2023, APSA 2024, Under Review) 
+**Love of Variety? An Experimental Study of Heterogeneous Responses to Foreign Brands in the Marketplace.** 2025. with [Jude C. Hays](https://sites.pitt.edu/~jch61/) (presented at University of Strathclyde 2022, the Hamburg Empirical Political Science Seminar Series 2022, MPSA  2023, U Penn-Pitt Workshop 2023, APSA 2024, LACEA-LAMES 2024, ISA 2025, Under Review) 
 
 <details><summary>Abstract</summary><p>This study investigates the impact of exposure to foreign goods in the marketplace on the policy preferences and political behavior of US consumers. Using a survey experiment, we simulate a realistic consumption experience with well-known brands of sports utility vehicles. Our findings reveal that exposure to foreign brands intensifies hostility towards immigrants and trade among respondents holding pre-existing nationalist attitudes while also increasing their support for Trump as a presidential candidate. Exposure to foreign brands has the opposite effect on the preferences and behavior of cosmopolitans. Our results demonstrate that consumption in an increasingly diversified marketplace can drive a bottom-up process of trade policy polarization. Our study has significant implications for understanding the contemporary political backlash against economic globalization and standard models of international trade based on the ``love of variety." </p>
 </details> &nbsp; 
@@ -261,7 +261,7 @@ details > p {
 
 <br>
 
-**Immigration Shocks and Politicians’ Rhetoric: Evidence from The Venezuelan Migration Crisis.** 2023. with [Jose Luis Incio](https://joseincio.com/) and [Guillermo Lezama](https://guillelezama.netlify.app/) (presented at Universidad de Salamanca 2023, PUCP 2023, UCU 2023, APSA 2024) 
+**Immigration Shocks and Politicians’ Rhetoric: Evidence from The Venezuelan Migration Crisis.** 2023. with [Jose Luis Incio](https://joseincio.com/) and [Guillermo Lezama](https://guillelezama.netlify.app/) (presented at Universidad de Salamanca 2023, PUCP 2023, UCU 2023, APSA 2024, MPSA 2025, Under Review) 
 
 <details><summary>Abstract</summary><p>How does an immigration shock affect politicians’ discourses? This study examines the sudden influx of Venezuelan migrants into Latin American countries. We argue that such events alter politicians’ agendas, creating opportunities to frame new issues from their perspectives. Analyzing over 3 million tweets by parliament members from 2013 to 2021 in Chile and Peru, we employ computational textanalysis methods, from simple dictionaries to complex techniques like unsupervised topic analysis and OpenAI, along with an instrumental variable strategy. Our results suggest that after the immigration shock, politicians emphasized the immigration issue without any party family monopolizing it. We find little evidence that regional exposure explains the issue’s salience, suggesting a disconnection from local experiences. Our findings reveal a novel channel for increased salience: right-wing politicians criticized the Venezuelan regime and socialism instead of increasing anti-immigration sentiment, while left-wing politicians promoted pro-immigration attitudes consistent with contact theory. This work enhances our understanding of the politicization of immigration in South-South contexts in the digital age.</p> </details> &nbsp; 
 <details><summary><a href=https://gonzalez-rostani.com/img/Papers/Immigration.pdf>Manuscript</a> </summary><p> </p>
@@ -269,6 +269,14 @@ details > p {
 
 
 
+
+<br>
+
+**Creating Pathways to Graduate Success: Reducing Barriers for Underrepresented Minority Students in the Social Sciences** with [Chie Togami](https://chietogami.com/), [Mariely Lopez-Santana](https://marielylopezsantana.weebly.com/), Tania Ramirez, [Fernando Tormos-Aponte](https://www.fernandotormos.com/), and Mayra Velez-Serrano (Under Review)
+
+<details><summary>Abstract</summary><p>Students from underrepresented populations, including women, first-generation students, and racial and ethnic minorities, face persistent barriers in accessing graduate education and professional development opportunities, particularly in the social sciences. To address these disparities, graduate pipeline programs can provide critical support by providing networking and mentoring opportunities, closing methodological and research skill gaps, and preparing participants to apply to competitive graduate programs. This article outlines the principles and goals of a summer program focused on mobilization and political economy by detailing the rationale, implementation strategies, and evaluation framework used to assess its effects. Evaluation of the inaugural program demonstrated the success of a multilayered mentoring approach, tailored curricula, and comprehensive support structures in fostering participants’ academic growth and career readiness. By highlighting best practices and lessons, we provide a template for institutions seeking to develop initiatives associated with greater diversity in graduate programs in the social sciences, the academic market, and, ultimately, higher education.</p> </details> &nbsp; 
+<details><summary><a href=https://gonzalez-rostani.com/img/Papers/MPE2.pdf>Manuscript</a> </summary><p> </p>
+</details> &nbsp; <br>
 
 <br>
 
@@ -313,9 +321,7 @@ details > p {
 
 <br>
 
-**Creating Pathways to Graduate Success: Reducing Barriers for Underrepresented Minority Students in the Social Sciences** with [Chie Togami](https://chietogami.com/), [Mariely Lopez-Santana](https://marielylopezsantana.weebly.com/), Tania Ramirez, [Fernando Tormos-Aponte](https://www.fernandotormos.com/), and Mayra Velez-Serrano. <br>
 
-<br>
 
 ## **Before being a PhD Student**
 
