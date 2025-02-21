@@ -48,7 +48,43 @@ details > p {
 
 ## Courses 
 
-#### PS0700 - Research Methods in Political Science -  
+#### POIR612 - Text as Data for Social Scientists  
+
+_University of Southern California_, Fall 2025
+
+
+<details><summary>Expand summary »</summary><p>The course introduces social scientists to computational techniques for analyzing large-scale textual information. In an era where vast amounts of text—from policy speeches and legislative documents to social media and news archives—shape our understanding of the world, this course equips students with the methodological tools to extract meaningful insights from unstructured data. Bridging natural language processing (NLP), machine learning, Bayesian statistics, and the social sciences, the course focuses on practical applications in areas like political discourse analysis, sentiment detection, and policy communication. Students will learn essential preprocessing techniques (e.g., tokenization, stemming, stopword removal), text representation methods (bag-of-words, word embeddings), and advanced modeling approaches, including supervised learning, topic modeling, and deep learning techniques such as BERT and large language models (LLMs) like OpenAI and LLAMA. By integrating hands-on coding exercises with theoretical discussions, the course prepares students to engage with textual data critically, ensuring they can apply these techniques to real-world social science research while considering the ethical and methodological challenges of working with text-based data.</p>
+</details> &nbsp; <br>
+  
+
+
+<br>
+
+#### POIR612 - Intro to Data Analysis 
+
+_University of Southern California_, Spring 2026
+
+
+<details><summary>Expand summary »</summary><p>How can we measure income inequality? What factors predict election outcomes? Do policy interventions effectively reduce poverty? Social scientists, policymakers, businesses, and non-profit organizations increasingly rely on data to answer these pressing questions—using it to describe trends, predict outcomes, and inform decisions. This course equips students with the tools to analyze data, draw statistical inferences, and apply causal reasoning to real-world political, social, and economic issues. Through hands-on experience with quantitative methods used in academic research, policy analysis, and the private sector, students will gain essential data skills—no prior statistical knowledge required. </p>
+</details> &nbsp; <br>
+  
+
+
+<br>
+
+#### IR430 - The Politics of International Trade
+
+_University of Southern California_, Spring 2026
+
+
+<details><summary>Expand summary »</summary><p>How do political and economic forces shape global trade? What are the key theories explaining trade patterns, and how do they apply to modern challenges like climate change and automation? This course explores the political economy of international trade, tracing foundational theories and debates while examining contemporary issues. Students will engage with classic and modern perspectives to understand how trade policies are shaped, who benefits from them, and how global economic shifts influence political decision-making.</p>
+</details> &nbsp; <br>
+  
+
+
+<br>
+
+#### PS0700 - Research Methods in Political Science   
 
 _University of Pittsburgh_, Summer 2022
 
