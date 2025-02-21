@@ -12,12 +12,14 @@ layout: docs  # Do not modify.
 ### PS0700 - Research Methods in Political Science -  
 
 _University of Pittsburgh_, Summer 2022
+
 [[Syllabus]](https://www.dropbox.com/s/shpfv8m1ke1iyr3/PS0700_S22.pdf?dl=0)
 
 
 ### Mobilization and Political Economy
 
 _NSF-REU Summer Research Program_, Summer 2023
+
 [MPE](https://www.migapprogram.com/)
 
 
