@@ -76,7 +76,7 @@ _University of Southern California_, Spring 2026
 
 
 <details><summary>Expand summary »</summary><p>How do political and economic forces shape global trade? What are the key theories explaining trade patterns, and how do they apply to modern challenges like climate change and automation? This course explores the political economy of international trade, tracing foundational theories and debates while examining contemporary issues. Students will engage with classic and modern perspectives to understand how trade policies are shaped, who benefits from them, and how global economic shifts influence political decision-making.</p>
-</details> &nbsp; <be>
+</details> &nbsp; <br>
   
 
 
@@ -107,13 +107,16 @@ _University of Pittsburgh_, Summer 2022
 
 
 
-
-
+<br>
+<br>
 
 ## **Guest Lectures**
 
 * _Political Economy of Growth_ (PS2543), University of Pittsburgh. **Technological Change and Automation of Jobs**,  Spring 2023. 
 * _Mobilization and Political Economy_ NSF-REU Summer Camp: **Theories of Political Economy**, Summer 2023 
+
+<br>
+<br>
 
 ## **Training**
 
@@ -121,6 +124,9 @@ _University of Pittsburgh_, Summer 2022
 * 2021 [**Faculty Development**](https://teaching.pitt.edu/graduate-student-teaching/), University of Pittsburgh.
 * 2016 Thinking about teaching at university, Universidad de la Republica.
 * 2016 Didactic ateneo. Rethinking teaching and evaluation in a context of high student numbers, Universidad de la Republica.
+
+<br>
+<br>
 
 ## **Teaching Assistant** 
 
