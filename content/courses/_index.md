@@ -58,7 +58,6 @@ _University of Southern California_, Fall 2025
   
 
 
-<br>
 
 #### IR312 - Intro to Data Analysis 
 
@@ -70,7 +69,6 @@ _University of Southern California_, Spring 2026
   
 
 
-<br>
 
 #### IR430 - The Politics of International Trade
 
@@ -82,7 +80,6 @@ _University of Southern California_, Spring 2026
   
 
 
-<br>
 
 #### PS0700 - Research Methods in Political Science   
 
@@ -95,7 +92,6 @@ _University of Pittsburgh_, Summer 2022
   
 
 
-<br>
 
 #### Mobilization and Political Economy, Quantitative Methods Course
 
@@ -110,7 +106,6 @@ _NSF-REU Summer Research Program_, Summer 2023
   
 
 
-<br>
 
 
 
