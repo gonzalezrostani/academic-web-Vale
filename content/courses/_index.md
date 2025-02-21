@@ -54,18 +54,28 @@ _University of Pittsburgh_, Summer 2022
 
 <details><summary><a href=https://www.dropbox.com/s/shpfv8m1ke1iyr3/PS0700_S22.pdf?dl=0>Syllabus</a> </summary><p> </p>
 </details> &nbsp;
-<details><summary>Expand summary »</summary><p>While there is little doubt that technological change is generating labor market polarization around the world, we know much less about its translation into partisan polarization. I explore the political polarization driven by the rise of right-wing populist parties and leaders throughout developed democracies. I build a theoretical model to explain how right-wing populists have attracted the votes of routine workers, workers exposed to automation risk, and previously loyal to mainstream left-wing parties, within both majoritarian multi-district and multiparty proportional systems. I empirically evaluate the theory, focusing primarily on the US and Germany, using individual vote-switching data and campaign targeting strategies inferred from the content of political speeches and party manifestos.</p>
+<details><summary>Expand summary »</summary><p>The course aims to provide students with the ability to understand, explain, and perform political science quantitative research. The focus will be on data analysis, and students will learn how to draw statistical inferences and causal reasoning. No previous statistical knowledge is required for this course. After taking this course, students will be able to read and understand the methodology used by social media reports, policy memos, and most academic articles in political science. This course will represent an essential skill for students as the first step into a world that is increasingly dependent on data science.</p>
 </details> &nbsp; <br>
   
 
 
 <br>
 
-#### Mobilization and Political Economy
+#### Mobilization and Political Economy, Quantitative Methods Course
 
 _NSF-REU Summer Research Program_, Summer 2023
 
-[MPE](https://www.migapprogram.com/)
+<details><summary><a href=https://www.migapprogram.com/>MPE website</a> </summary><p> </p>
+</details> &nbsp;
+<details><summary>Expand program summary »</summary><p>The MPE program is dedicated to closing the methods gap often faced by underrepresented students, offering a structured progression in research training. It equips participants with the necessary tools to tackle pressing social, political, and policy questions by integrating theory with real-world applications. The program explores how social scientists use data to describe, explain, and predict phenomena, emphasizing the growing role of data science across various sectors.</p>
+</details> &nbsp; 
+<details><summary>Expand course summary »</summary><p>The Quantitative Methods Course lays a strong foundation in research design, descriptive statistics, and regression analysis before advancing to complex techniques like hypothesis testing and multi-level modeling (MLM). These methods are particularly powerful in examining structural inequalities, allowing students to analyze the interplay between individual behaviors and systemic factors. A key component of the course is hands-on training in R programming, enabling participants to work with real-world datasets, such as the Collaborative Multi-racial Post-election Survey (CMPS) and census data. The program provides students with essential analytical skills for academia, government, and private industry by combining methodological rigor with a focus on diversity and inclusion. Students gain valuable experience in data management, statistical modeling, and policy analysis—preparing them for a world increasingly driven by data science.</p>
+</details> &nbsp; <br>
+  
+
+
+<br>
+
 
 
 ## Guest Lectures
