@@ -13,7 +13,7 @@ layout: docs  # Do not modify.
 
 _University of Pittsburgh_, Summer 2022
 
-[[Syllabus]](https://www.dropbox.com/s/shpfv8m1ke1iyr3/PS0700_S22.pdf?dl=0)
+[Syllabus](https://www.dropbox.com/s/shpfv8m1ke1iyr3/PS0700_S22.pdf?dl=0) 
 
 
 ### Mobilization and Political Economy
