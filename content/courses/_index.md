@@ -112,8 +112,8 @@ _University of Pittsburgh_, Summer 2022
 
 ## **Guest Lectures**
 
-* February 2023,  Political Economy of Growth (PS 2543): Technological Change and Automation
-* July 2023, Mobilization and Political Economy [MPE] Summer Camp: Theories of Political Economy
+* _Political Economy of Growth_ (PS2543), University of Pittsburgh. **Technological Change and Automation of Jobs**,  Spring 2023. 
+* _Mobilization and Political Economy_ NSF-REU Summer Camp: **Theories of Political Economy**, Summer 2023 
 
 ## **Training**
 
