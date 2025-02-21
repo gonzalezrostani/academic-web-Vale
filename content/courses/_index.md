@@ -136,13 +136,12 @@ _NSF-REU Summer Research Program_, Summer 2023
   <tbody>
     <tr>
       <td rowspan="2"><a href="https://www.pitt.edu/">University of Pittsburgh</a></td>
-      <td>Research Methods in Political Science</td>
+      <td rowspan="2">Research Methods in Political Science</td>
       <td>UG</td>
       <td>S2022</td>
       <td><a href="#">Jude Hays</a></td>
     </tr>
     <tr>
-      <td></td>
       <td>UG</td>
       <td>F2021</td>
       <td><a href="#">Max Goplerud</a></td>
