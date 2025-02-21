@@ -60,7 +60,7 @@ _University of Southern California_, Fall 2025
 
 <br>
 
-#### POIR612 - Intro to Data Analysis 
+#### IR312 - Intro to Data Analysis 
 
 _University of Southern California_, Spring 2026
 
