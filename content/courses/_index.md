@@ -53,7 +53,7 @@ details > p {
 _University of Pittsburgh_, Summer 2022
 
 <details><summary><a href=https://www.dropbox.com/s/shpfv8m1ke1iyr3/PS0700_S22.pdf?dl=0>Syllabus</a> </summary><p> </p>
-</details> &nbsp; <br>
+</details> &nbsp;
 <details><summary>Expand summary »</summary><p>While there is little doubt that technological change is generating labor market polarization around the world, we know much less about its translation into partisan polarization. I explore the political polarization driven by the rise of right-wing populist parties and leaders throughout developed democracies. I build a theoretical model to explain how right-wing populists have attracted the votes of routine workers, workers exposed to automation risk, and previously loyal to mainstream left-wing parties, within both majoritarian multi-district and multiparty proportional systems. I empirically evaluate the theory, focusing primarily on the US and Germany, using individual vote-switching data and campaign targeting strategies inferred from the content of political speeches and party manifestos.</p>
 </details> &nbsp; <br>
   
