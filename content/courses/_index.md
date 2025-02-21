@@ -140,7 +140,6 @@ _NSF-REU Summer Research Program_, Summer 2023
 
   .tg th, .tg td {
     border: 1px solid #010066;
-    font-family: Tahoma, Geneva, sans-serif !important;
     padding: 10px 5px;
     text-align: left;
     vertical-align: top;
