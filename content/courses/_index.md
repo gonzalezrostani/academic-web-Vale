@@ -46,7 +46,7 @@ details > p {
 
 # ✏️ Courses  
 
-### 🖥️ POIR612 - Text as Data for Social Scientists  
+###  🤖 POIR612 - Text as Data for Social Scientists  
 📍 _University of Southern California_, Fall 2025  
 
 <details><summary>📖 Expand summary »</summary><p>The course introduces social scientists to computational techniques for analyzing large-scale textual information. In an era where vast amounts of text—from policy speeches and legislative documents to social media and news archives—shape our understanding of the world, this course equips students with the methodological tools to extract meaningful insights from unstructured data. Bridging natural language processing (NLP), machine learning, Bayesian statistics, and the social sciences, the course focuses on practical applications in areas like political discourse analysis, sentiment detection, and policy communication. Students will learn essential preprocessing techniques (e.g., tokenization, stemming, stopword removal), text representation methods (bag-of-words, word embeddings), and advanced modeling approaches, including supervised learning, topic modeling, and deep learning techniques such as BERT and large language models (LLMs) like OpenAI and LLAMA. By integrating hands-on coding exercises with theoretical discussions, the course prepares students to engage with textual data critically, ensuring they can apply these techniques to real-world social science research while considering the ethical and methodological challenges of working with text-based data.</p>
@@ -79,11 +79,11 @@ details > p {
 <br>
 
 ### ⚙️ PS0700 - Research Methods in Political Science  
-_University of Pittsburgh_, Summer 2022  
+📍 _University of Pittsburgh_, Summer 2022  
 
 <details><summary>📄 <a href="https://www.dropbox.com/s/shpfv8m1ke1iyr3/PS0700_S22.pdf?dl=0">Syllabus</a></summary><p> </p>
 </details>  
-<details><summary>📖 Expand summary »</summary><p>The course aims to provide students with the ability to understand, explain, and perform political science quantitative research...</p>
+<details><summary>📖 Expand summary »</summary><p>The course aims to provide students with the ability to understand, explain, and perform political science quantitative research. The focus will be on data analysis, and students will learn how to draw statistical inferences and causal reasoning. No previous statistical knowledge is required for this course. After taking this course, students will be able to read and understand the methodology used by social media reports, policy memos, and most academic articles in political science. This course will represent an essential skill for students as the first step into a world that is increasingly dependent on data science.</p>
 </details>  
 <br>
   
