@@ -10,7 +10,7 @@ layout: docs  # Do not modify.
 
 
 
-# **📚 Research & Tools**  
+# 📚 Research Toolkit  
 
 Welcome! This page contains research tools, notes, and side projects I’ve put together over time. Most of them are beginner-friendly, but I aim to provide useful starting points for anyone interested in these topics. I'll keep updating this space as I systematize more of my work. I hope you find it helpful!  
 
