@@ -77,6 +77,7 @@ details > p {
 <details><summary>📖 Course summary »</summary><p>The Quantitative Methods Course lays a strong foundation in research design, descriptive statistics, and regression analysis before advancing to complex techniques like hypothesis testing and multi-level modeling (MLM). These methods are particularly powerful in examining structural inequalities, allowing students to analyze the interplay between individual behaviors and systemic factors. A key component of the course is hands-on training in R programming, enabling participants to work with real-world datasets, such as the Collaborative Multi-racial Post-election Survey (CMPS) and census data. The program provides students with essential analytical skills for academia, government, and private industry by combining methodological rigor with a focus on diversity and inclusion. Students gain valuable experience in data management, statistical modeling, and policy analysis—preparing them for a world increasingly driven by data science.</p>
 </details>  
 <br>
+<br>
 
 ### ⚙️ PS0700 - Research Methods in Political Science  
 📍 _University of Pittsburgh_, Summer 2022  
