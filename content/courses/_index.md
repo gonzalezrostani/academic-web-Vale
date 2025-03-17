@@ -44,7 +44,7 @@ details > p {
 }
 </style>
 
-## **📚 Courses**  
+# ✏️ Courses  
 
 ### 🖥️ POIR612 - Text as Data for Social Scientists  
 📍 _University of Southern California_, Fall 2025  
