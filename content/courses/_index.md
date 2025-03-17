@@ -153,5 +153,17 @@ _University of Pittsburgh_, Summer 2022
       <td>F2016</td>
       <td></td>
     </tr>
+    <tr>
+      <td>General Accounting II</td>
+      <td>UG</td>
+      <td>F2016</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>General Accounting III</td>
+      <td>UG</td>
+      <td>S2016</td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
