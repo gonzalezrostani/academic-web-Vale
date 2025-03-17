@@ -65,5 +65,5 @@ An introduction to **Support Vector Machines (SVM)** and how to implement them u
 
 #### **🔍 Data Access & Research Transparency in Political Science**  
 A professionalization guide focused on ensuring transparency and accessibility in political science research.  
-[📄 Read the document](https://github.com/gonzalezrostani/academic-kickstart-vale/blob/master/content/resources/Professionalization.pdf)  
+[📄 Read the document](https://gonzalez-rostani.com/img/Papers/Professionalization.pdf)  
 
