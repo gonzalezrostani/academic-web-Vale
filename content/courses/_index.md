@@ -88,7 +88,7 @@ details > p {
 </details>  
 <br>
   
-### **🎤 Guest Lectures**  
+# 🎤 Guest Lectures  
 
 - _Political Economy of Growth_ (PS2543), University of Pittsburgh. **Technological Change and Automation of Jobs**, Spring 2023.  
 - _Mobilization and Political Economy_ NSF-REU Summer Camp: **Theories of Political Economy**, Summer 2023.  
