@@ -42,7 +42,7 @@ A set of notes based on my experience—things I wish I had known before startin
 [📄 Read the guide](https://gonzalez-rostani.com/img/Papers/StartingPhD2.pdf)  
 
 #### **📢 Presentation Tips**  
-Presentation skills matter. This guide offers strategies for structuring research presentations effectively, particularly for final paper presentations at the **MPE Summer Methods Camp**.  
+Presentation skills matter. This guide provides strategies for structuring research presentations effectively. It was prepared for final paper presentations at the MPE Summer Methods Camp.
 [📄 Download the guide](https://www.dropbox.com/scl/fi/k51kpz2rfdb3cbzoonjji/MPE-Final-Presentation-Guide.pdf?rlkey=bz9iowcrd0snnl2oj88j82c58&raw=1)  
 
 #### **🎤 Job Talk Tips**  
