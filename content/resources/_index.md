@@ -39,7 +39,6 @@ devtools::install_github("judechays/STADL", dependencies = TRUE)
 
 #### **🎓 Starting Your PhD**  
 A set of notes based on my experience—things I wish I had known before starting my PhD, especially in the summer and weeks leading up to it.
-
 [📄 Read the guide](https://gonzalez-rostani.com/img/Papers/StartingPhD2.pdf)  
 
 #### **📢 Presentation Tips**  
