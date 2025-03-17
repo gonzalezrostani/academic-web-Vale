@@ -56,7 +56,7 @@ _University of Southern California_, Fall 2025
 ### 📊 IR312 - Intro to Data Analysis  
 _University of Southern California_, Spring 2026  
 
-<details><summary>📖 Expand summary »</summary><p>How can we measure income inequality? What factors predict election outcomes? Do policy interventions effectively reduce poverty? Social scientists, policymakers, businesses, and non-profit organizations increasingly rely on data to answer these pressing questions—using it to describe trends, predict outcomes, and inform decisions...</p>
+<details><summary>📖 Expand summary »</summary><p>How can we measure income inequality? What factors predict election outcomes? Do policy interventions effectively reduce poverty? Social scientists, policymakers, businesses, and non-profit organizations increasingly rely on data to answer these pressing questions—using it to describe trends, predict outcomes, and inform decisions. This course equips students with the tools to analyze data, draw statistical inferences, and apply causal reasoning to real-world political, social, and economic issues. Through hands-on experience with quantitative methods used in academic research, policy analysis, and the private sector, students will gain essential data skills—no prior statistical knowledge is required. </p>
 </details>  
 <br>
   
