@@ -16,7 +16,7 @@ Welcome! This page contains research tools, notes, and side projects I’ve put 
 
 ---
 
-##  R Package: *tscsdep*  📊
+##  📊 R Package: *tscsdep*  
 #### Tools for Analyzing Country-Year Time-Series-Cross-Sectional Data with Spatial and Temporal Dependence  
 
 **Authors:** Hays, Jude C., Valentina González-Rostani, Scott Cook, Robert Franzese, and Wooseok Kim (2022). Version 0.1.0.  
@@ -37,7 +37,7 @@ devtools::install_github("judechays/STADL", dependencies = TRUE)
 
 ## 📖 Guides & Resources  
 
-#### **🎓 Starting Your PhD** 
+#### **Starting Your PhD 🎓** 
 A set of notes based on my experience—things I wish I had known before starting my PhD, especially in the summer and weeks leading up to it.  
 [📄 Read the guide](https://gonzalez-rostani.com/img/Papers/StartingPhD2.pdf)  
 
