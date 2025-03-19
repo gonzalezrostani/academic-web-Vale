@@ -58,7 +58,7 @@ A collection of useful LaTeX tips and tricks to streamline your workflow.
 
 #### **Getting Started with GitHub 🐙**  
 A beginner-friendly guide to using Git and GitHub effectively.  
-[📂 GitHub Repository](https://github.com/gonzalezrostani/Beginning-with-Git/blob/master/labNotes.md)  
+- [📂 GitHub Repository](https://github.com/gonzalezrostani/Beginning-with-Git/blob/master/labNotes.md)  
 
 #### **Introduction to SVM & Scikit-Learn 🤖**  
 An introduction to **Support Vector Machines (SVM)** and how to implement them using **Scikit-learn**.  
