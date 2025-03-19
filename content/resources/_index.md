@@ -53,17 +53,17 @@ A collection of notes on how to structure and deliver a strong **job talk**, bas
 
 #### **LaTeX Tips 📝**  
 A collection of useful LaTeX tips and tricks to streamline your workflow.  
-- [📂 GitHub Repository](https://github.com/gonzalezrostani/Latex-Tips)  
-- [📄 Overleaf Project](https://www.overleaf.com/read/rrdfvjbpfyrq)  
+[📂 GitHub Repository](https://github.com/gonzalezrostani/Latex-Tips)  
+[📄 Overleaf Project](https://www.overleaf.com/read/rrdfvjbpfyrq)  
 
 #### **Getting Started with GitHub 🐙**  
 A beginner-friendly guide to using Git and GitHub effectively.  
-- [📂 GitHub Repository](https://github.com/gonzalezrostani/Beginning-with-Git/blob/master/labNotes.md)  
+[📂 GitHub Repository](https://github.com/gonzalezrostani/Beginning-with-Git/blob/master/labNotes.md)  
 
 #### **Introduction to SVM & Scikit-Learn 🤖**  
 An introduction to **Support Vector Machines (SVM)** and how to implement them using **Scikit-learn**.  
-- [📂 GitHub Repository](https://github.com/gonzalezrostani/Support-Vector-Machine)  
-- [🎥 Tutorial Video](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5f994000-d1d1-49bf-bec2-ac810157b3b6)  
+[📂 GitHub Repository](https://github.com/gonzalezrostani/Support-Vector-Machine)  
+[🎥 Tutorial Video](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5f994000-d1d1-49bf-bec2-ac810157b3b6)  
 
 #### **Data Access & Research Transparency in Political Science 🔍**  
 A professionalization guide focused on ensuring transparency and accessibility in political science research.  
