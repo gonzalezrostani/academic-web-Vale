@@ -225,6 +225,15 @@ details > p {
 
 ## **Working papers** 
 
+**Techno-Optimists and Pessimists: Exploring the Perceptions and Policy Preferences in the Technological Era.** 2025. with  [Tobias Tober](https://tobiastober.github.io/)  (to be presented at EPSA 2025, Under Review)
+
+
+<details><summary>Abstract</summary><p>How do individuals perceive technological risk, particularly job insecurity, in the era of AI-driven change? This paper explores how people navigate the uncertainty created by the pace of technology and experts' unclear predictions about its impact on jobs. We focus on three perceptions: techno-optimists, techno-pessimists, and those exposed to rapid technological change, examining their demographic characteristics and implications for political coalition-building. Using data from three original surveys, including open-ended responses, we show that personal and vicarious experiences shape these perceptions, with exposed workers occupying a middle ground between optimism and pessimism. Contrary to the view that high-skilled workers are less vulnerable, we find that perceived employment risks rise with the use of complex technologies like programming languages. Exposed workers and pessimists share political traits, such as support for illiberal policies, while optimists lean toward liberal policies. These results deepen our understanding of how technological risk perceptions influence politics.</p>
+</details> &nbsp; 
+<details><summary><a href=https://gonzalez-rostani.com/img/Papers/Subjective_Techrisk.pdf>Manuscript</a> </summary><p> </p>
+</details> &nbsp; <br>
+
+<br>
 
 
 
@@ -248,7 +257,7 @@ details > p {
 
 <br>
 
-**Love of Variety? An Experimental Study of Heterogeneous Responses to Foreign Brands in the Marketplace.** 2025. with [Jude C. Hays](https://sites.pitt.edu/~jch61/) (presented at University of Strathclyde 2022, the Hamburg Empirical Political Science Seminar Series 2022, MPSA  2023, U Penn-Pitt Workshop 2023, APSA 2024, LACEA-LAMES 2024, ISA 2025, Under Review) 
+**Love of Variety? An Experimental Study of Heterogeneous Responses to Foreign Brands in the Marketplace.** 2025. with [Jude C. Hays](https://sites.pitt.edu/~jch61/) (presented at University of Strathclyde 2022, the Hamburg Empirical Political Science Seminar Series 2022, MPSA  2023, U Penn-Pitt Workshop 2023, APSA 2024, LACEA-LAMES 2024, ISA 2025, R&R at ) 
 
 <details><summary>Abstract</summary><p>This study investigates the impact of exposure to foreign goods in the marketplace on the policy preferences and political behavior of US consumers. Using a survey experiment, we simulate a realistic consumption experience with well-known brands of sports utility vehicles. Our findings reveal that exposure to foreign brands intensifies hostility towards immigrants and trade among respondents holding pre-existing nationalist attitudes while also increasing their support for Trump as a presidential candidate. Exposure to foreign brands has the opposite effect on the preferences and behavior of cosmopolitans. Our results demonstrate that consumption in an increasingly diversified marketplace can drive a bottom-up process of trade policy polarization. Our study has significant implications for understanding the contemporary political backlash against economic globalization and standard models of international trade based on the ``love of variety." </p>
 </details> &nbsp; 
@@ -295,13 +304,6 @@ details > p {
 
 ## **Selected Work in progress** 
 
-**Techno-Optimists and Pessimists: Exploring the Perceptions and Policy Preferences in the Technological Era.**
-
-<details><summary>Abstract</summary><p>This study examines public perceptions towards technological change, focusing on subjective concerns, sociotropic views, actual exposure, and their correlation with policy preferences. The research categorizes individuals into enthusiasts, those personally or sociotropically concerned, and exposed groups, analyzing their demographics and political inclinations. Enthusiasts, primarily older, male, upper-class, non-routine workers, and Democrats, view technological advancements as beneficial for enhancing productivity in American companies. In contrast, those expressing concerns tend to be younger, female, lower-class, routine workers, non-white, and Republicans, displaying apprehension towards these changes. Individuals who have directly experienced technological integration are predominantly male, non-white, upper-class, and engaged in non-routine jobs. Policy preferences vary significantly across groups: those exposed to automation support Trump-like policies and display anti-trade, anti-immigration, and ethnocentric tendencies. In contrast, enthusiasts favor more open immigration, pro-trade, and pro-offshoring policies, and are less ethnocentric. The study also highlights that sociotropic concerns and future anxieties correlate more strongly with political views than current personal fears. Despite this, the correlation with objective measures such as RTI is weak.</p>
-</details> &nbsp; <br>
-
-
-<br>
 
 **You Can't Stop It If You Can't See It: Introducing a New Scalable System to Measure Populist Narratives at Higher Resolution.** 2022. with  [Bree Bang-Jensen](https://www.breebangjensen.com/) and [Michael Colaresi](https://michaelcolaresi.com/) (presented at ISA 2024, MPSA 2025)
 
