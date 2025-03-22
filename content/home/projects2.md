@@ -225,7 +225,7 @@ details > p {
 
 ## **Working papers** 
 
-**Techno-Optimists and Pessimists: Exploring the Perceptions and Policy Preferences in the Technological Era.** 2025. with  [Tobias Tober](https://tobiastober.github.io/)  (to be presented at EPSA 2025, Under Review)
+**Navigating Uncertainty: How Experience Shapes Perception and Politics in the AI Era.** 2025. with  [Tobias Tober](https://tobiastober.github.io/)  (to be presented at EPSA 2025, Under Review)
 
 
 <details><summary>Abstract</summary><p>How do individuals perceive technological risk, particularly job insecurity, in the era of AI-driven change? This paper explores how people navigate the uncertainty created by the pace of technology and experts' unclear predictions about its impact on jobs. We focus on three perceptions: techno-optimists, techno-pessimists, and those exposed to rapid technological change, examining their demographic characteristics and implications for political coalition-building. Using data from three original surveys, including open-ended responses, we show that personal and vicarious experiences shape these perceptions, with exposed workers occupying a middle ground between optimism and pessimism. Contrary to the view that high-skilled workers are less vulnerable, we find that perceived employment risks rise with the use of complex technologies like programming languages. Exposed workers and pessimists share political traits, such as support for illiberal policies, while optimists lean toward liberal policies. These results deepen our understanding of how technological risk perceptions influence politics.</p>
