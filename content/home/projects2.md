@@ -247,17 +247,7 @@ details > p {
 <br>
 
 
-**Are Protests Contagious? The Dynamics of Temporal and Spatial Diffusion of Political Protests.** 2025. with [Jeffrey Nonnemacher](https://www.jeffreynonnemacher.com/)  (R&R at the Journal of Elections, Public Opinion and Parties)
-
-<details><summary>Abstract</summary><p>Do political protests spread across time and space? While scholars of social movements and political behavior have long debated this question, existing studies often fail to simultaneously account for both spatial and temporal dependencies in protest dynamics. Using protest event analysis and a novel spatiotemporal autoregressive distributed lag (STADL) model, we examine the diffusion of protests across 30 European countries from 2000 to 2015. Our findings provide robust evidence that protests exhibit both temporal and spatial contagion: protest activity in one year significantly increases protest frequency in the following year, and protests in one country contribute to the onset of protests in neighboring states. These results underscore the importance of modeling both dimensions of diffusion to avoid biased inferences and contribute to the broader understanding of protest mobilization. Our study highlights the interconnected nature of political activism and has important implications for research on social movements and political instability.</p>
-</details> &nbsp; 
-<details><summary><a href=https://gonzalez-rostani.com/img/Papers/Protest.pdf>Manuscript</a> </summary><p> </p>
-</details> &nbsp; <br>
-
-
-<br>
-
-**Love of Variety? An Experimental Study of Heterogeneous Responses to Foreign Brands in the Marketplace.** 2025. with [Jude C. Hays](https://sites.pitt.edu/~jch61/) (presented at University of Strathclyde 2022, the Hamburg Empirical Political Science Seminar Series 2022, MPSA  2023, U Penn-Pitt Workshop 2023, APSA 2024, LACEA-LAMES 2024, ISA 2025, R&R at ) 
+**Love of Variety? An Experimental Study of Heterogeneous Responses to Foreign Brands in the Marketplace.** 2025. with [Jude C. Hays](https://sites.pitt.edu/~jch61/) (presented at University of Strathclyde 2022, the Hamburg Empirical Political Science Seminar Series 2022, MPSA  2023, U Penn-Pitt Workshop 2023, APSA 2024, LACEA-LAMES 2024, ISA 2025, R&R at Political Science Research and Methods) 
 
 <details><summary>Abstract</summary><p>This study investigates the impact of exposure to foreign goods in the marketplace on the policy preferences and political behavior of US consumers. Using a survey experiment, we simulate a realistic consumption experience with well-known brands of sports utility vehicles. Our findings reveal that exposure to foreign brands intensifies hostility towards immigrants and trade among respondents holding pre-existing nationalist attitudes while also increasing their support for Trump as a presidential candidate. Exposure to foreign brands has the opposite effect on the preferences and behavior of cosmopolitans. Our results demonstrate that consumption in an increasingly diversified marketplace can drive a bottom-up process of trade policy polarization. Our study has significant implications for understanding the contemporary political backlash against economic globalization and standard models of international trade based on the ``love of variety." </p>
 </details> &nbsp; 
@@ -267,6 +257,16 @@ details > p {
 </details> &nbsp;   
 <details><summary><a href=https://gonzalez-rostani.com/img/Papers/LoV_updated.pdf>Manuscript</a> </summary><p> </p>  
 </details> &nbsp; <br>
+
+<br>
+
+**Are Protests Contagious? The Dynamics of Temporal and Spatial Diffusion of Political Protests.** 2025. with [Jeffrey Nonnemacher](https://www.jeffreynonnemacher.com/)  (R&R at the Journal of Elections, Public Opinion and Parties)
+
+<details><summary>Abstract</summary><p>Do political protests spread across time and space? While scholars of social movements and political behavior have long debated this question, existing studies often fail to simultaneously account for both spatial and temporal dependencies in protest dynamics. Using protest event analysis and a novel spatiotemporal autoregressive distributed lag (STADL) model, we examine the diffusion of protests across 30 European countries from 2000 to 2015. Our findings provide robust evidence that protests exhibit both temporal and spatial contagion: protest activity in one year significantly increases protest frequency in the following year, and protests in one country contribute to the onset of protests in neighboring states. These results underscore the importance of modeling both dimensions of diffusion to avoid biased inferences and contribute to the broader understanding of protest mobilization. Our study highlights the interconnected nature of political activism and has important implications for research on social movements and political instability.</p>
+</details> &nbsp; 
+<details><summary><a href=https://gonzalez-rostani.com/img/Papers/Protest.pdf>Manuscript</a> </summary><p> </p>
+</details> &nbsp; <br>
+
 
 <br>
 
