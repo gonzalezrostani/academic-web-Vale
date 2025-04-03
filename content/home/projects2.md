@@ -225,6 +225,12 @@ details > p {
 
 ## **Working papers** 
 
+**The Political Economy of Automation and Global Production in a Global Context: Evidence from Mexico.** 2025. with  [Carles Boix]([https://www.breebangjensen.com/](https://www.princeton.edu/~cboix/)) and [Erica Owen](https://www.polisci.pitt.edu/people/erica-owen) (to presented at Universitat de Barcelona 2025)
+
+<details><summary>Abstract</summary><p>This study examines how automation in the Global North affects labor markets in the Global South through trade and offshoring. As advanced economies adopt robots, demand for foreign labor declines, particularly in offshorable activities, creating economic shocks with significant social and political consequences. While migration could mediate these effects, automation also limits migration opportunities, potentially leading to alternative responses such as illicit activities. We analyze the impact of domestic (Mexican) and foreign (U.S.) robot adoption on emigration and violence at the commuting zone level in Mexico. Using measures from Acemoglu \& Restrepo (2020) and Faber (2020), we find that while domestic automation has no clear effect on emigration, regions with more routine occupations experience higher pre-shock emigration. However, exposure to U.S. automation via offshoring reduces migration and remittances, suggesting a decline in foreign labor demand. The reduction in labor mobility contributes to greater levels of organized crime, as persistent economic shocks and limited legal employment increase participation in illegal activities. Our findings suggest that foreign automation exacerbates instability in exposed regions. This study highlights the broader economic and social consequences of automation in an interdependent world.
+</p>
+</details> &nbsp; <br>
+
 **Navigating Uncertainty: How Experience Shapes Perception and Politics in the AI Era.** 2025. with  [Tobias Tober](https://tobiastober.github.io/)  (to be presented at EPSA 2025, Under Review)
 
 
@@ -305,7 +311,17 @@ details > p {
 ## **Selected Work in progress** 
 
 
-**You Can't Stop It If You Can't See It: Introducing a New Scalable System to Measure Populist Narratives at Higher Resolution.** 2022. with  [Bree Bang-Jensen](https://www.breebangjensen.com/) and [Michael Colaresi](https://michaelcolaresi.com/) (presented at ISA 2024, MPSA 2025)
+**Artificial Intelligence and the Future of Democracy: Political and Institutional Consequences of Economic Dislocation.** 2025. with [Carles Boix](https://www.princeton.edu/~cboix/) 
+
+<details><summary>Abstract</summary><p>The rapid advancement of artificial intelligence (AI) is reshaping economies, labor markets, and political landscapes, raising urgent questions about its implications for democracy. This paper reviews the growing body of research on the political and institutional consequences of AI-driven economic dislocation. While AI-induced automation threatens traditional employment structures, its effects on political participation, electoral behavior, and policy preferences remain less understood. Existing evidence suggests that economic insecurity caused by automation can fuel political dissatisfaction and increase support for populist and anti-establishment movements. At the same time, AI-driven growth creates economic winners who may reinforce existing political alignments. However, the ways in which voters perceive and respond to AI-induced economic change—whether through policy demands, shifts in ideological preferences, or institutional trust—remain contested. This review highlights key theoretical perspectives, synthesizes recent empirical findings, and identifies pressing questions for future research on the intersection of AI, economic dislocation, and democratic stability.</p>
+</details> &nbsp; <br>
+
+
+
+<br>
+
+
+**You Can't Stop It If You Can't See It: Introducing a New Scalable System to Measure Populist Narratives at Higher Resolution.** 2025. with  [Bree Bang-Jensen](https://www.breebangjensen.com/) and [Michael Colaresi](https://michaelcolaresi.com/) (presented at ISA 2024, MPSA 2025)
 
 <details><summary>Abstract</summary><p>The rise of populism across democracies is one of the greatest challenges to the existing world order since World War II. Yet, we only have very limited tools to measure populism within and across countries. Existing approaches rely on human coding, expert surveys, or diction ary-based analysis and suffer from high costs, low comparability, or low validity. To help overcome these limitations, we offer a new middle ground strategy between the expensive but rich qualitative reading of populist language and the cheaper, but coarsest machine coding of sets of texts. We extend the Parsing Unstructured Language into Sentiment-Aspect Representations (PULSAR) project to identify specific sentences and paragraphs as carrying populist narratives. We parse ``us'' versus ``them'' frames, as well as who is determined by the speaker as protecting or threatening ``the people''. We also code common aspects of political speeches such as agreement, opposition, and judgment holder that are not populist-specific. Our system uniquely matches the ``thin-centered'' definition of populism, such that not all utterances from parties ascribed to a populist worldview will carry populist content. To illustrate our contribution, we train our model using recent US Presidential campaig n speeches. Our method has important implications for studying populism's rise worldwide, it’s common patterns and local distinctiveness, especially for countries where researchers cannot afford costly systems.</p>
 </details> &nbsp; <br>
@@ -314,7 +330,7 @@ details > p {
 
 <br>
 
-**Campaign Contributions and Economic Inequality in the United States.** 2022. with [Jude C. Hays](https://sites.pitt.edu/~jch61/) (presented at Vienna University 2022)
+**When Money Talks: Rethinking Income Redistribution and Political Inequality.** 2025. with [Jude C. Hays](https://sites.pitt.edu/~jch61/) (presented at Vienna University 2022)
 
 <details><summary>Abstract</summary><p>Research on the political consequences of economic inequality focuses almost exclusively on relative inequality, using measures such as percentile ratios and gini coefficients for empirical analysis. Measures of relative inequality facilitate empirical comparison across space and time, but they do not always match theories that connect economic and political inequality. We demonstrate with a simple theoretical model that proportionate increases in income, gains that preserve levels of relative inequality in the population but increase levels of absolute inequality, generate greater inequality in campaign contributions from the poor and rich. Using data from U.S. Congressional Districts, we show empirically that greater levels of absolute inequality, rather than relative inequality, are in fact associated with larger differences in the rate at which rich and poor constituents make campaign contributions.</p>
 </details> &nbsp; <br>
