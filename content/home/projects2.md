@@ -231,6 +231,8 @@ details > p {
 </p>
 </details> &nbsp; <br>
 
+<br>
+
 **Navigating Uncertainty: How Experience Shapes Perception and Politics in the AI Era.** 2025. with  [Tobias Tober](https://tobiastober.github.io/)  (to be presented at EPSA 2025, Under Review)
 
 
