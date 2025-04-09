@@ -130,7 +130,7 @@ details > p {
 
 <details><summary>Abstract</summary><p>The political science discipline faces significant disparities in the representation and participation of underrepresented minorities in graduate education. This lack of diversity among political scientists results in a narrower range of questions being explored within the field. Furthermore, the underrepresentation is particularly pronounced in the political methodology subfield, limiting the scope of tools and perspectives to those predominantly shaped by white scholars. This article proposes a template for teaching and mentoring undergraduate students from underrepresented backgrounds to enhance their opportunities in graduate programs. We examine the Mobilization and Political Economy program, a summer research initiative aimed at minority-serving institutions and underrepresented minorities, designed to equip participants with the tools to study social movements, political mobilization, and structural inequality.</p>
 </details> &nbsp; 
-<details><summary><a href=https://gonzalez-rostani.com/img/Papers/Article1_MPE.pdf>Manuscript</a> </summary><p> </p>
+<details><summary><a href=https://cup.org/4ibfZqa>First View</a> </summary><p> </p>
 </details> &nbsp; <br>
 
 <br>
@@ -141,7 +141,7 @@ details > p {
 
 <details><summary>Abstract</summary><p>This paper explores how legislators use social media, specifically investigating whether their posts reflect the concerns stated by their legislative party peers in an anonymous survey. Utilizing data from Twitter, we compare legislators' social media posts with responses in PELA, a parliamentary elite survey in Latin America. We propose a novel, scalable method for analyzing political communications, employing OpenAI for topic identification in statements and BERTopic analysis to identify key political issues. This approach enables a thorough and detailed examination of these topics over time and across various political parties. Applying our method to statements from members of the Chilean Congress, we observe a general alignment between the preferences stated in surveys by elites and the prominence of issues on Twitter. This result validates Twitter as a tool for predicting politicians' preferences. Our methodological approach enhances our understanding of political communication and strategy, offering valuable tools for analyzing political rhetoric over time.</p>
 </details> &nbsp; 
-<details><summary><a href=https://onlinelibrary.wiley.com/doi/10.1111/lsq.12481>Manuscript</a> </summary><p> </p>
+<details><summary><a href=https://onlinelibrary.wiley.com/doi/10.1111/lsq.12481>First View</a> </summary><p> </p>
 </details> &nbsp; <br>
 
 
@@ -151,7 +151,7 @@ details > p {
 
 <details><summary>Abstract</summary><p>  This paper investigates the impact of the fourth industrial revolution on politics by proposing a theoretical framework linking technological change with political apathy. Using hierarchical logistic modeling with varying intercepts by country and survey data from the European Social Survey from 2002 to 2018 for 23 European countries, I present evidence that individuals more exposed to technological change are less likely to feel close to a political party, participate in elections and take part in protests. Those individuals exposed to automation are about 10% less likely to be politically engaged than those respondents without exposure to automation risks. I also demonstrate that income levels and unionization rates substantially moderate the direct link between automation and political engagement. The impact of automation on political engagement is smaller among wealthier citizens and in highly unionized environment. The political message from these interaction effects speaks about the reinforcing forces between economic inequality and automation and the role of collective organization. My findings have important implications for understanding automation politics, political inequality, and the demand (or lack of) for protection. </p>
 </details> &nbsp; 
-<details><summary><a href=http://doi.org/10.1111/ecpo.12307 >Manuscript</a> </summary><p> </p>
+<details><summary><a href=http://doi.org/10.1111/ecpo.12307 >First View</a> </summary><p> </p>
 </details> &nbsp; <br>
 
 <br>
@@ -160,7 +160,7 @@ details > p {
 
 <details><summary>Abstract</summary><p>Many legislators do not have consistently progressive or conservative policy positions. How does the mix of issue positions relate to the manner in which the legislators consider their placement on the left-right ideological scale? Analyzing data from the Parliamentary Elites in Latin America (PELA) survey, this paper counterposes combinations of legislators’ moral and economic policy positions with their self-located ideological score. Our results confirm the importance of economics, which is consistent with older studies, but we also find that moral issues are at least consistent with – and perhaps germane– to the left-right placement of many of the region’s legislators. Among the findings are that the left is more heterogeneous, especially with respect to moral views, than is the right. We also show that many centrists are closeted conservatives, supporting the “ashamed right” thesis.</p>
 </details> &nbsp; 
-<details><summary><a href=https://gonzalez-rostani.com/img/Papers/Chavarr%C3%ADaMora_Chen_GonzalezRostani_Morgenstern%20(1).pdf>Manuscript</a> </summary><p> </p>
+<details><summary><a href=https://onlinelibrary.wiley.com/doi/10.1111/lsq.12476>First View</a> </summary><p> </p>
 </details> &nbsp; <br>
 
 <br>
