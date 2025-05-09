@@ -136,6 +136,15 @@ details > p {
 <br>
 
 
+**Are Protests Contagious? The Dynamics of Temporal and Spatial Diffusion of Political Protests.** 2025. with [Jeffrey Nonnemacher](https://www.jeffreynonnemacher.com/)  (Accepted at the Journal of Elections, Public Opinion and Parties)
+
+<details><summary>Abstract</summary><p>Do political protests spread across time and space? While scholars of social movements and political behavior have long debated this question, existing studies often fail to simultaneously account for both spatial and temporal dependencies in protest dynamics. Using protest event analysis and a novel spatiotemporal autoregressive distributed lag (STADL) model, we examine the diffusion of protests across 30 European countries from 2000 to 2015. Our findings provide robust evidence that protests exhibit both temporal and spatial contagion: protest activity in one year significantly increases protest frequency in the following year, and protests in one country contribute to the onset of protests in neighboring states. These results underscore the importance of modeling both dimensions of diffusion to avoid biased inferences and contribute to the broader understanding of protest mobilization. Our study highlights the interconnected nature of political activism and has important implications for research on social movements and political instability.</p>
+</details> &nbsp; 
+<details><summary><a href=https://gonzalez-rostani.com/img/Papers/Protest.pdf>Manuscript</a> </summary><p> </p>
+</details> &nbsp; <br>
+
+
+<br>
 
 **Social Media versus Surveys: A New Scalable Approach to Understanding Political Discourse.** 2024. with [Jose Luis Incio](https://joseincio.com/) and [Guillermo Lezama](https://guillelezama.netlify.app/)  _(Accepted at Legislative Legislative Studies Quarterly)_
 
@@ -268,15 +277,6 @@ details > p {
 
 <br>
 
-**Are Protests Contagious? The Dynamics of Temporal and Spatial Diffusion of Political Protests.** 2025. with [Jeffrey Nonnemacher](https://www.jeffreynonnemacher.com/)  (R&R at the Journal of Elections, Public Opinion and Parties)
-
-<details><summary>Abstract</summary><p>Do political protests spread across time and space? While scholars of social movements and political behavior have long debated this question, existing studies often fail to simultaneously account for both spatial and temporal dependencies in protest dynamics. Using protest event analysis and a novel spatiotemporal autoregressive distributed lag (STADL) model, we examine the diffusion of protests across 30 European countries from 2000 to 2015. Our findings provide robust evidence that protests exhibit both temporal and spatial contagion: protest activity in one year significantly increases protest frequency in the following year, and protests in one country contribute to the onset of protests in neighboring states. These results underscore the importance of modeling both dimensions of diffusion to avoid biased inferences and contribute to the broader understanding of protest mobilization. Our study highlights the interconnected nature of political activism and has important implications for research on social movements and political instability.</p>
-</details> &nbsp; 
-<details><summary><a href=https://gonzalez-rostani.com/img/Papers/Protest.pdf>Manuscript</a> </summary><p> </p>
-</details> &nbsp; <br>
-
-
-<br>
 
 **Immigration Shocks and Politicians’ Rhetoric: Evidence from The Venezuelan Migration Crisis.** 2023. with [Jose Luis Incio](https://joseincio.com/) and [Guillermo Lezama](https://guillelezama.netlify.app/) (presented at Universidad de Salamanca 2023, PUCP 2023, UCU 2023, APSA 2024, MPSA 2025, Under Review) 
 
