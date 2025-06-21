@@ -96,6 +96,7 @@ details > p {
   
 # 🎤 Guest Lectures  
 
+- _Mobilization and Political Economy_ NSF-REU Summer Camp: **The Political Economy of Automation**, Summer 2025.  
 - _Political Economy of Growth_ (PS2543), University of Pittsburgh. **Technological Change and Automation of Jobs**, Spring 2023.  
 - _Mobilization and Political Economy_ NSF-REU Summer Camp: **Theories of Political Economy**, Summer 2023.  
 
