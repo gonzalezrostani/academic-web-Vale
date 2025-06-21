@@ -88,6 +88,7 @@ details > p {
 </details>  
 <br>
 <br>
+<br>
 
 ####  PS0700 - Research Methods in Political Science  ⚙️
 📍 _University of Pittsburgh_, Summer 2022  
