@@ -63,7 +63,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "mailto:gonzalezrostani@pitt.edu"
+email: "mailto:gonzalez.rostani@usc.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -78,4 +78,4 @@ My work on these and related topics has been published or conditionally accepted
 
 I received my PhD in Political Science from the [University of Pittsburgh](https://www.polisci.pitt.edu/) in 2024. Before moving to the U.S., I earned an MA in Public Policy from the [Universidad Católica del Uruguay](https://ucu.edu.uy/es/taxonomy/term/40/node/113) and a BA in Public Accounting from [Universidad de la República](https://udelar.edu.uy/portal/). I have also taught at Universidad de la República, worked at KPMG, served as a political organizer, and advised national politicians in Uruguay.
 
-Please feel free to contact me at: gonzalezrostani [at] princeton.edu.
+Please feel free to contact me at: gonzalez.rostani [at] usc.edu.
