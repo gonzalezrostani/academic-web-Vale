@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:gonzalezrostani@pitt.edu"
+  link: "mailto:gonzalez.rostani@usc.edu"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/gonzalezrostani
