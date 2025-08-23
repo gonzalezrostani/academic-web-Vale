@@ -77,7 +77,7 @@ user_groups:
 
 I am an Assistant Professor in the Department of Political Science and International Relations at the [University of Southern California](https://dornsife.usc.edu/poir/). Before joining USC, I was a Postdoctoral Research Associate at [Princeton University](https://politics.princeton.edu/).
 
-My research explores how technological change—especially automation and artificial intelligence—reshapes politics and society. I study how these shifts affect political attitudes and the rise of populist movements, with work spanning advanced economies and the Global South. I also work on international trade, inequality, and political methodology. At present, I am building machine learning tools to measure populism and applying large language models (LLMs) to identify topics and stances in political discourse.
+My research explores how technological change—especially automation and artificial intelligence—reshapes politics and society. I study how these shifts affect political attitudes and the rise of populist movements, with work spanning advanced economies and the Global South. I also work on international trade, inequality, and political methodology. I am particularly interested in developing machine learning tools to measure populism and applying LLMs to analyze topics and stances in political discourse.
 
 My work has been published or is forthcoming in journals including the *Journal of Politics*, *Economics & Politics*, *Legislative Studies Quarterly*, and *PS: Political Science & Politics*. I am a member of the *2025 APSA Task Force on AI and Political Science*, where I serve on the committee on economic inequality and the labor force.
 
