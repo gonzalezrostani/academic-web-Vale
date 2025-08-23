@@ -6,12 +6,12 @@ title: Valentina González-Rostani
 superuser: true
 
 # Role/position
-role: Postdoctoral Research Associate
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Princeton University
-  url: "https://politics.princeton.edu/"
+- name: University of Southern California
+  url: "https://dornsife.usc.edu/poir/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -22,6 +22,9 @@ interests:
 
 education:
   courses:
+  - course: Postdoctoral Research Associate
+    institution: Princeton University
+    year: 2025
   - course: PhD in Political Science
     institution: University of Pittsburgh
     year: 2024
