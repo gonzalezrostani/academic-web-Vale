@@ -44,7 +44,7 @@ A set of notes based on my experience—things I wish I had known before startin
 
 #### **Presentation Tips 📢**  
 Presentation skills matter. This guide offers strategies for structuring research presentations effectively. It was prepared for final paper presentations at the **MPE Summer Methods Camp**.  
-[📄 Download the guide](https://www.dropbox.com/scl/fi/k51kpz2rfdb3cbzoonjji/MPE-Final-Presentation-Guide.pdf?rlkey=bz9iowcrd0snnl2oj88j82c58&raw=1)  
+[📄 Download the guide](https://gonzalez-rostani.com/img/papers/presentation_mpe)  
 
 
 #### **Job Talk Tips 🎤**  
