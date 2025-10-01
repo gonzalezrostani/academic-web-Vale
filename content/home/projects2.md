@@ -234,11 +234,14 @@ details > p {
 
 ## **Working papers** 
 
-**The Political Economy of Automation and Global Production in a Global Context: Evidence from Mexico.** 2025. with  [Carles Boix]([https://www.breebangjensen.com/](https://www.princeton.edu/~cboix/)) and [Erica Owen](https://www.polisci.pitt.edu/people/erica-owen) (to presented at Universitat de Barcelona 2025)
+**The Political Economy of Automation and Fragmented Production: Evidence from Mexico.** 2025. with  [Carles Boix]([https://www.breebangjensen.com/](https://www.princeton.edu/~cboix/)) and [Erica Owen](https://www.polisci.pitt.edu/people/erica-owen) (to presented at Universitat de Barcelona 2025)
 
-<details><summary>Abstract</summary><p>This study examines how automation in the Global North affects labor markets in the Global South through trade and offshoring. As advanced economies adopt robots, demand for foreign labor declines, particularly in offshorable activities, creating economic shocks with significant social and political consequences. While migration could mediate these effects, automation also limits migration opportunities, potentially leading to alternative responses such as illicit activities. We analyze the impact of domestic (Mexican) and foreign (U.S.) robot adoption on emigration and violence at the commuting zone level in Mexico. Using measures from Acemoglu \& Restrepo (2020) and Faber (2020), we find that while domestic automation has no clear effect on emigration, regions with more routine occupations experience higher pre-shock emigration. However, exposure to U.S. automation via offshoring reduces migration and remittances, suggesting a decline in foreign labor demand. The reduction in labor mobility contributes to greater levels of organized crime, as persistent economic shocks and limited legal employment increase participation in illegal activities. Our findings suggest that foreign automation exacerbates instability in exposed regions. This study highlights the broader economic and social consequences of automation in an interdependent world.
+<details><summary>Abstract</summary><p>How does automation in the Global North shape politics and violence in the Global South? We develop a political economy theory in which robot adoption in advanced economies reduces demand for export-oriented labor in developing countries, depressing wages and employment and creating social and political consequences. We test this argument in Mexico, a close trade partner of the United States. Using commuting-zone data, we construct exposure measures combining pre-NAFTA export employment with U.S. industry robot growth and initial offshoring intensity, while accounting for domestic robot adoption and other shocks. To address endogeneity, we instrument foreign exposure with European robot diffusion. We find that regions more exposed to foreign robots experience higher levels of violent organized crime, including narcocrime and homicides (but not property crime), and stronger support for left-populist candidates. These findings demonstrate how automation shocks ripple through global value chains to reshape society and elections.
 </p>
+</details> &nbsp; 
+<details><summary><a href=https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5553058>Manuscript</a> </summary><p> </p>
 </details> &nbsp; <br>
+
 
 <br>
 
