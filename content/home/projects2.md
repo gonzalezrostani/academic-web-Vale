@@ -315,6 +315,36 @@ details > p {
 
 ## **Selected Work in progress** 
 
+**The Political Ramification of AI-Augmented Work: Evidence from a Field Experiment.** 2025. with [Shir Raviv](https://www.ravivshir.net/) 
+
+<details><summary>Abstract</summary><p>Recent advances in AI have fueled concerns about future job displacement, prompting research on the political consequences for workers vulnerable to job loss. Yet AI is already deeply embedded in the workplace, shaping the daily experiences of millions who interact with AI software regularly. Large language models (LLMs) are now widely accessible and affordable, enabling workers to adopt them independently. The benefits are immediate: greater efficiency, reduced cognitive effort, and often higher-quality output. But these short-term gains may entail long-term costs. As workers grow dependent on AI, they risk losing essential skills and autonomy. Their use also generates data that improves these tools, inadvertently accelerating automation that could eventually replace them. Do workers recognize these risks, and how do they balance them against short-term benefits in their responses to these changes? We explore these questions using a pre-registered field experiment on an online labor marketplace. We recruited 1,200 workers to perform various tasks, randomizing their (1) access to an AI-assisted tool, (2) the perceived capability of this tool, and (3) the stated long-term objectives of implementing this tool. Using a range of behavioral and attitudinal measures, we track changes in how workers use the AI tool and complete their work over time, as well as their perceived competence, job security, and preferences for policies such as retraining and compensation. By documenting informal resistance strategies through which workers seek to preserve their comparative advantage, our study offers new insight into the political consequences of this technological transformation. </p>
+</details> &nbsp; <br>
+
+
+
+<br>
+
+**Detecting AI-Generated Responses in Surveys: A Behavioral–Linguistic Toolkit.** 2025. with [Shir Raviv](https://www.ravivshir.net/) 
+
+<details><summary>Abstract</summary><p>The rapid adoption of large language models (LLMs) has introduced a new form of survey misrepresentation: respondents using AI to craft their answers. Traditional fraud checks and text-only classifiers fail to detect such behavior reliably, allowing synthetic content to contaminate datasets. This research note presents a behavioral–linguistic toolkit for identifying AI-generated survey responses. The toolkit integrates three components—front-end copy-paste blocking, keystroke-dynamics monitoring, and post-hoc linguistic analysis combining embeddings, perplexity, and AI-similarity scores. We validate this approach in a randomized online experiment comparing “AI-Allowed” and “AI-Blocked” conditions. Results show clear behavioral and textual signatures of AI use: longer and more fluent answers with minimal editing, high semantic overlap with model-generated text, and reduced typing variability. These indicators jointly predict AI use with high accuracy, outperforming existing detection methods. The proposed framework offers a scalable solution for preserving data quality and transparency in the era of generative AI, providing a foundation for future best practices in survey methodology.</p>
+</details> &nbsp; <br>
+
+
+
+<br>
+
+**Too Rich to Tax? Technological Elites, Economic Inequality, and Public Attitudes Toward Taxing the Super-Rich.** 2025. with [Santiago Lopez-Cariboni](https://lopez-cariboni.info/) 
+
+<details><summary>Abstract</summary><p>This project investigates the societal, cultural, and psychological factors that give rise to this belief in “impossibility” and discusses the implications for policy-making and advocacy. Through survey experiments, we examine how collective skepticism prevents citizens from demanding reform, and we also explore the role of perceived state capacity in reinforcing the notion that taxing high-net-worth individuals is unrealistic. By uncovering the roots of this mindset, our study seeks to explain why so many people in developing nations refrain from voicing support for wealth taxation—even though inequality is widely recognized. Ultimately, this research aims to reframe the conversation around tax justice on a global scale, offering practical steps and policy recommendations to dismantle the barriers of disbelief. </p>
+</details> &nbsp;
+<details><summary><a href=https://osf.io/k3ypc/files/kznsb>PAP</a> </summary><p> </p>
+</details> &nbsp; <br>
+
+
+
+<br>
+
+
 
 **Artificial Intelligence and the Future of Democracy: Political and Institutional Consequences of Economic Dislocation.** 2025. with [Carles Boix](https://www.princeton.edu/~cboix/) 
 
