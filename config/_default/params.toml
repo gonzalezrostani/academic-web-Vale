@@ -90,12 +90,12 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "gonzalezrostani@princeton.edu"
+email = "gonzalez.rostani@usc.edu"
 #phone = "+1 412 897 5184"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "20 Prospect Avenue", city = "Princeton", region = "NJ", postcode = "08544", country = "United States", country_code = "US"}
+address = {street = "Dr. Joseph Medicine Crow Center for International and Public Affairs (DMC) 303", city = "Los Angeles", region = "CA", postcode = "90007", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
