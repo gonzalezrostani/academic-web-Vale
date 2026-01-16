@@ -110,7 +110,7 @@ details > p {
 
 <br>
 
-**Elections, Right-wing Populism, and Political-Economic Polarization:  The Role of Institutions and Political Outsiders.** 2025.  _(Accepted at the Journal of Politics - JOP)_
+**Elections, Right-wing Populism, and Political-Economic Polarization:  The Role of Institutions and Political Outsiders.** 2025.  _(The Journal of Politics - JOP)_
 
 <details><summary>Abstract</summary><p>While there is little doubt that technological change is generating labor market polarization around the world, we know much less about its translation into partisan polarization. I explore the political polarization driven by the rise of right-wing populist parties and leaders throughout developed democracies. I build a theoretical model to explain how right-wing populists have attracted the votes of routine workers, workers exposed to automation risk, and previously loyal to mainstream left-wing parties, within both majoritarian multi-district and multiparty proportional systems. I empirically evaluate the theory, focusing primarily on the US and Germany, using individual vote-switching data and campaign targeting strategies inferred from the content of political speeches and party manifestos.</p>
 </details> &nbsp; 
@@ -139,7 +139,7 @@ details > p {
 
 
 
-**Engaging Diversity: An Inclusive Approach to Undergraduate Mentorship in Mobilization and Political Economy** 2025. with [Chie Togami](https://chietogami.com/), [Mariely Lopez-Santana](https://marielylopezsantana.weebly.com/), Tania Ramirez, [Fernando Tormos-Aponte](https://www.fernandotormos.com/), and Mayra Velez-Serrano. (Accepted at PS: Political Science & Politics)
+**Engaging Diversity: An Inclusive Approach to Undergraduate Mentorship in Mobilization and Political Economy** 2025. with [Chie Togami](https://chietogami.com/), [Mariely Lopez-Santana](https://marielylopezsantana.weebly.com/), Tania Ramirez, [Fernando Tormos-Aponte](https://www.fernandotormos.com/), and Mayra Velez-Serrano. (PS: Political Science & Politics)
 
 <details><summary>Abstract</summary><p>The political science discipline faces significant disparities in the representation and participation of underrepresented minorities in graduate education. This lack of diversity among political scientists results in a narrower range of questions being explored within the field. Furthermore, the underrepresentation is particularly pronounced in the political methodology subfield, limiting the scope of tools and perspectives to those predominantly shaped by white scholars. This article proposes a template for teaching and mentoring undergraduate students from underrepresented backgrounds to enhance their opportunities in graduate programs. We examine the Mobilization and Political Economy program, a summer research initiative aimed at minority-serving institutions and underrepresented minorities, designed to equip participants with the tools to study social movements, political mobilization, and structural inequality.</p>
 </details> &nbsp; 
@@ -149,7 +149,7 @@ details > p {
 <br>
 
 
-**Are Protests Contagious? The Dynamics of Temporal and Spatial Diffusion of Political Protests.** 2025. with [Jeffrey Nonnemacher](https://www.jeffreynonnemacher.com/)  (Accepted at the Journal of Elections, Public Opinion and Parties)
+**Are Protests Contagious? The Dynamics of Temporal and Spatial Diffusion of Political Protests.** 2025. with [Jeffrey Nonnemacher](https://www.jeffreynonnemacher.com/)  (_Journal of Elections, Public Opinion and Parties_)
 
 <details><summary>Abstract</summary><p>Do political protests spread across time and space? While scholars of social movements and political behavior have long debated this question, existing studies often fail to simultaneously account for both spatial and temporal dependencies in protest dynamics. Using protest event analysis and a novel spatiotemporal autoregressive distributed lag (STADL) model, we examine the diffusion of protests across 30 European countries from 2000 to 2015. Our findings provide robust evidence that protests exhibit both temporal and spatial contagion: protest activity in one year significantly increases protest frequency in the following year, and protests in one country contribute to the onset of protests in neighboring states. These results underscore the importance of modeling both dimensions of diffusion to avoid biased inferences and contribute to the broader understanding of protest mobilization. Our study highlights the interconnected nature of political activism and has important implications for research on social movements and political instability.</p>
 </details> &nbsp; 
@@ -159,7 +159,7 @@ details > p {
 
 <br>
 
-**Social Media versus Surveys: A New Scalable Approach to Understanding Political Discourse.** 2024. with [Jose Luis Incio](https://joseincio.com/) and [Guillermo Lezama](https://guillelezama.netlify.app/)  _(Accepted at Legislative Legislative Studies Quarterly)_
+**Social Media versus Surveys: A New Scalable Approach to Understanding Political Discourse.** 2024. with [Jose Luis Incio](https://joseincio.com/) and [Guillermo Lezama](https://guillelezama.netlify.app/)  _(Legislative Legislative Studies Quarterly)_
 
 <details><summary>Abstract</summary><p>This paper explores how legislators use social media, specifically investigating whether their posts reflect the concerns stated by their legislative party peers in an anonymous survey. Utilizing data from Twitter, we compare legislators' social media posts with responses in PELA, a parliamentary elite survey in Latin America. We propose a novel, scalable method for analyzing political communications, employing OpenAI for topic identification in statements and BERTopic analysis to identify key political issues. This approach enables a thorough and detailed examination of these topics over time and across various political parties. Applying our method to statements from members of the Chilean Congress, we observe a general alignment between the preferences stated in surveys by elites and the prominence of issues on Twitter. This result validates Twitter as a tool for predicting politicians' preferences. Our methodological approach enhances our understanding of political communication and strategy, offering valuable tools for analyzing political rhetoric over time.</p>
 </details> &nbsp; 
@@ -169,7 +169,7 @@ details > p {
 
 <br>
 
-**Engaged Robots, and Disengaged Workers: Automation and Political Apathy.** 2024. _(Forthcoming at Economics & Politics)_
+**Engaged Robots, and Disengaged Workers: Automation and Political Apathy.** 2024. _(Economics & Politics)_
 
 <details><summary>Abstract</summary><p>  This paper investigates the impact of the fourth industrial revolution on politics by proposing a theoretical framework linking technological change with political apathy. Using hierarchical logistic modeling with varying intercepts by country and survey data from the European Social Survey from 2002 to 2018 for 23 European countries, I present evidence that individuals more exposed to technological change are less likely to feel close to a political party, participate in elections and take part in protests. Those individuals exposed to automation are about 10% less likely to be politically engaged than those respondents without exposure to automation risks. I also demonstrate that income levels and unionization rates substantially moderate the direct link between automation and political engagement. The impact of automation on political engagement is smaller among wealthier citizens and in highly unionized environment. The political message from these interaction effects speaks about the reinforcing forces between economic inequality and automation and the role of collective organization. My findings have important implications for understanding automation politics, political inequality, and the demand (or lack of) for protection. </p>
 </details> &nbsp; 
@@ -178,7 +178,7 @@ details > p {
 
 <br>
 
-**How Germane are Moral and Economic Policies to Ideology? Evidence from Latin American Legislators** 2024. with [Elias Chavarria](https://chavarriamora.com/), Chuang Chen, and [Scott Morgenstern](https://smorgens.wixsite.com/website) _(Forthcoming at Legislative Studies Quarterly)_
+**How Germane are Moral and Economic Policies to Ideology? Evidence from Latin American Legislators** 2024. with [Elias Chavarria](https://chavarriamora.com/), Chuang Chen, and [Scott Morgenstern](https://smorgens.wixsite.com/website) _(Legislative Studies Quarterly)_
 
 <details><summary>Abstract</summary><p>Many legislators do not have consistently progressive or conservative policy positions. How does the mix of issue positions relate to the manner in which the legislators consider their placement on the left-right ideological scale? Analyzing data from the Parliamentary Elites in Latin America (PELA) survey, this paper counterposes combinations of legislators’ moral and economic policy positions with their self-located ideological score. Our results confirm the importance of economics, which is consistent with older studies, but we also find that moral issues are at least consistent with – and perhaps germane– to the left-right placement of many of the region’s legislators. Among the findings are that the left is more heterogeneous, especially with respect to moral views, than is the right. We also show that many centrists are closeted conservatives, supporting the “ashamed right” thesis.</p>
 </details> &nbsp; 
