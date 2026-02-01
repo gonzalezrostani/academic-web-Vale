@@ -219,14 +219,23 @@ details p{margin:0;color:#374151;line-height:1.6}
 <div class="paper-top">
 <div>
 <h3 class="paper-title"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5553058" target="_blank" rel="noopener">The Political Economy of Automation and Fragmented Production: Evidence from Mexico</a></h3>
-<div class="paper-meta"><div><strong>with <a href="https://www.princeton.edu/~cboix/" target="_blank" rel="noopener">Carles Boix</a> and <a href="https://www.polisci.pitt.edu/people/erica-owen" target="_blank" rel="noopener">Erica Owen</a></strong></div><div><em>Working Paper</em> (2025)</div></div>
-<details><summary>Abstract</summary><p>How does automation in the Global North shape politics and violence in the Global South? We develop a political economy theory in which robot adoption in advanced economies reduces demand for export-oriented labor in developing countries, depressing wages and employment and creating social and political consequences. We test this argument in Mexico, a close trade partner of the United States. Using commuting-zone data, we construct exposure measures combining pre-NAFTA export employment with U.S. industry robot growth and initial offshoring intensity, while accounting for domestic robot adoption and other shocks. To address endogeneity, we instrument foreign exposure with European robot diffusion. We find that regions more exposed to foreign robots experience higher levels of violent organized crime, including narcocrime and homicides (but not property crime), and stronger support for left-populist candidates. These findings demonstrate how automation shocks ripple through global value chains to reshape society and elections.
+
+<div class="paper-meta">
+<div><strong>with <a href="https://www.princeton.edu/~cboix/" target="_blank" rel="noopener">Carles Boix</a> and <a href="https://www.polisci.pitt.edu/people/erica-owen" target="_blank" rel="noopener">Erica Owen</a></strong></div>
+<div><em>Working Paper</em> (2025)</div>
+</div>
+
+<details><summary>Abstract</summary><div><p>How does automation in the Global North shape politics and violence in the Global South? We develop a political economy theory in which robot adoption in advanced economies reduces demand for export-oriented labor in developing countries, depressing wages and employment and creating social and political consequences. We test this argument in Mexico, a close trade partner of the United States. Using commuting-zone data, we construct exposure measures combining pre-NAFTA export employment with U.S. industry robot growth and initial offshoring intensity, while accounting for domestic robot adoption and other shocks. To address endogeneity, we instrument foreign exposure with European robot diffusion. We find that regions more exposed to foreign robots experience higher levels of violent organized crime, including narcocrime and homicides (but not property crime), and stronger support for left-populist candidates. These findings demonstrate how automation shocks ripple through global value chains to reshape society and elections.</p></div></details>
+
 <details><summary><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5553058" target="_blank" rel="noopener">Manuscript</a></summary><div><p>SSRN.</p></div></details>
+
 <div class="tags"><span class="tag">Automation</span><span class="tag">Trade</span><span class="tag">Latin America</span></div>
 </div>
+
 <span class="badge working">Working</span>
 </div>
 </article>
+
 
 <article class="paper" data-status="under-review" data-themes="automation methods">
 <div class="paper-top">
