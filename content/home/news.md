@@ -345,6 +345,12 @@ subtitle = ""
         </tr>
         <tr>
           <td>2025</td>
+          <td><span class="event-type type-award">Grant</span></td>
+          <td>Center for International Studies Research Assistant Award - $41,000</td>
+          <td>USC</td>
+        </tr>
+        <tr>
+          <td>2025</td>
           <td><span class="event-type type-talk">Speaker</span></td>
           <td>WS x Columbia University - The Return of Donald Trump: Implications for US-China Relations Fireside Talk Series</td>
           <td>Columbia University</td>
