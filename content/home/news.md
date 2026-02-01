@@ -114,9 +114,20 @@ subtitle = ""
   color: #084298;
 }
 
+.type-teaching {
+  background-color: #e7d4f5;
+  color: #6f42c1;
+}
+
 .scheduled-tag {
   font-style: italic;
   color: #6c757d;
+  font-size: 0.9em;
+}
+
+.canceled-tag {
+  font-style: italic;
+  color: #dc3545;
   font-size: 0.9em;
 }
 
@@ -204,9 +215,27 @@ subtitle = ""
       </thead>
       <tbody>
         <tr>
+          <td>January 2026</td>
+          <td><span class="event-type type-talk">Talk</span></td>
+          <td>USC Sol Price School - Political Institutions and Political Economy Seminar</td>
+          <td>Los Angeles, CA</td>
+        </tr>
+        <tr>
+          <td>2026</td>
+          <td><span class="event-type type-workshop">Workshop</span></td>
+          <td><a href="https://ecpr.eu/Events/Event/workshopdetails/16809">Using Large Language Models (LLMs) and Other AI Tools to Gather and Analyse Political Elite Network</a> <span class="scheduled-tag">(invited, upcoming)</span></td>
+          <td>ECPR</td>
+        </tr>
+        <tr>
           <td>Spring 2026</td>
-          <td><span class="event-type type-talk">Teaching</span></td>
-          <td>The Politics of International Trade (Undergraduate)</td>
+          <td><span class="event-type type-teaching">Teaching</span></td>
+          <td>Started teaching The Politics of International Trade (Undergraduate)</td>
+          <td>USC</td>
+        </tr>
+        <tr>
+          <td>Spring 2026</td>
+          <td><span class="event-type type-teaching">Teaching</span></td>
+          <td>Started teaching Introduction to Data Analysis (Undergraduate)</td>
           <td>USC</td>
         </tr>
         <tr>
@@ -231,12 +260,6 @@ subtitle = ""
           <td>2026</td>
           <td><span class="event-type type-talk">Talk</span></td>
           <td>USC Center for International Studies - IR Seminar <span class="scheduled-tag">(upcoming)</span></td>
-          <td>Los Angeles, CA</td>
-        </tr>
-        <tr>
-          <td>2026</td>
-          <td><span class="event-type type-talk">Talk</span></td>
-          <td>USC Sol Price School - Political Institutions and Political Economy Seminar <span class="scheduled-tag">(upcoming)</span></td>
           <td>Los Angeles, CA</td>
         </tr>
         <tr>
@@ -280,14 +303,14 @@ subtitle = ""
         </tr>
         <tr>
           <td>Fall 2025</td>
-          <td><span class="event-type type-talk">Teaching</span></td>
-          <td>Advanced Methodology: Text as Data (Graduate)</td>
+          <td><span class="event-type type-teaching">Teaching</span></td>
+          <td>Started teaching Advanced Methodology: Text as Data (Graduate)</td>
           <td>USC</td>
         </tr>
         <tr>
           <td>Spring 2025</td>
-          <td><span class="event-type type-talk">Teaching</span></td>
-          <td>Introduction to Data Analysis (Undergraduate)</td>
+          <td><span class="event-type type-teaching">Teaching</span></td>
+          <td>Started teaching Introduction to Data Analysis (Undergraduate)</td>
           <td>USC</td>
         </tr>
         <tr>
@@ -298,7 +321,7 @@ subtitle = ""
         </tr>
         <tr>
           <td>2025</td>
-          <td><span class="event-type type-award">Award</span></td>
+          <td><span class="event-type type-award">Position</span></td>
           <td>Member of APSA Task Force on AI and Political Science - Economic Inequality and Labor Force Committee</td>
           <td>APSA</td>
         </tr>
@@ -341,8 +364,14 @@ subtitle = ""
         <tr>
           <td>2025</td>
           <td><span class="event-type type-publication">Publication</span></td>
-          <td>Are Protests Contagious? Temporal and Spatial Diffusion (with Jeffrey Nonnemacher) - <i>Journal of Elections, Public Opinion & Parties</i></td>
+          <td><a href="https://www.tandfonline.com/doi/abs/10.1080/17457289.2025.2504860">Are Protests Contagious? Temporal and Spatial Diffusion</a> (with Jeffrey Nonnemacher) - <i>Journal of Elections, Public Opinion & Parties</i></td>
           <td>Online First</td>
+        </tr>
+        <tr>
+          <td>June 2025</td>
+          <td><span class="event-type type-participant">Diffusion</span></td>
+          <td><a href="https://www.razonesypersonas.com/2025/06/quien-hace-el-trabajo-ahora.html">¿Quién hace el trabajo ahora?</a> - <i>Razones y Personas</i></td>
+          <td>Online</td>
         </tr>
         <tr>
           <td>2025</td>
@@ -383,6 +412,12 @@ subtitle = ""
         <tr>
           <td>2025</td>
           <td><span class="event-type type-talk">Talk</span></td>
+          <td>Nuffield College, Oxford <span class="canceled-tag">(canceled - visa reasons)</span></td>
+          <td>Oxford, UK</td>
+        </tr>
+        <tr>
+          <td>2025</td>
+          <td><span class="event-type type-talk">Talk</span></td>
           <td>Penn State–Pitt IR Annual Workshop</td>
           <td>PA</td>
         </tr>
@@ -395,7 +430,7 @@ subtitle = ""
         <tr>
           <td>2025</td>
           <td><span class="event-type type-talk">Talk</span></td>
-          <td>IBEIC Institut Barcelona - The Politics of AI: Actors, Policy, Geopolitics, and Resistances</td>
+          <td>IBEIC Institut Barcelona - The Politics of AI: Actors, Policy, Geopolitics, and Resistances <span class="canceled-tag">(canceled - visa reasons)</span></td>
           <td>Barcelona, Spain</td>
         </tr>
         <tr>
@@ -403,6 +438,12 @@ subtitle = ""
           <td><span class="event-type type-talk">Talk</span></td>
           <td>University of Nebraska–Lincoln - Hendricks Symposium: Bordering on Crisis?</td>
           <td>Lincoln, NE</td>
+        </tr>
+        <tr>
+          <td>2025</td>
+          <td><span class="event-type type-talk">Talk</span></td>
+          <td>UNESCO - AI and Digital Transformation <span class="canceled-tag">(canceled - visa reasons)</span></td>
+          <td>UNESCO</td>
         </tr>
         <tr>
           <td>2025</td>
@@ -482,6 +523,12 @@ subtitle = ""
         <tr>
           <td>2024</td>
           <td><span class="event-type type-award">Position</span></td>
+          <td>Accepted tenure-track Assistant Professor position at USC (will join in Fall 2025)</td>
+          <td>University of Southern California</td>
+        </tr>
+        <tr>
+          <td>2024</td>
+          <td><span class="event-type type-award">Position</span></td>
           <td>Began Postdoctoral Research Associate position at Princeton University (supervised by Carles Boix)</td>
           <td>Princeton, NJ</td>
         </tr>
@@ -514,6 +561,12 @@ subtitle = ""
           <td><span class="event-type type-publication">Publication</span></td>
           <td><a href="https://onlinelibrary.wiley.com/doi/10.1111/lsq.12476">Moral and Economic Dimensions of Ideology</a> (with Morgenstern et al.) - <i>Legislative Studies Quarterly</i></td>
           <td>Online First</td>
+        </tr>
+        <tr>
+          <td>October 2024</td>
+          <td><span class="event-type type-participant">Diffusion</span></td>
+          <td><a href="https://www.razonesypersonas.com/2023/10/la-noche-de-la-nostalgia.html">La noche de la nostalgia</a> - <i>Razones y Personas</i></td>
+          <td>Online</td>
         </tr>
         <tr>
           <td>2024</td>
