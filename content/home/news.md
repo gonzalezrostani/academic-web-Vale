@@ -216,6 +216,12 @@ subtitle = ""
       <tbody>
         <tr>
           <td>January 2026</td>
+          <td><span class="event-type type-publication">Publication</span></td>
+          <td><a href="https://www.journals.uchicago.edu/doi/10.1086/734533">Elections, Right-Wing Populism, and Political-Economic Polarization: The Role of Institutions and Political Outsiders</a> - <i>The Journal of Politics</i>, Vol. 88, No. 1</td>
+          <td>Published</td>
+        </tr>
+        <tr>
+          <td>January 2026</td>
           <td><span class="event-type type-talk">Talk</span></td>
           <td>USC Sol Price School - Political Institutions and Political Economy Seminar</td>
           <td>Los Angeles, CA</td>
@@ -308,12 +314,6 @@ subtitle = ""
           <td>USC</td>
         </tr>
         <tr>
-          <td>Spring 2025</td>
-          <td><span class="event-type type-teaching">Teaching</span></td>
-          <td>Started teaching Introduction to Data Analysis (Undergraduate)</td>
-          <td>USC</td>
-        </tr>
-        <tr>
           <td>2025</td>
           <td><span class="event-type type-award">Award</span></td>
           <td>Appointed to National System of Researchers (SNI), ANII, Uruguay</td>
@@ -329,7 +329,7 @@ subtitle = ""
           <td>2025</td>
           <td><span class="event-type type-award">Grant</span></td>
           <td>Center for International Studies Research Award - $10,000</td>
-          <td>Princeton University</td>
+          <td>USC</td>
         </tr>
         <tr>
           <td>2025</td>
@@ -348,12 +348,6 @@ subtitle = ""
           <td><span class="event-type type-talk">Speaker</span></td>
           <td>WS x Columbia University - The Return of Donald Trump: Implications for US-China Relations Fireside Talk Series</td>
           <td>Columbia University</td>
-        </tr>
-        <tr>
-          <td>2025</td>
-          <td><span class="event-type type-publication">Publication</span></td>
-          <td><a href="https://www.journals.uchicago.edu/doi/10.1086/734533">Elections, Right-wing Populism, and Political-Economic Polarization</a> - <i>The Journal of Politics</i></td>
-          <td>Online First</td>
         </tr>
         <tr>
           <td>2025</td>
@@ -537,6 +531,12 @@ subtitle = ""
           <td><span class="event-type type-award">Award</span></td>
           <td>Completed Ph.D. in Political Science</td>
           <td>University of Pittsburgh</td>
+        </tr>
+        <tr>
+          <td>2024</td>
+          <td><span class="event-type type-award">Grant</span></td>
+          <td>Bobst Center for Peace and Justice Research Grant - $10,000</td>
+          <td>Princeton University</td>
         </tr>
         <tr>
           <td>2024</td>
