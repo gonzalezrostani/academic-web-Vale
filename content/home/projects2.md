@@ -408,7 +408,18 @@ details p{margin:0;color:#374151;line-height:1.6}
 <div class="paper-top">
 <div>
 <h3 class="paper-title">Sustaining Pathway Programs in the Social Sciences</h3>
-<div class="paper-meta"><div><strong>with <a href="https://chietogami.com/" target="_blank" rel="noopener">Chie Togami</a>, <a href="https://marielylopezsantana.weebly.com/" target="_blank" rel="noopener">Yeneca Lee</a>, Tania Ramirez, <a href="https://www.fernandotormos.com/" target="_blank" rel="noopener">, and Fernando Tormos-Aponte</a></strong></div><div><em>Under Review</em></div></div>
+
+<div class="paper-meta">
+<div>
+<strong>
+with 
+<a href="https://chietogami.com/" target="_blank" rel="noopener">Chie Togami</a>, 
+<a href="https://marielylopezsantana.weebly.com/" target="_blank" rel="noopener">Yeneca Lee</a>, 
+Tania Ramirez, and 
+<a href="https://www.fernandotormos.com/" target="_blank" rel="noopener">Fernando Tormos-Aponte</a>
+</strong>
+</div>
+<div><em>Under Review</em></div>
 </div>
 
 <details>
@@ -424,9 +435,10 @@ details p{margin:0;color:#374151;line-height:1.6}
 </div>
 </div>
 
-<span class="badge working">Viewpoint</span>
+<span class="badge under-review">Under Review</span>
 </div>
 </article>
+
 
 
 <!-- When Money Talks -->
