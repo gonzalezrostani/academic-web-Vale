@@ -66,6 +66,7 @@ details p{margin:0;color:#374151;line-height:1.6}
 <button class="pill" onclick="setTheme('automation', this)">Automation & AI</button>
 <button class="pill" onclick="setTheme('populism', this)">Populism & Polarization</button>
 <button class="pill" onclick="setTheme('methods', this)">Methods</button>
+<button class="pill" onclick="setTheme('teaching', this)">Mentoring/Teaching</button>
 <button class="pill" onclick="setTheme('latin-america', this)">Latin America</button>
 <button class="pill" onclick="setTheme('trade', this)">Trade & Labor</button>
 </div>
@@ -123,7 +124,7 @@ details p{margin:0;color:#374151;line-height:1.6}
 </div>
 </article>
 
-<article class="paper" data-status="published" data-themes="methods">
+<article class="paper" data-status="published" data-themes="teaching">
 <div class="paper-top">
 <div>
 <h3 class="paper-title"><a href="https://cup.org/4ibfZqa" target="_blank" rel="noopener">Engaging Diversity: An Inclusive Approach to Undergraduate Mentorship in Mobilization and Political Economy</a></h3>
@@ -309,7 +310,7 @@ details p{margin:0;color:#374151;line-height:1.6}
 </article>
 
 <!-- Creating Pathways to Graduate Success -->
-<article class="paper" data-status="under-review" data-themes="methods">
+<article class="paper" data-status="under-review" data-themes="teaching">
 <div class="paper-top">
 <div>
 <h3 class="paper-title">Creating Pathways to Graduate Success: Reducing Barriers for Underrepresented Minority Students in the Social Sciences</h3>
