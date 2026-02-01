@@ -403,6 +403,32 @@ details p{margin:0;color:#374151;line-height:1.6}
 </div>
 </article>
 
+<!-- Sustaining Pathway Programs in the Social Sciences -->
+<article class="paper" data-status="under-review" data-themes="teaching">
+<div class="paper-top">
+<div>
+<h3 class="paper-title">Sustaining Pathway Programs in the Social Sciences</h3>
+<div class="paper-meta"><div><strong>with <a href="https://chietogami.com/" target="_blank" rel="noopener">Chie Togami</a>, <a href="https://marielylopezsantana.weebly.com/" target="_blank" rel="noopener">Yeneca Lee</a>, Tania Ramirez, <a href="https://www.fernandotormos.com/" target="_blank" rel="noopener">, and Fernando Tormos-Aponte</a></strong></div><div><em>Under Review</em></div></div>
+</div>
+
+<details>
+<summary>Abstract</summary>
+<div><p>Graduate school pathway programs in the social sciences face intensifying political attacks, legal constraints, and defunding. This viewpoint examines strategies for sustaining these programs through strategic reframing, diversified funding, collective knowledge-sharing, and risk-balanced action. It argues that program survival is essential for preserving equity infrastructure and broadening participation in research careers.</p></div>
+</details>
+
+<div class="tags">
+<span class="tag">Pathway Programs</span>
+<span class="tag">DEI</span>
+<span class="tag">Higher Education</span>
+<span class="tag">Academic Freedom</span>
+</div>
+</div>
+
+<span class="badge working">Viewpoint</span>
+</div>
+</article>
+
+
 <!-- When Money Talks -->
 <article class="paper" data-status="working" data-themes="populism">
 <div class="paper-top">
