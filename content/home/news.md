@@ -200,7 +200,7 @@ subtitle = ""
 
 <div class="year-section">
   <div class="year-header" onclick="toggleYear('2026')">
-    📅 2026 News
+    📅 2026 
     <span class="toggle-icon" id="icon-2026">▼</span>
   </div>
   <div class="year-content expanded" id="content-2026">
@@ -287,7 +287,7 @@ subtitle = ""
 
 <div class="year-section">
   <div class="year-header" onclick="toggleYear('2025')">
-    📅 2025 News
+    📅 2025 
     <span class="toggle-icon collapsed" id="icon-2025">▼</span>
   </div>
   <div class="year-content collapsed" id="content-2025">
@@ -506,7 +506,7 @@ subtitle = ""
 
 <div class="year-section">
   <div class="year-header" onclick="toggleYear('2024')">
-    📅 2024 News
+    📅 2024 
     <span class="toggle-icon collapsed" id="icon-2024">▼</span>
   </div>
   <div class="year-content collapsed" id="content-2024">
