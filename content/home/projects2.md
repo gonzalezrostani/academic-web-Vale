@@ -254,6 +254,142 @@ details p{margin:0;color:#374151;line-height:1.6}
 </div>
 </article>
 
+<!-- The path from Automation to Populist Political Behavior -->
+<article class="paper" data-status="working" data-themes="automation populism methods">
+<div class="paper-top">
+<div>
+<h3 class="paper-title">The path from Automation to Populist Political Behavior</h3>
+<div class="paper-meta"><div><strong>Valentina González-Rostani</strong></div><div><em>Working Paper</em> (2023) · Presented at APSA 2022, IPES 2022, EUSA 2023, EPSA 2023, PolMeth XL, APSA 2023, Virtual IPES 2024, Yale · To be presented at Caltech</div></div>
+<details><summary>Abstract</summary><div><p>I investigate the impact of automation exposure on political behavior in post-industrial societies, with a specific focus on the support for populism. I examine the potential causal mechanisms by exploring the interplay between economic and cultural factors. Through a parallel encouragement design survey experiment conducted in the US, I divide the sample into two groups: one group is randomly assigned to the treatment condition either related to exposure to robots and AI replacing jobs or a control condition related to technological development; the other group experiences manipulation of both the treatment and the encouragement of mediators (marginalization and nostalgia). My findings reveal that feelings of marginalization and nostalgia mediate the effects of technological change on support for populism and illiberal policies. To enhance external validity, I implement mediation analysis using survey data from the European Social Survey from 2012 to 2016. The results help us understand how structural changes in labor markets and cultural factors impact political behavior and inequality.</p></div></details>
+<details><summary><a href="https://osf.io/3kdpq" target="_blank" rel="noopener">Pre-Analysis Plan</a></summary><div><p>OSF.</p></div></details>
+<details><summary><a href="https://gonzalez-rostani.com/img/Papers/Polmeth_VG.pdf" target="_blank" rel="noopener">Poster</a></summary><div><p>PDF.</p></div></details>
+<details><summary><a href="https://gonzalez-rostani.com/img/Papers/APSA_Automation_Culture.pdf" target="_blank" rel="noopener">Manuscript</a></summary><div><p>PDF.</p></div></details>
+<div class="tags"><span class="tag">Automation</span><span class="tag">Populism</span><span class="tag">Experiment</span><span class="tag">Mediation</span></div>
+</div>
+<span class="badge working">Working</span>
+</div>
+</article>
+
+<!-- Who Influences Whom -->
+<article class="paper" data-status="working" data-themes="populism methods">
+<div class="paper-top">
+<div>
+<h3 class="paper-title">Who Influences Whom? Analyzing the Interplay of Mainstream and Outsider Parties in Social Media Campaigns</h3>
+<div class="paper-meta"><div><strong>Valentina González-Rostani</strong></div><div><em>Working Paper</em> (2024)</div></div>
+<details><summary>Abstract</summary><div><p>Do mainstream parties respond to outsider parties, or vice versa? Previous research suggests an alignment between the issues prioritized by both mainstream and outsider parties, but definitive evidence on who influences whom is limited. I investigate this with fine-grained temporal analyses of YouTube videos posted by political parties in the year leading up to elections since 2015 in the UK and Spain. Using dictionaries, Wordscores, and transformer-based models, I classify the content by issues and communication characteristics, such as whether a message is populist or extreme. I then apply vector autoregression models to explore short-term dynamics of rhetorical influence. In the UK, a majoritarian system, mainstream right and left parties respond to each other, while the outsider right follows mainstream parties. In Spain, a multi-party system, mainstream parties influence each other, and outsider parties influence the mainstream left and each other. More importantly, in both systems, mainstream parties more often lead than follow outsiders' messages. These findings have important implications for understanding party dynamics and competition during electoral campaigns.</p></div></details>
+<div class="tags"><span class="tag">Campaigns</span><span class="tag">YouTube</span><span class="tag">VAR</span><span class="tag">Text-as-Data</span></div>
+</div>
+<span class="badge working">Working</span>
+</div>
+</article>
+
+<!-- Creating Pathways to Graduate Success -->
+<article class="paper" data-status="under-review" data-themes="methods">
+<div class="paper-top">
+<div>
+<h3 class="paper-title">Creating Pathways to Graduate Success: Reducing Barriers for Underrepresented Minority Students in the Social Sciences</h3>
+<div class="paper-meta"><div><strong>with <a href="https://chietogami.com/" target="_blank" rel="noopener">Chie Togami</a>, <a href="https://marielylopezsantana.weebly.com/" target="_blank" rel="noopener">Mariely Lopez-Santana</a>, Tania Ramirez, <a href="https://www.fernandotormos.com/" target="_blank" rel="noopener">Fernando Tormos-Aponte</a>, and Mayra Velez-Serrano</strong></div><div><em>Under Review</em></div></div>
+<details><summary>Abstract</summary><div><p>Students from underrepresented populations, including women, first-generation students, and racial and ethnic minorities, face persistent barriers in accessing graduate education and professional development opportunities, particularly in the social sciences. To address these disparities, graduate pipeline programs can provide critical support by providing networking and mentoring opportunities, closing methodological and research skill gaps, and preparing participants to apply to competitive graduate programs. This article outlines the principles and goals of a summer program focused on mobilization and political economy by detailing the rationale, implementation strategies, and evaluation framework used to assess its effects. Evaluation of the inaugural program demonstrated the success of a multilayered mentoring approach, tailored curricula, and comprehensive support structures in fostering participants’ academic growth and career readiness. By highlighting best practices and lessons, we provide a template for institutions seeking to develop initiatives associated with greater diversity in graduate programs in the social sciences, the academic market, and, ultimately, higher education.</p></div></details>
+<details><summary><a href="https://gonzalez-rostani.com/img/Papers/MPE2.pdf" target="_blank" rel="noopener">Manuscript</a></summary><div><p>PDF.</p></div></details>
+<div class="tags"><span class="tag">Mentorship</span><span class="tag">Pipeline Programs</span><span class="tag">Equity</span></div>
+</div>
+<span class="badge under-review">Under Review</span>
+</div>
+</article>
+
+<!-- Spatiotemporal approach -->
+<article class="paper" data-status="working" data-themes="methods">
+<div class="paper-top">
+<div>
+<h3 class="paper-title">A Spatiotemporal Approach to Model Multilevel Data Structures</h3>
+<div class="paper-meta"><div><strong>with <a href="https://sites.pitt.edu/~jch61/" target="_blank" rel="noopener">Jude C. Hays</a></strong></div><div><em>Working Paper</em> (2023) · Presented at APSA 2023</div></div>
+<details><summary>Abstract</summary><div><p>The analysis of multilevel data is common in political science and the social sciences more generally. We examine the case where random community-level effects cluster geographically in space. Ignoring this spatial dependence leads to inefficient coefficient estimates and overconfident standard errors. We propose a two-step spatial feasible generalized least squares estimator that, under empirically identifiable conditions, provides relatively efficient coefficient estimates and accurate standard errors compared to the maximum likelihood estimation of non-spatial models.</p></div></details>
+<details><summary>Draft Upon Request</summary><div><p>Please send me an email, and I will share our most recent working paper.</p></div></details>
+<div class="tags"><span class="tag">Spatial</span><span class="tag">Multilevel</span><span class="tag">FGLS</span></div>
+</div>
+<span class="badge working">Working</span>
+</div>
+</article>
+
+<!-- AI-Augmented Work -->
+<article class="paper" data-status="working" data-themes="automation methods">
+<div class="paper-top">
+<div>
+<h3 class="paper-title">The Political Ramification of AI-Augmented Work: Evidence from a Field Experiment</h3>
+<div class="paper-meta"><div><strong>with <a href="https://www.ravivshir.net/" target="_blank" rel="noopener">Shir Raviv</a></strong></div><div><em>Working Paper</em> (2025)</div></div>
+<details><summary>Abstract</summary><div><p>Recent advances in AI have fueled concerns about future job displacement, prompting research on the political consequences for workers vulnerable to job loss. Yet AI is already deeply embedded in the workplace, shaping the daily experiences of millions who interact with AI software regularly. Large language models (LLMs) are now widely accessible and affordable, enabling workers to adopt them independently. The benefits are immediate: greater efficiency, reduced cognitive effort, and often higher-quality output. But these short-term gains may entail long-term costs. As workers grow dependent on AI, they risk losing essential skills and autonomy. Their use also generates data that improves these tools, inadvertently accelerating automation that could eventually replace them. Do workers recognize these risks, and how do they balance them against short-term benefits in their responses to these changes? We explore these questions using a pre-registered field experiment on an online labor marketplace. We recruited 1,200 workers to perform various tasks, randomizing their (1) access to an AI-assisted tool, (2) the perceived capability of this tool, and (3) the stated long-term objectives of implementing this tool. Using a range of behavioral and attitudinal measures, we track changes in how workers use the AI tool and complete their work over time, as well as their perceived competence, job security, and preferences for policies such as retraining and compensation. By documenting informal resistance strategies through which workers seek to preserve their comparative advantage, our study offers new insight into the political consequences of this technological transformation.</p></div></details>
+<div class="tags"><span class="tag">AI</span><span class="tag">Field Experiment</span><span class="tag">Labor</span></div>
+</div>
+<span class="badge working">Working</span>
+</div>
+</article>
+
+<!-- Detecting AI-Generated Responses -->
+<article class="paper" data-status="working" data-themes="methods automation">
+<div class="paper-top">
+<div>
+<h3 class="paper-title">Detecting AI-Generated Responses in Surveys: A Behavioral–Linguistic Toolkit</h3>
+<div class="paper-meta"><div><strong>with <a href="https://www.ravivshir.net/" target="_blank" rel="noopener">Shir Raviv</a></strong></div><div><em>Working Paper</em> (2025)</div></div>
+<details><summary>Abstract</summary><div><p>The rapid adoption of large language models (LLMs) has introduced a new form of survey misrepresentation: respondents using AI to craft their answers. Traditional fraud checks and text-only classifiers fail to detect such behavior reliably, allowing synthetic content to contaminate datasets. This research note presents a behavioral–linguistic toolkit for identifying AI-generated survey responses. The toolkit integrates three components—front-end copy-paste blocking, keystroke-dynamics monitoring, and post-hoc linguistic analysis combining embeddings, perplexity, and AI-similarity scores. We validate this approach in a randomized online experiment comparing “AI-Allowed” and “AI-Blocked” conditions. Results show clear behavioral and textual signatures of AI use: longer and more fluent answers with minimal editing, high semantic overlap with model-generated text, and reduced typing variability. These indicators jointly predict AI use with high accuracy, outperforming existing detection methods. The proposed framework offers a scalable solution for preserving data quality and transparency in the era of generative AI, providing a foundation for future best practices in survey methodology.</p></div></details>
+<div class="tags"><span class="tag">Survey Methods</span><span class="tag">LLMs</span><span class="tag">Detection</span></div>
+</div>
+<span class="badge working">Working</span>
+</div>
+</article>
+
+<!-- Too Rich to Tax -->
+<article class="paper" data-status="working" data-themes="methods">
+<div class="paper-top">
+<div>
+<h3 class="paper-title">Too Rich to Tax? Technological Elites, Economic Inequality, and Public Attitudes Toward Taxing the Super-Rich</h3>
+<div class="paper-meta"><div><strong>with <a href="https://lopez-cariboni.info/" target="_blank" rel="noopener">Santiago Lopez-Cariboni</a></strong></div><div><em>Working Paper</em> (2025)</div></div>
+<details><summary>Abstract</summary><div><p>This project investigates the societal, cultural, and psychological factors that give rise to this belief in “impossibility” and discusses the implications for policy-making and advocacy. Through survey experiments, we examine how collective skepticism prevents citizens from demanding reform, and we also explore the role of perceived state capacity in reinforcing the notion that taxing high-net-worth individuals is unrealistic. By uncovering the roots of this mindset, our study seeks to explain why so many people in developing nations refrain from voicing support for wealth taxation—even though inequality is widely recognized. Ultimately, this research aims to reframe the conversation around tax justice on a global scale, offering practical steps and policy recommendations to dismantle the barriers of disbelief.</p></div></details>
+<details><summary><a href="https://osf.io/k3ypc/files/kznsb" target="_blank" rel="noopener">PAP</a></summary><div><p>OSF.</p></div></details>
+<div class="tags"><span class="tag">Inequality</span><span class="tag">Tax</span><span class="tag">Survey Experiments</span></div>
+</div>
+<span class="badge working">Working</span>
+</div>
+</article>
+
+<!-- AI and the Future of Democracy -->
+<article class="paper" data-status="working" data-themes="automation">
+<div class="paper-top">
+<div>
+<h3 class="paper-title">Artificial Intelligence and the Future of Democracy: Political and Institutional Consequences of Economic Dislocation</h3>
+<div class="paper-meta"><div><strong>with <a href="https://www.princeton.edu/~cboix/" target="_blank" rel="noopener">Carles Boix</a></strong></div><div><em>Working Paper / Review</em> (2025)</div></div>
+<details><summary>Abstract</summary><div><p>The rapid advancement of artificial intelligence (AI) is reshaping economies, labor markets, and political landscapes, raising urgent questions about its implications for democracy. This paper reviews the growing body of research on the political and institutional consequences of AI-driven economic dislocation. While AI-induced automation threatens traditional employment structures, its effects on political participation, electoral behavior, and policy preferences remain less understood. Existing evidence suggests that economic insecurity caused by automation can fuel political dissatisfaction and increase support for populist and anti-establishment movements. At the same time, AI-driven growth creates economic winners who may reinforce existing political alignments. However, the ways in which voters perceive and respond to AI-induced economic change—whether through policy demands, shifts in ideological preferences, or institutional trust—remain contested. This review highlights key theoretical perspectives, synthesizes recent empirical findings, and identifies pressing questions for future research on the intersection of AI, economic dislocation, and democratic stability.</p></div></details>
+<div class="tags"><span class="tag">AI</span><span class="tag">Democracy</span><span class="tag">Political Economy</span></div>
+</div>
+<span class="badge working">Working</span>
+</div>
+</article>
+
+<!-- Populist PULSAR -->
+<article class="paper" data-status="working" data-themes="populism methods">
+<div class="paper-top">
+<div>
+<h3 class="paper-title">You Can't Stop It If You Can't See It: Introducing a New Scalable System to Measure Populist Narratives at Higher Resolution</h3>
+<div class="paper-meta"><div><strong>with <a href="https://www.breebangjensen.com/" target="_blank" rel="noopener">Bree Bang-Jensen</a> and <a href="https://michaelcolaresi.com/" target="_blank" rel="noopener">Michael Colaresi</a></strong></div><div><em>Working Paper</em> (2025) · Presented at ISA 2024, MPSA 2025</div></div>
+<details><summary>Abstract</summary><div><p>The rise of populism across democracies is one of the greatest challenges to the existing world order since World War II. Yet, we only have very limited tools to measure populism within and across countries. Existing approaches rely on human coding, expert surveys, or dictionary-based analysis and suffer from high costs, low comparability, or low validity. We offer a middle-ground strategy between expensive qualitative reading and coarse machine coding. We extend PULSAR to identify sentences/paragraphs carrying populist narratives by parsing “us” versus “them” frames, who is protecting/threatening “the people,” and other common aspects of political speech. We illustrate the approach with US presidential campaign speeches.</p></div></details>
+<div class="tags"><span class="tag">Populism</span><span class="tag">NLP</span><span class="tag">Measurement</span></div>
+</div>
+<span class="badge working">Working</span>
+</div>
+</article>
+
+<!-- When Money Talks -->
+<article class="paper" data-status="working" data-themes="methods">
+<div class="paper-top">
+<div>
+<h3 class="paper-title">When Money Talks: Rethinking Income Redistribution and Political Inequality</h3>
+<div class="paper-meta"><div><strong>with <a href="https://sites.pitt.edu/~jch61/" target="_blank" rel="noopener">Jude C. Hays</a></strong></div><div><em>Working Paper</em> (2025) · Presented at Vienna University (2022)</div></div>
+<details><summary>Abstract</summary><div><p>Research on the political consequences of economic inequality focuses almost exclusively on relative inequality, using measures such as percentile ratios and gini coefficients. We show with a simple theoretical model that proportionate income increases that preserve relative inequality can increase absolute inequality and generate larger gaps in campaign contributions between rich and poor. Using U.S. congressional district data, we find absolute inequality, rather than relative inequality, is associated with larger contribution gaps.</p></div></details>
+<div class="tags"><span class="tag">Inequality</span><span class="tag">Political Finance</span><span class="tag">Theory + Evidence</span></div>
+</div>
+<span class="badge working">Working</span>
+</div>
+</article>
+
 </div>
 
 <hr class="hr"/>
