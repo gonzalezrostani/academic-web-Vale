@@ -109,10 +109,14 @@ details p{margin:0;color:#374151;line-height:1.6}
 <div>
 <h3 class="paper-title"><a href="https://gonzalez-rostani.com/img/Papers/LoV_updated.pdf" target="_blank" rel="noopener">Love of Variety? An Experimental Study of Heterogeneous Responses to Foreign Brands in the Marketplace</a></h3>
 <div class="paper-meta"><div><strong>with <a href="https://sites.pitt.edu/~jch61/" target="_blank" rel="noopener">Jude C. Hays</a></strong></div><div><em>Conditionally Accepted at Political Science Research and Methods</em> (2026)</div></div>
-<details><summary>Abstract</summary><div><p>This study investigates the impact of exposure to foreign goods in the marketplace on the policy preferences and political behavior of US consumers. Using a survey experiment, we simulate a realistic consumption experience with well-known brands of sports utility vehicles. Our findings reveal that exposure to foreign brands intensifies hostility towards immigrants and trade among respondents holding pre-existing nationalist attitudes while also increasing their support for Trump as a presidential candidate. Exposure to foreign brands has the opposite effect on the preferences and behavior of cosmopolitans. Our results demonstrate that consumption in an increasingly diversified marketplace can drive a bottom-up process of trade policy polarization.</p></div></details>
-<details><summary><a href="https://osf.io/y8nrm" target="_blank" rel="noopener">Pre-Analysis Plan</a></summary><div><p>OSF.</p></div></details>
-<details><summary><a href="https://gonzalez-rostani.com/img/Papers/APSA_LoV2.pdf" target="_blank" rel="noopener">Slides</a></summary><div><p>PDF.</p></div></details>
-<details><summary><a href="https://gonzalez-rostani.com/img/Papers/LoV_updated.pdf" target="_blank" rel="noopener">Manuscript</a></summary><div><p>PDF.</p></div></details>
+<details><summary>Abstract</summary><p>This study investigates the impact of exposure to foreign goods in the marketplace on the policy preferences and political behavior of US consumers. Using a survey experiment, we simulate a realistic consumption experience with well-known brands of sports utility vehicles. Our findings reveal that exposure to foreign brands intensifies hostility towards immigrants and trade among respondents holding pre-existing nationalist attitudes while also increasing their support for Trump as a presidential candidate. Exposure to foreign brands has the opposite effect on the preferences and behavior of cosmopolitans. Our results demonstrate that consumption in an increasingly diversified marketplace can drive a bottom-up process of trade policy polarization. Our study has significant implications for understanding the contemporary political backlash against economic globalization and standard models of international trade based on the ``love of variety." </p>
+</details> &nbsp; 
+<details><summary><a href=https://osf.io/y8nrm>Pre-Analysis Plan</a> </summary><p> </p>
+</details> &nbsp; 
+<details><summary><a href=https://gonzalez-rostani.com/img/Papers/APSA_LoV2.pdf>Slides</a> </summary><p> </p>
+</details> &nbsp;   
+<details><summary><a href=https://gonzalez-rostani.com/img/Papers/LoV_updated.pdf>Manuscript</a> </summary><p> </p>  
+</details> &nbsp; <br>
 <div class="tags"><span class="tag">Trade</span><span class="tag">Experiment</span></div>
 </div>
 <span class="badge forthcoming">Accepted</span>
