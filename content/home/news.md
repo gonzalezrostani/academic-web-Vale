@@ -229,7 +229,7 @@ subtitle = ""
         <tr>
           <td>2026</td>
           <td><span class="event-type type-workshop">Workshop</span></td>
-          <td><a href="https://ecpr.eu/Events/Event/workshopdetails/16809">Using Large Language Models (LLMs) and Other AI Tools to Gather and Analyse Political Elite Network</a> <span class="scheduled-tag">(invited, upcoming)</span></td>
+          <td><a href="https://ecpr.eu/Events/Event/workshopdetails/16809">Using Large Language Models (LLMs) and Other AI Tools to Gather and Analyse Political Elite Network</a> <span class="scheduled-tag">(upcoming)</span></td>
           <td>ECPR</td>
         </tr>
         <tr>
