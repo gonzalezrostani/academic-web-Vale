@@ -3,7 +3,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 45  # Order that this section will appear - adjust based on your other sections
 
 title = "News & Events"
 subtitle = ""
@@ -204,16 +204,52 @@ subtitle = ""
       </thead>
       <tbody>
         <tr>
-          <td>March 20-22</td>
-          <td><span class="event-type type-panel">Panel</span></td>
-          <td>Midwest Political Science Association <span class="scheduled-tag">(scheduled)</span></td>
-          <td>Chicago, IL, USA</td>
+          <td>Spring 2026</td>
+          <td><span class="event-type type-talk">Teaching</span></td>
+          <td>The Politics of International Trade (Undergraduate)</td>
+          <td>USC</td>
         </tr>
         <tr>
-          <td>February 14</td>
+          <td>2026</td>
+          <td><span class="event-type type-talk">Talk</span></td>
+          <td>Texas A&M University - Globalization Backlash: New Theory and Evidence <span class="scheduled-tag">(upcoming)</span></td>
+          <td>Texas A&M</td>
+        </tr>
+        <tr>
+          <td>2026</td>
+          <td><span class="event-type type-talk">Talk</span></td>
+          <td>University of California, Riverside <span class="scheduled-tag">(upcoming)</span></td>
+          <td>UC Riverside</td>
+        </tr>
+        <tr>
+          <td>2026</td>
+          <td><span class="event-type type-talk">Talk</span></td>
+          <td>University of Washington - Severyns-Ravenholt Seminar in Comparative Politics <span class="scheduled-tag">(upcoming)</span></td>
+          <td>Seattle, WA</td>
+        </tr>
+        <tr>
+          <td>2026</td>
+          <td><span class="event-type type-talk">Talk</span></td>
+          <td>USC Center for International Studies - IR Seminar <span class="scheduled-tag">(upcoming)</span></td>
+          <td>Los Angeles, CA</td>
+        </tr>
+        <tr>
+          <td>2026</td>
+          <td><span class="event-type type-talk">Talk</span></td>
+          <td>USC Sol Price School - Political Institutions and Political Economy Seminar <span class="scheduled-tag">(upcoming)</span></td>
+          <td>Los Angeles, CA</td>
+        </tr>
+        <tr>
+          <td>2026</td>
+          <td><span class="event-type type-workshop">Workshop</span></td>
+          <td>APSA Labor Politics Group Virtual Workshop <span class="scheduled-tag">(upcoming)</span></td>
+          <td>Virtual</td>
+        </tr>
+        <tr>
+          <td>2026</td>
           <td><span class="event-type type-publication">Publication</span></td>
-          <td><a href="#">Love of Variety? Experimental Study of Foreign Brands</a> - <i>Political Science Research and Methods</i></td>
-          <td>Online First</td>
+          <td><a href="https://gonzalez-rostani.com/img/Papers/LoV_updated.pdf">Love of Variety? Experimental Study of Foreign Brands</a> (with Jude Hays) - <i>Political Science Research and Methods</i> <span class="scheduled-tag">(conditionally accepted)</span></td>
+          <td>Forthcoming</td>
         </tr>
       </tbody>
     </table>
@@ -237,40 +273,190 @@ subtitle = ""
       </thead>
       <tbody>
         <tr>
-          <td>July 17</td>
+          <td>Fall 2025</td>
+          <td><span class="event-type type-award">Position</span></td>
+          <td>Started as Assistant Professor at USC</td>
+          <td>Los Angeles, CA</td>
+        </tr>
+        <tr>
+          <td>Fall 2025</td>
+          <td><span class="event-type type-talk">Teaching</span></td>
+          <td>Advanced Methodology: Text as Data (Graduate)</td>
+          <td>USC</td>
+        </tr>
+        <tr>
+          <td>Spring 2025</td>
+          <td><span class="event-type type-talk">Teaching</span></td>
+          <td>Introduction to Data Analysis (Undergraduate)</td>
+          <td>USC</td>
+        </tr>
+        <tr>
+          <td>2025</td>
+          <td><span class="event-type type-award">Award</span></td>
+          <td>Appointed to National System of Researchers (SNI), ANII, Uruguay</td>
+          <td>Uruguay</td>
+        </tr>
+        <tr>
+          <td>2025</td>
+          <td><span class="event-type type-award">Award</span></td>
+          <td>Member of APSA Task Force on AI and Political Science - Economic Inequality and Labor Force Committee</td>
+          <td>APSA</td>
+        </tr>
+        <tr>
+          <td>2025</td>
+          <td><span class="event-type type-award">Grant</span></td>
+          <td>Center for International Studies Research Award - $10,000</td>
+          <td>Princeton University</td>
+        </tr>
+        <tr>
+          <td>2025</td>
+          <td><span class="event-type type-award">Grant</span></td>
+          <td>Invited to submit full proposal following LOI - Russell Sage Foundation - $200,000</td>
+          <td>RSF</td>
+        </tr>
+        <tr>
+          <td>2025</td>
+          <td><span class="event-type type-workshop">Training</span></td>
+          <td>Gen AI Intensive Course with Google - Prompt engineering, embeddings, and generative AI agents</td>
+          <td>Google</td>
+        </tr>
+        <tr>
+          <td>2025</td>
+          <td><span class="event-type type-talk">Speaker</span></td>
+          <td>WS x Columbia University - The Return of Donald Trump: Implications for US-China Relations Fireside Talk Series</td>
+          <td>Columbia University</td>
+        </tr>
+        <tr>
+          <td>2025</td>
           <td><span class="event-type type-publication">Publication</span></td>
-          <td><a href="https://journals.sagepub.com/doi/10.1177/13684302251346402">Group Process & Intergroup Relations</a></td>
+          <td><a href="https://www.journals.uchicago.edu/doi/10.1086/734533">Elections, Right-wing Populism, and Political-Economic Polarization</a> - <i>The Journal of Politics</i></td>
           <td>Online First</td>
         </tr>
         <tr>
-          <td>July 8</td>
+          <td>2025</td>
           <td><span class="event-type type-publication">Publication</span></td>
-          <td><a href="https://www.nature.com/articles/s41597-025-05353-6">Nature: Scientific Data</a></td>
+          <td><a href="https://cup.org/4ibfZqa">Engaging Diversity: Inclusive Approach to Undergraduate Mentorship</a> (with Togami et al.) - <i>PS: Political Science & Politics</i></td>
           <td>Online First</td>
         </tr>
         <tr>
-          <td>June 26</td>
-          <td><span class="event-type type-panel">Panel</span></td>
-          <td>Public Management Research Conference (PMRC)</td>
-          <td>Seoul, South Korea</td>
-        </tr>
-        <tr>
-          <td>April 1</td>
+          <td>2025</td>
           <td><span class="event-type type-publication">Publication</span></td>
-          <td><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/pam.70007">Journal of Policy Analysis and Management</a></td>
+          <td>Are Protests Contagious? Temporal and Spatial Diffusion (with Jeffrey Nonnemacher) - <i>Journal of Elections, Public Opinion & Parties</i></td>
           <td>Online First</td>
         </tr>
         <tr>
-          <td>March 17</td>
-          <td><span class="event-type type-publication">Publication</span></td>
-          <td><a href="https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/solidarity-between-people-of-color-two-blockage-experiments-suggest-it-is-causal-and-resistant-to-a-divisive-threat/3CEAFE3E375FD48D7B5235917CB91D51">Journal of Experimental Political Science</a></td>
-          <td>Online First</td>
+          <td>2025</td>
+          <td><span class="event-type type-panel">Chair</span></td>
+          <td>APPAM Panel Chair</td>
+          <td>APPAM Conference</td>
         </tr>
         <tr>
-          <td>January 20</td>
+          <td>2025</td>
           <td><span class="event-type type-talk">Talk</span></td>
-          <td>Joined USC as Assistant Professor</td>
-          <td>Los Angeles, CA, USA</td>
+          <td>Columbia University</td>
+          <td>New York, NY</td>
+        </tr>
+        <tr>
+          <td>2025</td>
+          <td><span class="event-type type-talk">Talk</span></td>
+          <td>Inter-American Development Bank - Digital Technologies, Growth & Well-Being in Emerging Economies</td>
+          <td>IDB</td>
+        </tr>
+        <tr>
+          <td>2025</td>
+          <td><span class="event-type type-workshop">Workshop</span></td>
+          <td>Monash–Paris–Warwick–Zurich–CEPR - 10th Text-As-Data Workshop</td>
+          <td>International</td>
+        </tr>
+        <tr>
+          <td>2025</td>
+          <td><span class="event-type type-talk">Talk</span></td>
+          <td>MPE-NSF REU - Mobilization and Political Economy</td>
+          <td>University of Pittsburgh</td>
+        </tr>
+        <tr>
+          <td>2025</td>
+          <td><span class="event-type type-talk">Talk</span></td>
+          <td>NYU - Data Science Frontiers: Society and Politics</td>
+          <td>New York, NY</td>
+        </tr>
+        <tr>
+          <td>2025</td>
+          <td><span class="event-type type-talk">Talk</span></td>
+          <td>Penn State–Pitt IR Annual Workshop</td>
+          <td>PA</td>
+        </tr>
+        <tr>
+          <td>2025</td>
+          <td><span class="event-type type-workshop">Workshop</span></td>
+          <td>Special Issue Workshop "The Future of Labor"</td>
+          <td>International</td>
+        </tr>
+        <tr>
+          <td>2025</td>
+          <td><span class="event-type type-talk">Talk</span></td>
+          <td>IBEIC Institut Barcelona - The Politics of AI: Actors, Policy, Geopolitics, and Resistances</td>
+          <td>Barcelona, Spain</td>
+        </tr>
+        <tr>
+          <td>2025</td>
+          <td><span class="event-type type-talk">Talk</span></td>
+          <td>University of Nebraska–Lincoln - Hendricks Symposium: Bordering on Crisis?</td>
+          <td>Lincoln, NE</td>
+        </tr>
+        <tr>
+          <td>2025</td>
+          <td><span class="event-type type-talk">Talk</span></td>
+          <td>University of Pennsylvania - Junior Scholars in International Relations</td>
+          <td>Philadelphia, PA</td>
+        </tr>
+        <tr>
+          <td>2025</td>
+          <td><span class="event-type type-talk">Talk</span></td>
+          <td>Universidad de la Republica - DECON & DCPU</td>
+          <td>Montevideo, Uruguay</td>
+        </tr>
+        <tr>
+          <td>2025</td>
+          <td><span class="event-type type-talk">Talk</span></td>
+          <td>Yale University ISPS - AI and Governance</td>
+          <td>New Haven, CT</td>
+        </tr>
+        <tr>
+          <td>2025</td>
+          <td><span class="event-type type-panel">Conference</span></td>
+          <td>APPAM (Association for Public Policy Analysis and Management)</td>
+          <td>Conference</td>
+        </tr>
+        <tr>
+          <td>2025</td>
+          <td><span class="event-type type-panel">Conference</span></td>
+          <td>IPES (International Political Economy Society)</td>
+          <td>Conference</td>
+        </tr>
+        <tr>
+          <td>2025</td>
+          <td><span class="event-type type-panel">Conference</span></td>
+          <td>ISA (International Studies Association)</td>
+          <td>Conference</td>
+        </tr>
+        <tr>
+          <td>2025</td>
+          <td><span class="event-type type-panel">Conference</span></td>
+          <td>MPSA (Midwest Political Science Association)</td>
+          <td>Chicago, IL</td>
+        </tr>
+        <tr>
+          <td>2025</td>
+          <td><span class="event-type type-panel">Conference</span></td>
+          <td>PolMeth (Political Methodology)</td>
+          <td>Conference</td>
+        </tr>
+        <tr>
+          <td>2025</td>
+          <td><span class="event-type type-panel">Conference</span></td>
+          <td>EPSA (European Political Science Association)</td>
+          <td>Conference</td>
         </tr>
       </tbody>
     </table>
@@ -294,28 +480,94 @@ subtitle = ""
       </thead>
       <tbody>
         <tr>
-          <td>December</td>
-          <td><span class="event-type type-publication">Publication</span></td>
-          <td><a href="https://onlinelibrary.wiley.com/doi/10.1111/lsq.12481">Social Media vs Surveys</a> - <i>Legislative Studies Quarterly</i></td>
-          <td>Online First</td>
+          <td>2024</td>
+          <td><span class="event-type type-award">Position</span></td>
+          <td>Began Postdoctoral Research Associate position at Princeton University (supervised by Carles Boix)</td>
+          <td>Princeton, NJ</td>
         </tr>
         <tr>
-          <td>October</td>
-          <td><span class="event-type type-publication">Publication</span></td>
-          <td><a href="http://doi.org/10.1111/ecpo.12307">Engaged Robots, Disengaged Workers</a> - <i>Economics & Politics</i></td>
-          <td>Online First</td>
-        </tr>
-        <tr>
-          <td>September</td>
-          <td><span class="event-type type-publication">Publication</span></td>
-          <td><a href="https://onlinelibrary.wiley.com/doi/10.1111/lsq.12476">Legislators' Moral and Economic Policies</a> - <i>Legislative Studies Quarterly</i></td>
-          <td>Online First</td>
-        </tr>
-        <tr>
-          <td>June</td>
+          <td>2024</td>
           <td><span class="event-type type-award">Award</span></td>
-          <td>Completed PhD in Political Science</td>
+          <td>Completed Ph.D. in Political Science</td>
           <td>University of Pittsburgh</td>
+        </tr>
+        <tr>
+          <td>2024</td>
+          <td><span class="event-type type-award">Position</span></td>
+          <td>Co-director of social science blog Razones y Personas</td>
+          <td>Online</td>
+        </tr>
+        <tr>
+          <td>2024</td>
+          <td><span class="event-type type-publication">Publication</span></td>
+          <td><a href="http://doi.org/10.1111/ecpo.12307">Engaged Robots, and Disengaged Workers: Automation and Political Apathy</a> - <i>Economics & Politics</i></td>
+          <td>Online First</td>
+        </tr>
+        <tr>
+          <td>2024</td>
+          <td><span class="event-type type-publication">Publication</span></td>
+          <td><a href="https://onlinelibrary.wiley.com/doi/10.1111/lsq.12481">Social Media vs. Surveys: New Scalable Approach</a> (with Incio & Lezama) - <i>Legislative Studies Quarterly</i></td>
+          <td>Online First</td>
+        </tr>
+        <tr>
+          <td>2024</td>
+          <td><span class="event-type type-publication">Publication</span></td>
+          <td><a href="https://onlinelibrary.wiley.com/doi/10.1111/lsq.12476">Moral and Economic Dimensions of Ideology</a> (with Morgenstern et al.) - <i>Legislative Studies Quarterly</i></td>
+          <td>Online First</td>
+        </tr>
+        <tr>
+          <td>2024</td>
+          <td><span class="event-type type-talk">Talk</span></td>
+          <td>Caltech CSSPP - Navigating the New Frontier: Political and Economic Implications of AI Conference</td>
+          <td>Pasadena, CA</td>
+        </tr>
+        <tr>
+          <td>2024</td>
+          <td><span class="event-type type-talk">Talk</span></td>
+          <td>Princeton University - Niehaus Center, IR Faculty Colloquium</td>
+          <td>Princeton, NJ</td>
+        </tr>
+        <tr>
+          <td>2024</td>
+          <td><span class="event-type type-talk">Talk</span></td>
+          <td>Princeton University - Political Economy Colloquium</td>
+          <td>Princeton, NJ</td>
+        </tr>
+        <tr>
+          <td>2024</td>
+          <td><span class="event-type type-talk">Talk</span></td>
+          <td>Yale University MacMillan Center - New Challenges for International Cooperation: Automation, AI and Digital Trade</td>
+          <td>New Haven, CT</td>
+        </tr>
+        <tr>
+          <td>2024</td>
+          <td><span class="event-type type-panel">Conference</span></td>
+          <td>APSA (American Political Science Association)</td>
+          <td>Philadelphia, PA</td>
+        </tr>
+        <tr>
+          <td>2024</td>
+          <td><span class="event-type type-panel">Conference</span></td>
+          <td>IPES (International Political Economy Society) - Virtual</td>
+          <td>Virtual</td>
+        </tr>
+        <tr>
+          <td>2024</td>
+          <td><span class="event-type type-panel">Conference</span></td>
+          <td>LACEA-LAMES (Latin American and Caribbean Economic Association)</td>
+          <td>Conference</td>
+        </tr>
+        <tr>
+          <td>2024</td>
+          <td><span class="event-type type-panel">Conference</span></td>
+          <td>LAPolMeth (Latin American Political Methodology)</td>
+          <td>Latin America</td>
+        </tr>
+        <tr>
+          <td>2024</td>
+          <td><span class="event-type type-panel">Conference</span></td>
+          <td>MPSA (Midwest Political Science Association)</td>
+          <td>Chicago, IL</td>
         </tr>
       </tbody>
     </table>
