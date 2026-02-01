@@ -56,7 +56,7 @@ details p{margin:0;color:#374151;line-height:1.6}
 <div class="research-container">
 <div class="research-hero">
 <h1>Research</h1>
-<p>Publications, working papers, and selected projects on automation & AI, political behavior, political methodology, and Latin American politics.</p>
+<p>Research on how automation and artificial intelligence reshape politics, labor markets, and democratic institutions, alongside a complementary agenda using NLP and large language models to study political discourse and behavior.</p>
 </div>
 
 <div class="controls">
