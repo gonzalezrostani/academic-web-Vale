@@ -88,7 +88,7 @@ details p{margin:0;color:#374151;line-height:1.6}
 
 <div class="grid" id="papers">
 
-<article class="paper" data-status="published" data-themes="populism automation methods">
+<article class="paper" data-status="published" data-themes="populism automation">
 <div class="paper-top">
 <div>
 <h3 class="paper-title"><a href="https://www.journals.uchicago.edu/doi/10.1086/734533" target="_blank" rel="noopener">Elections, Right-wing Populism, and Political-Economic Polarization: The Role of Institutions and Political Outsiders</a></h3>
@@ -104,7 +104,7 @@ details p{margin:0;color:#374151;line-height:1.6}
 </div>
 </article>
 
-<article class="paper" data-status="forthcoming" data-themes="trade methods">
+<article class="paper" data-status="forthcoming" data-themes="trade populism">
 <div class="paper-top">
 <div>
 <h3 class="paper-title"><a href="https://gonzalez-rostani.com/img/Papers/LoV_updated.pdf" target="_blank" rel="noopener">Love of Variety? An Experimental Study of Heterogeneous Responses to Foreign Brands in the Marketplace</a></h3>
@@ -337,7 +337,7 @@ details p{margin:0;color:#374151;line-height:1.6}
 </article>
 
 <!-- AI-Augmented Work -->
-<article class="paper" data-status="working" data-themes="automation methods">
+<article class="paper" data-status="working" data-themes="automation">
 <div class="paper-top">
 <div>
 <h3 class="paper-title">The Political Ramification of AI-Augmented Work: Evidence from a Field Experiment</h3>
@@ -363,7 +363,7 @@ details p{margin:0;color:#374151;line-height:1.6}
 </article>
 
 <!-- Too Rich to Tax -->
-<article class="paper" data-status="working" data-themes="methods">
+<article class="paper" data-status="working" data-themes="trade">
 <div class="paper-top">
 <div>
 <h3 class="paper-title">Too Rich to Tax? Technological Elites, Economic Inequality, and Public Attitudes Toward Taxing the Super-Rich</h3>
@@ -403,7 +403,7 @@ details p{margin:0;color:#374151;line-height:1.6}
 </article>
 
 <!-- When Money Talks -->
-<article class="paper" data-status="working" data-themes="methods">
+<article class="paper" data-status="working" data-themes="populism">
 <div class="paper-top">
 <div>
 <h3 class="paper-title">When Money Talks: Rethinking Income Redistribution and Political Inequality</h3>
@@ -421,15 +421,25 @@ details p{margin:0;color:#374151;line-height:1.6}
 
 <h2 class="section-title">Diffusion</h2>
 
+
+
 <div class="grid">
 <article class="paper" data-status="published" data-themes="automation">
-<h3 class="paper-title"><a href="http://www.razonesypersonas.com/2022/06/todo-robot-es-politico.html" target="_blank" rel="noopener">Todo robot es político!</a></h3>
-<div class="paper-meta">June 16, 2022 · Razones y Personas</div>
+<h3 class="paper-title"><a href="https://www.razonesypersonas.com/2025/06/quien-hace-el-trabajo-ahora.html" target="_blank" rel="noopener">¿Quién hace el trabajo ahora? Automatización, IA y el desafío del trabajo 4.0</a></h3>
+<div class="paper-meta">June 12, 2025 · Razones y Personas</div>
 </article>
+  
+
 
 <article class="paper" data-status="published" data-themes="populism">
 <h3 class="paper-title"><a href="http://www.razonesypersonas.com/2023/10/la-noche-de-la-nostalgia.html" target="_blank" rel="noopener">La noche de la nostalgia</a></h3>
 <div class="paper-meta">October 12, 2023 · Razones y Personas</div>
+</article>
+
+<div class="grid">
+<article class="paper" data-status="published" data-themes="automation">
+<h3 class="paper-title"><a href="http://www.razonesypersonas.com/2022/06/todo-robot-es-politico.html" target="_blank" rel="noopener">Todo robot es político!</a></h3>
+<div class="paper-meta">June 16, 2022 · Razones y Personas</div>
 </article>
 </div>
 
