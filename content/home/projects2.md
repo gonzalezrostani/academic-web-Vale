@@ -17,15 +17,12 @@ subtitle = ""
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@400;600;700&family=Work+Sans:wght@400;500;600&display=swap');
 
-/* ============ RESEARCH PAGE STYLES ============ */
-
 .research-container {
   max-width: 1400px;
   margin: 0 auto;
   font-family: 'Work Sans', sans-serif;
 }
 
-/* HERO SECTION */
 .research-hero {
   text-align: center;
   margin-bottom: 60px;
@@ -50,7 +47,6 @@ subtitle = ""
   line-height: 1.6;
 }
 
-/* STATS BAR */
 .research-stats {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -85,7 +81,6 @@ subtitle = ""
   margin-top: 5px;
 }
 
-/* RESEARCH THEMES */
 .research-themes {
   margin-bottom: 50px;
 }
@@ -293,7 +288,6 @@ subtitle = ""
   transform: translateY(-2px);
 }
 
-/* PUBLICATIONS LIST */
 .publications-section {
   margin-top: 60px;
 }
@@ -440,7 +434,6 @@ subtitle = ""
   margin-top: 15px;
 }
 
-/* RESPONSIVE */
 @media (max-width: 768px) {
   .research-hero h1 {
     font-size: 2em;
@@ -460,7 +453,6 @@ subtitle = ""
   }
 }
 
-/* ANIMATIONS */
 @keyframes fadeIn {
   from {
     opacity: 0;
@@ -480,13 +472,11 @@ subtitle = ""
 
 <div class="research-container">
 
-<!-- HERO SECTION -->
 <div class="research-hero">
   <h1>Research Portfolio</h1>
   <p>Exploring how technological change—especially automation and artificial intelligence—reshapes politics, labor markets, and democratic institutions across advanced and developing economies.</p>
 </div>
 
-<!-- STATS BAR -->
 <div class="research-stats">
   <div class="stat-card">
     <div class="stat-number">8</div>
@@ -506,7 +496,6 @@ subtitle = ""
   </div>
 </div>
 
-<!-- RESEARCH THEMES -->
 <div class="research-themes">
   <h2 class="themes-title">Research Themes</h2>
   <div class="theme-tags">
@@ -531,12 +520,10 @@ subtitle = ""
   </div>
 </div>
 
-<!-- FEATURED PROJECTS -->
 <div class="featured-section">
   <h2 class="section-title">Featured Research</h2>
   <div class="featured-grid">
     
-    <!-- Featured 1: JOP Paper -->
     <div class="featured-card">
       <div class="featured-header">
         <div class="featured-title">Elections, Right-wing Populism, and Political-Economic Polarization</div>
@@ -558,7 +545,6 @@ subtitle = ""
       </div>
     </div>
 
-    <!-- Featured 2: Automation & Democracy -->
     <div class="featured-card">
       <div class="featured-header">
         <div class="featured-title">Engaged Robots, Disengaged Workers: Automation and Political Apathy</div>
@@ -578,7 +564,6 @@ subtitle = ""
       </div>
     </div>
 
-    <!-- Featured 3: Mexico Project -->
     <div class="featured-card">
       <div class="featured-header">
         <div class="featured-title">The Political Economy of Automation in Global Value Chains</div>
@@ -602,11 +587,9 @@ subtitle = ""
   </div>
 </div>
 
-<!-- PUBLICATIONS LIST -->
 <div class="publications-section">
   <h2 class="section-title">All Publications</h2>
   
-  <!-- Filter Controls -->
   <div class="filter-controls">
     <span class="filter-label">Filter by status:</span>
     <div class="status-filter">
@@ -617,10 +600,8 @@ subtitle = ""
     </div>
   </div>
 
-  <!-- Publications Grid -->
   <div class="publications-grid" id="publications-grid">
     
-    <!-- PUBLISHED PAPERS -->
     <div class="pub-card" data-status="published" data-themes="populism automation methods">
       <div class="pub-header">
         <div class="pub-title-block">
@@ -755,7 +736,6 @@ subtitle = ""
       </div>
     </div>
 
-    <!-- UNDER REVIEW -->
     <div class="pub-card" data-status="under-review" data-themes="automation">
       <div class="pub-header">
         <div class="pub-title-block">
@@ -822,7 +802,6 @@ subtitle = ""
       </div>
     </div>
 
-    <!-- WORKING PAPERS -->
     <div class="pub-card" data-status="working" data-themes="automation trade latin-america">
       <div class="pub-header">
         <div class="pub-title-block">
@@ -906,7 +885,6 @@ subtitle = ""
 </div>
 
 <script>
-// Theme filtering
 let currentTheme = 'all';
 let currentStatus = 'all';
 
@@ -914,7 +892,6 @@ function filterByTheme(theme) {
   currentTheme = theme;
   applyFilters();
   
-  // Update active state
   document.querySelectorAll('.theme-tag').forEach(tag => {
     tag.classList.remove('active');
   });
@@ -925,7 +902,6 @@ function filterByStatus(status) {
   currentStatus = status;
   applyFilters();
   
-  // Update active state
   document.querySelectorAll('.status-btn').forEach(btn => {
     btn.classList.remove('active');
   });
@@ -941,12 +917,10 @@ function applyFilters() {
     
     let showCard = true;
     
-    // Check status filter
     if (currentStatus !== 'all' && cardStatus !== currentStatus) {
       showCard = false;
     }
     
-    // Check theme filter
     if (currentTheme !== 'all' && !cardThemes.includes(currentTheme)) {
       showCard = false;
     }
