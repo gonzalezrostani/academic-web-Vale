@@ -9,38 +9,58 @@ layout: docs  # Do not modify.
 ---
 
 <style>
-details {
+/* HERO BOX (Teaching) */
+.teaching-hero{
+text-align:center;
+margin:0 0 26px;
+padding:28px 18px;
+background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);
+border-radius:18px;
+color:#fff
+}
+.teaching-hero h1{
+font-family:inherit;
+font-size:2.1em;
+font-weight:800;
+margin:0 0 10px
+}
+.teaching-hero p{
+font-size:1.05em;
+opacity:.95;
+max-width:980px;
+margin:0 auto;
+line-height:1.6
+}
+
+/* DETAILS (your existing style) */
+details{
 float:left;
-cursor: pointer;
+cursor:pointer;
 }
-
-details > summary:hover {
-color: #fff;
-background-color: #b21619 !important;
+details > summary:hover{
+color:#fff;
+background-color:#b21619 !important;
 }
-
-details > summary {
-display: inline-block;
-margin-bottom: 0.25em;
-padding: 0.125em 0.25em;
-color: #b21619;
-text-align: center;
-text-decoration: none !important;
-border: 1px solid;
-border-color: #b21619;
-border-radius: 4px;
-cursor: pointer;
+details > summary{
+display:inline-block;
+margin-bottom:0.25em;
+padding:0.125em 0.25em;
+color:#b21619;
+text-align:center;
+text-decoration:none !important;
+border:1px solid;
+border-color:#b21619;
+border-radius:4px;
+cursor:pointer;
 }
-
-details > summary::-webkit-details-marker {
-display: none;
+details > summary::-webkit-details-marker{
+display:none;
 float:left;
 }
-
-details > p {
-margin-bottom: 0.25em;
-padding: 0.125em 0.25em;
-box-shadow: 1px 1px 2px #bbbbbb;
+details > p{
+margin-bottom:0.25em;
+padding:0.125em 0.25em;
+box-shadow:1px 1px 2px #bbbbbb;
 }
 
 /* FILTER BAR (Courses) */
@@ -54,6 +74,11 @@ box-shadow: 1px 1px 2px #bbbbbb;
 .course-section{margin:10px 0 0}
 /* END FILTER BAR */
 </style>
+
+<div class="teaching-hero">
+<h1>Teaching</h1>
+<p>Teaching focused on building strong analytical foundations in methods and political economy, combining hands-on data analysis, computational tools, and substantive theory to help students reason critically about politics, markets, and policy.</p>
+</div>
 
 # ✏️ Courses  
 
