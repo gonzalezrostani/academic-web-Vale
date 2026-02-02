@@ -139,9 +139,7 @@ I also work on international trade, inequality, and political methodology, and d
 </div>
 
 <div class="about-section">
-<strong>Publications & service.</strong>
-My work has been published or is forthcoming in 
-<i>Journal of Politics</i>, <i>Economics & Politics</i>, <i>Legislative Studies Quarterly</i>, and 
+<strong>Publications & service.</strong> My work has been published or is forthcoming in journals including the <i>Journal of Politics</i>, <i>Economics & Politics</i>, <i>Legislative Studies Quarterly</i>, and 
 <i>PS: Political Science & Politics</i>. 
 I am a member of the <i>2025 APSA Task Force on AI and Political Science</i>, where I serve on the committee on economic inequality and the labor force.
 </div>
