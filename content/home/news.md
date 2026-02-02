@@ -1,4 +1,4 @@
-+++
+7+++
 # A Demo section created with the Blank widget.
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -220,16 +220,6 @@ subtitle = ""
           <td><a href="https://www.journals.uchicago.edu/doi/10.1086/734533">Elections, Right-Wing Populism, and Political-Economic Polarization: The Role of Institutions and Political Outsiders</a> - <i>The Journal of Politics</i>, Vol. 88, No. 1</td>
           <td>Published</td>
         </tr>
-        <tr>
-  <td>Spring 2026</td>
-  <td><span class="event-type type-panel">Conference</span></td>
-  <td>
-    <i>Who Influences Whom? Analyzing the Interplay of Mainstream and Outsider Parties in Social Media Campaigns</i> 
-    (with Claudia Salas Giménez) _Paper Accepted in the Conferece_
-  </td>
-  <td>PolMeth Europe · Trinity College Dublin</td>
-</tr>
-
         <tr>
           <td>January 2026</td>
           <td><span class="event-type type-talk">Talk</span></td>
