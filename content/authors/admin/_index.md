@@ -100,31 +100,9 @@ font-weight:800;
 font-size:.85em;
 }
 
-/* buttons */
-.about-buttons{
-display:flex;
-gap:12px;
-flex-wrap:wrap;
-margin-top:14px;
-}
-.about-btn{
-display:inline-block;
-padding:10px 16px;
-border-radius:12px;
-border:2px solid #fff;
-color:#fff;
-text-decoration:none !important;
-font-weight:900;
-background:transparent;
-}
-.about-btn:hover{
-background:#fff;
-color:#4c51bf;
-}
-
 /* section rhythm */
 .about-section{
-margin-top:22px;
+margin-top:18px;
 }
 .about-section strong{
 display:block;
@@ -133,9 +111,9 @@ margin-bottom:6px;
 </style>
 
 <div class="about-hero">
-  <h2>Political economy of automation, inequality, and political behavior</h2>
+  <h2>Welcome!</h2>
   <p>
-    I study how technological change—especially automation and artificial intelligence—reshapes political attitudes, parties, and institutions across advanced economies and the Global South, using causal inference and computational text analysis (NLP and large language models).
+    I study how technological change—especially automation and artificial intelligence—reshapes political attitudes, parties, and democratic institutions across advanced economies and the Global South, using causal inference and computational text analysis (NLP and large language models).
   </p>
 
   <div class="about-chips">
@@ -143,21 +121,14 @@ margin-bottom:6px;
     <span class="about-chip">🗳️ Populism & Political Behavior</span>
     <span class="about-chip">📊 Text-as-Data (NLP & LLMs)</span>
   </div>
-
-  <div class="about-buttons">
-    <a class="about-btn" href="/research/">Research</a>
-    <a class="about-btn" href="/teaching/">Teaching</a>
-    <a class="about-btn" href="/resources/">Toolkit</a>
-    <a class="about-btn" href="https://gonzalez-rostani.com/img/Papers/CV_GonzalezRostani.pdf" target="_blank" rel="noopener">CV</a>
-  </div>
 </div>
 
 <div class="about-section">
 <strong>Position.</strong>
 I am an Assistant Professor in the Department of Political Science and International Relations at the 
-[University of Southern California](https://dornsife.usc.edu/poir/). 
+<a href="https://dornsife.usc.edu/poir/" target="_blank" rel="noopener">University of Southern California</a>. 
 Before joining USC, I was a Postdoctoral Research Associate at 
-[Princeton University](https://politics.princeton.edu/).
+<a href="https://politics.princeton.edu/" target="_blank" rel="noopener">Princeton University</a>.
 </div>
 
 <div class="about-section">
@@ -179,10 +150,10 @@ I am a member of the <i>2025 APSA Task Force on AI and Political Science</i>, wh
 <strong>Public engagement & mentoring.</strong>
 I care deeply about making scientific knowledge accessible. 
 I am affiliated with the 
-[Mobilization & Political Economy NSF-REU program](https://mpeprogram.com/), 
+<a href="https://mpeprogram.com/" target="_blank" rel="noopener">Mobilization & Political Economy NSF-REU program</a>, 
 which supports the research paths of underrepresented students. 
 I also co-direct 
-[*Razones y Personas*](https://www.razonesypersonas.com/), 
+<a href="https://www.razonesypersonas.com/" target="_blank" rel="noopener"><i>Razones y Personas</i></a>, 
 a long-running blog where social scientists publish weekly pieces on politics and policy, with a focus on Latin America and Uruguay.
 </div>
 
