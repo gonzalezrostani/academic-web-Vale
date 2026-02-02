@@ -221,6 +221,16 @@ subtitle = ""
           <td>Published</td>
         </tr>
         <tr>
+  <td>Spring 2026</td>
+  <td><span class="event-type type-panel">Conference</span></td>
+  <td>
+    <i>Who Influences Whom? Analyzing the Interplay of Mainstream and Outsider Parties in Social Media Campaigns</i> 
+    (with Claudia Salas Giménez) _Paper Accepted in the Conferece_
+  </td>
+  <td>PolMeth Europe · Trinity College Dublin</td>
+</tr>
+
+        <tr>
           <td>January 2026</td>
           <td><span class="event-type type-talk">Talk</span></td>
           <td>USC Sol Price School - Political Institutions and Political Economy Seminar</td>
