@@ -37,7 +37,7 @@ line-height:1.6
 .course-card.hidden{display:none}
 /* END FILTER BAR */
 
-/* COURSE CARD (match research-style feel) */
+/* COURSE CARD */
 .course-box{
 background:#fff;
 border:1px solid #e5e7eb;
@@ -61,8 +61,21 @@ font-size:.98em;
 margin:0 0 12px
 }
 
-/* BUTTONS (like research page) */
-.course-actions{display:flex;gap:10px;flex-wrap:wrap;margin:6px 0 0}
+/* BUTTONS (keep in one line) */
+.course-actions{
+display:flex;
+flex-wrap:nowrap;          /* keep one line */
+gap:10px;
+margin:6px 0 0;
+overflow-x:auto;           /* scroll if narrow */
+-webkit-overflow-scrolling:touch;
+padding-bottom:2px;
+}
+.course-actions::-webkit-scrollbar{height:6px}
+.course-actions::-webkit-scrollbar-thumb{background:#e5e7eb;border-radius:999px}
+@media (min-width: 700px){
+.course-actions{overflow-x:visible}
+}
 .action-btn{
 display:inline-block;
 padding:8px 12px;
@@ -73,13 +86,14 @@ text-decoration:none !important;
 font-weight:800;
 font-size:.9em;
 transition:all .2s ease;
-background:#fff
+background:#fff;
+white-space:nowrap;
+flex:0 0 auto;
 }
 .action-btn:hover{
 background:#b21619;
 color:#fff
 }
-/* optional: secondary buttons (blue) */
 .action-btn.blue{
 border-color:#3b82f6;
 color:#2563eb
@@ -89,7 +103,7 @@ background:#3b82f6;
 color:#fff
 }
 
-/* Summary toggle (kept as details, but styled cleanly) */
+/* Summary toggle (details) styled like a button */
 .course-details{margin-top:10px}
 .course-details summary{
 list-style:none;
@@ -173,10 +187,11 @@ card.classList.toggle('hidden', !(okLevel && okTopic));
 <div class="course-actions">
 <a class="action-btn" href="https://colab.research.google.com/drive/1YMkoWyMPIHYvRtw5RLlUnJ7wxDdVodfv?usp=sharing" target="_blank" rel="noopener">📄 Syllabus</a>
 <a class="action-btn blue" href="https://www.notion.so/Text-as-Data-for-Social-Science-Classroom-Home-23510fb8267980cd8571c44bbae73eff?source=copy_link" target="_blank" rel="noopener">🌐 Course Website</a>
+<a class="action-btn" href="javascript:void(0)" onclick="this.closest('.course-box').querySelector('details.course-details').open = !this.closest('.course-box').querySelector('details.course-details').open">📖 Summary</a>
 </div>
 
 <details class="course-details">
-<summary>📖 Summary</summary>
+<summary style="display:none">Summary</summary>
 <div class="panel"><p>The course introduces social scientists to computational techniques for analyzing large-scale textual information. Bridging NLP, machine learning, Bayesian statistics, and the social sciences, it emphasizes practical applications in political discourse analysis, sentiment detection, and policy communication. Students learn preprocessing, text representation (bag-of-words, embeddings), supervised learning, topic models, and modern transformer/LLM approaches, alongside ethical and methodological considerations.</p></div>
 </details>
 </div>
@@ -190,10 +205,11 @@ card.classList.toggle('hidden', !(okLevel && okTopic));
 
 <div class="course-actions">
 <a class="action-btn" href="https://gonzalez-rostani.com/img/Papers/Methods_Spring2026.pdf" target="_blank" rel="noopener">📄 Syllabus</a>
+<a class="action-btn" href="javascript:void(0)" onclick="this.closest('.course-box').querySelector('details.course-details').open = !this.closest('.course-box').querySelector('details.course-details').open">📖 Summary</a>
 </div>
 
 <details class="course-details">
-<summary>📖 Summary</summary>
+<summary style="display:none">Summary</summary>
 <div class="panel"><p>How can we measure income inequality? What predicts election outcomes? Do policy interventions reduce poverty? This course equips students with tools to analyze data, draw statistical inferences, and apply causal reasoning to real-world political, social, and economic questions. No prior statistical background is required.</p></div>
 </details>
 </div>
@@ -207,10 +223,11 @@ card.classList.toggle('hidden', !(okLevel && okTopic));
 
 <div class="course-actions">
 <a class="action-btn" href="https://gonzalez-rostani.com/img/Papers/IPE_Spring2026.pdf" target="_blank" rel="noopener">📄 Syllabus</a>
+<a class="action-btn" href="javascript:void(0)" onclick="this.closest('.course-box').querySelector('details.course-details').open = !this.closest('.course-box').querySelector('details.course-details').open">📖 Summary</a>
 </div>
 
 <details class="course-details">
-<summary>📖 Summary</summary>
+<summary style="display:none">Summary</summary>
 <div class="panel"><p>This course examines the political economy of international trade, connecting foundational theories and debates to contemporary issues. Students analyze how trade policies are made, who benefits and loses, and how global economic shifts shape domestic politics and international cooperation.</p></div>
 </details>
 </div>
@@ -224,15 +241,17 @@ card.classList.toggle('hidden', !(okLevel && okTopic));
 
 <div class="course-actions">
 <a class="action-btn blue" href="https://www.migapprogram.com/" target="_blank" rel="noopener">🌐 MPE Website</a>
+<a class="action-btn" href="javascript:void(0)" onclick="this.closest('.course-box').querySelectorAll('details.course-details')[0].open = !this.closest('.course-box').querySelectorAll('details.course-details')[0].open">📖 Program summary</a>
+<a class="action-btn" href="javascript:void(0)" onclick="this.closest('.course-box').querySelectorAll('details.course-details')[1].open = !this.closest('.course-box').querySelectorAll('details.course-details')[1].open">📖 Course summary</a>
 </div>
 
 <details class="course-details">
-<summary>📖 Program summary</summary>
+<summary style="display:none">Program summary</summary>
 <div class="panel"><p>The MPE Summer Program is an eight-week, in-residence research and mentoring initiative funded by NSF (REU Award #2150250). It supports underrepresented and first-generation undergraduates—especially from MSIs—through methodological training and structured guidance for graduate applications, connecting theory to hands-on data work.</p></div>
 </details>
 
 <details class="course-details">
-<summary>📖 Course summary</summary>
+<summary style="display:none">Course summary</summary>
 <div class="panel"><p>The Quantitative Methods course builds a foundation in research design, descriptive statistics, and regression, then advances to hypothesis testing and multi-level modeling. Students learn R programming through real datasets (e.g., CMPS and census data), strengthening skills in data management, modeling, and applied policy analysis.</p></div>
 </details>
 </div>
@@ -246,10 +265,11 @@ card.classList.toggle('hidden', !(okLevel && okTopic));
 
 <div class="course-actions">
 <a class="action-btn" href="https://www.dropbox.com/s/shpfv8m1ke1iyr3/PS0700_S22.pdf?dl=0" target="_blank" rel="noopener">📄 Syllabus</a>
+<a class="action-btn" href="javascript:void(0)" onclick="this.closest('.course-box').querySelector('details.course-details').open = !this.closest('.course-box').querySelector('details.course-details').open">📖 Summary</a>
 </div>
 
 <details class="course-details">
-<summary>📖 Summary</summary>
+<summary style="display:none">Summary</summary>
 <div class="panel"><p>This course builds students’ ability to understand and conduct quantitative political science research. Emphasis is on data analysis, inference, and causal reasoning, preparing students to interpret research methods used in academic work, policy memos, and social science reporting. No prior statistics required.</p></div>
 </details>
 </div>
