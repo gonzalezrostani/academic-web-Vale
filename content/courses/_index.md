@@ -77,7 +77,7 @@ box-shadow:1px 1px 2px #bbbbbb;
 
 <div class="teaching-hero">
 <h1>Teaching</h1>
-<p>Teaching focused on building strong analytical foundations in methods and political economy, combining hands-on data analysis, computational tools, and substantive theory to help students reason critically about politics, markets, and policy.</p>
+<p>My teaching focused on building strong analytical foundations in methods and political economy, combining hands-on data analysis, computational tools, and substantive theory to help students reason critically about politics, markets, and inequality.</p>
 </div>
 
 # ✏️ Courses  
