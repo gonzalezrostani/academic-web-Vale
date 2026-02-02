@@ -242,27 +242,75 @@ details p{margin:0;color:#374151;line-height:1.6}
 <div class="paper-top">
 <div>
 <h3 class="paper-title"><a href="https://gonzalez-rostani.com/img/Papers/Subjective_Techrisk.pdf" target="_blank" rel="noopener">Navigating Uncertainty: How Experience Shapes Perception and Politics in the AI Era</a></h3>
-<div class="paper-meta"><div><strong>with <a href="https://tobiastober.github.io/" target="_blank" rel="noopener">Tobias Tober</a></strong></div><div><em>Under Review</em> (2025)</div></div>
-<details><summary>Abstract</summary><p>How do individuals perceive technological risk, particularly job insecurity, in the era of AI-driven change? This paper explores how people navigate the uncertainty created by the pace of technology and experts' unclear predictions about its impact on jobs. We focus on three perceptions: techno-optimists, techno-pessimists, and those exposed to rapid technological change, examining their demographic characteristics and implications for political coalition-building. Using data from three original surveys, including open-ended responses, we show that personal and vicarious experiences shape these perceptions, with exposed workers occupying a middle ground between optimism and pessimism. Contrary to the view that high-skilled workers are less vulnerable, we find that perceived employment risks rise with the use of complex technologies like programming languages. Exposed workers and pessimists share political traits, such as support for illiberal policies, while optimists lean toward liberal policies. These results deepen our understanding of how technological risk perceptions influence politics.</p>
-<details><summary><a href="https://gonzalez-rostani.com/img/Papers/Subjective_Techrisk.pdf" target="_blank" rel="noopener">Manuscript</a></summary><div><p>PDF.</p></div></details>
-<div class="tags"><span class="tag">AI</span><span class="tag">Risk</span><span class="tag">Survey</span></div>
+
+<div class="paper-meta">
+<div><strong>with <a href="https://tobiastober.github.io/" target="_blank" rel="noopener">Tobias Tober</a></strong></div>
+<div><em>Under Review</em> (2025)</div>
 </div>
+
+<details>
+<summary>Abstract</summary>
+<div><p>How do individuals perceive technological risk, particularly job insecurity, in the era of AI-driven change? This paper explores how people navigate the uncertainty created by the pace of technology and experts' unclear predictions about its impact on jobs. We focus on three perceptions: techno-optimists, techno-pessimists, and those exposed to rapid technological change, examining their demographic characteristics and implications for political coalition-building. Using data from three original surveys, including open-ended responses, we show that personal and vicarious experiences shape these perceptions, with exposed workers occupying a middle ground between optimism and pessimism. Contrary to the view that high-skilled workers are less vulnerable, we find that perceived employment risks rise with the use of complex technologies like programming languages. Exposed workers and pessimists share political traits, such as support for illiberal policies, while optimists lean toward liberal policies. These results deepen our understanding of how technological risk perceptions influence politics.</p></div>
+</details>
+
+<details>
+<summary><a href="https://gonzalez-rostani.com/img/Papers/Subjective_Techrisk.pdf" target="_blank" rel="noopener">Manuscript</a></summary>
+<div><p>PDF.</p></div>
+</details>
+
+<div class="tags">
+<span class="tag">AI</span>
+<span class="tag">Risk</span>
+<span class="tag">Survey</span>
+</div>
+</div>
+
 <span class="badge under-review">Under Review</span>
 </div>
 </article>
 
+
 <article class="paper" data-status="under-review" data-themes="automation">
 <div class="paper-top">
 <div>
-<h3 class="paper-title"><a href="https://osf.io/esm98/" target="_blank" rel="noopener">The Threat of Automation and Public Support for Environmental Policies</a></h3>
-<div class="paper-meta"><div><strong>with <a href="http://www.liambeisermcgrath.com/" target="_blank" rel="noopener">Liam F. Beiser-McGrath</a> and <a href="https://michaelaklin.github.io/" target="_blank" rel="noopener">Michaël Aklin</a></strong></div><div><em>Under Review</em> (2022)</div></div>
-<details><summary>Abstract</summary><p> The rise of automation has transformed economies around the world. We examine how its effects spill over and affect people's views about environmental issues and policies. We argue that the long-term economic threat posed by automation is expected to reduce environmental concern amongst those affected due to a deprioritization of problems with high levels of uncertainty and that require deep reforms to be addressed. Therefore, we expect automation risk to subsequently reduce support of environmental policy that imposes immediate direct costs, such as carbon taxation. Meanwhile, support for policies with diffuse costs, such as environmental subsidies, will only be affected by automation indirectly, to the extent that it reduces individuals' general environmental concern. Using European Social Survey data from 2002 to 2018 for 23 European countries, our analysis reveals that individuals exposed to automation are less likely to hold environmental concerns and less supportive of carbon taxes that impose immediate visible costs. Mediation analysis suggests that automation reduces support for environmental policies through its negative effect on environmental concern,  with this effect being larger for subsidies. Our findings have important implications for understanding how structural transformations in the economy shape individuals' preferences for tackling long-term societal problems like climate change.</p>
-<details><summary><a href="https://osf.io/esm98/" target="_blank" rel="noopener">Manuscript</a></summary><div><p>OSF.</p></div></details>
-<div class="tags"><span class="tag">Automation</span><span class="tag">Environment</span></div>
+<h3 class="paper-title">
+<a href="https://osf.io/esm98/" target="_blank" rel="noopener">
+The Threat of Automation and Public Support for Environmental Policies
+</a>
+</h3>
+
+<div class="paper-meta">
+<div>
+<strong>
+with <a href="http://www.liambeisermcgrath.com/" target="_blank" rel="noopener">Liam F. Beiser-McGrath</a>
+and <a href="https://michaelaklin.github.io/" target="_blank" rel="noopener">Michaël Aklin</a>
+</strong>
 </div>
+<div><em>Under Review</em> (2022)</div>
+</div>
+
+<details>
+<summary>Abstract</summary>
+<div>
+<p>The rise of automation has transformed economies around the world. We examine how its effects spill over and affect people's views about environmental issues and policies. We argue that the long-term economic threat posed by automation is expected to reduce environmental concern amongst those affected due to a deprioritization of problems with high levels of uncertainty and that require deep reforms to be addressed. Therefore, we expect automation risk to subsequently reduce support of environmental policy that imposes immediate direct costs, such as carbon taxation. Meanwhile, support for policies with diffuse costs, such as environmental subsidies, will only be affected by automation indirectly, to the extent that it reduces individuals' general environmental concern. Using European Social Survey data from 2002 to 2018 for 23 European countries, our analysis reveals that individuals exposed to automation are less likely to hold environmental concerns and less supportive of carbon taxes that impose immediate visible costs. Mediation analysis suggests that automation reduces support for environmental policies through its negative effect on environmental concern, with this effect being larger for subsidies. Our findings have important implications for understanding how structural transformations in the economy shape individuals' preferences for tackling long-term societal problems like climate change.</p>
+</div>
+</details>
+
+<details>
+<summary><a href="https://osf.io/esm98/" target="_blank" rel="noopener">Manuscript</a></summary>
+<div><p>OSF.</p></div>
+</details>
+
+<div class="tags">
+<span class="tag">Automation</span>
+<span class="tag">Environment</span>
+</div>
+</div>
+
 <span class="badge under-review">Under Review</span>
 </div>
 </article>
+
 
 <article class="paper" data-status="under-review" data-themes="latin-america methods">
 <div class="paper-top">
