@@ -278,7 +278,7 @@ details p{margin:0;color:#374151;line-height:1.6}
 </article>
 
 <!-- The path from Automation to Populist Political Behavior -->
-<article class="paper" data-status="working" data-themes="automation populism methods">
+<article class="paper" data-status="under-review" data-themes="automation populism methods">
 <div class="paper-top">
 <div>
 <h3 class="paper-title">The path from Automation to Populist Political Behavior</h3>
@@ -292,7 +292,7 @@ details p{margin:0;color:#374151;line-height:1.6}
 <details><summary><a href=https://gonzalez-rostani.com/img/Papers/APSA_Automation_Culture.pdf>Manuscript</a> </summary><p> </p>
 <div class="tags"><span class="tag">Automation</span><span class="tag">Populism</span><span class="tag">Experiment</span><span class="tag">Mediation</span></div>
 </div>
-<span class="badge working">Working</span>
+<span class="badge working">Under Review</span>
 </div>
 </article>
 
