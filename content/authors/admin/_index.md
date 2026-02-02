@@ -1,4 +1,4 @@
----
+7---
 # Display name
 title: Valentina González-Rostani
 
@@ -100,6 +100,13 @@ font-weight:800;
 font-size:.85em;
 }
 
+  .about-subtitle{
+margin:8px 0 18px;
+color:#6b7280;
+font-size:1.05em;
+font-weight:500;
+}
+
 /* section rhythm */
 .about-section{
 margin-top:18px;
@@ -121,6 +128,10 @@ margin-bottom:6px;
     <span class="about-chip">🗳️ Populism & Political Behavior</span>
     <span class="about-chip">📊 Text-as-Data (NLP & LLMs)</span>
   </div>
+</div>
+
+<div class="about-subtitle">
+  Background, research interests, and public engagement.
 </div>
 
 <div class="about-section">
