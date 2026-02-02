@@ -1,4 +1,4 @@
-+++
+7+++
 # A Demo section created with the Blank widget.
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -225,6 +225,12 @@ subtitle = ""
           <td><span class="event-type type-talk">Talk</span></td>
           <td>USC Sol Price School - Political Institutions and Political Economy Seminar</td>
           <td>Los Angeles, CA</td>
+        </tr>
+        <tr>
+          <td>May 2026</td>
+          <td><span class="event-type type-panel">Conference</span></td>
+          <td>PolMeth Europe: Who Influences Whom? Analyzing the Interplay of Mainstream and Outsider Parties in Social Media Campaigns (with Claudia Salas Gimenez) _Paper accepted_</td>
+          <td>Conference</td>
         </tr>
         <tr>
           <td>2026</td>
