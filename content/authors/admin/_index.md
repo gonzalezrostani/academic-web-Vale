@@ -13,7 +13,6 @@ organizations:
 - name: University of Southern California
   url: "https://dornsife.usc.edu/poir/"
 
-# Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
@@ -38,10 +37,6 @@ education:
     institution: Universidad de la República
     year: 2015
 
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
@@ -59,28 +54,145 @@ social:
   icon_pack: ai
   link: https://gonzalez-rostani.com/img/Papers/CV_GonzalezRostani.pdf
 
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "mailto:gonzalez.rostani@usc.edu"
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
 - Visitors
 ---
 
-I am an Assistant Professor in the Department of Political Science and International Relations at the [University of Southern California](https://dornsife.usc.edu/poir/). Before joining USC, I was a Postdoctoral Research Associate at [Princeton University](https://politics.princeton.edu/).
+<style>
+/* ABOUT HERO (matches Research/Teaching style) */
+.about-hero{
+margin:8px 0 22px;
+padding:22px 22px 20px;
+background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);
+border-radius:18px;
+color:#fff;
+}
+.about-hero h2{
+margin:0 0 8px;
+font-weight:900;
+font-size:1.6em;
+line-height:1.25;
+}
+.about-hero p{
+margin:0;
+opacity:.95;
+line-height:1.6;
+font-size:1.05em;
+max-width:900px;
+}
 
-My research explores how technological change—especially automation and artificial intelligence—reshapes politics and society. I study how these shifts affect political attitudes and the rise of populist movements, with work spanning advanced economies and the Global South. I also work on international trade, inequality, and political methodology. I am particularly interested in developing machine learning tools to measure populism and applying LLMs to analyze topics and stances in political discourse.
+/* chips */
+.about-chips{
+display:flex;
+gap:10px;
+flex-wrap:wrap;
+margin-top:14px;
+}
+.about-chip{
+padding:6px 12px;
+border-radius:999px;
+background:rgba(255,255,255,.15);
+border:1px solid rgba(255,255,255,.35);
+font-weight:800;
+font-size:.85em;
+}
 
-My work has been published or is forthcoming in journals including the *Journal of Politics*, *Economics & Politics*, *Legislative Studies Quarterly*, and *PS: Political Science & Politics*. I am a member of the *2025 APSA Task Force on AI and Political Science*, where I serve on the committee on economic inequality and the labor force.
+/* buttons */
+.about-buttons{
+display:flex;
+gap:12px;
+flex-wrap:wrap;
+margin-top:14px;
+}
+.about-btn{
+display:inline-block;
+padding:10px 16px;
+border-radius:12px;
+border:2px solid #fff;
+color:#fff;
+text-decoration:none !important;
+font-weight:900;
+background:transparent;
+}
+.about-btn:hover{
+background:#fff;
+color:#4c51bf;
+}
 
-I care deeply about making scientific knowledge accessible. I am affiliated with the [Mobilization & Political Economy NSF-REU program](https://mpeprogram.com/), which supports the research paths of underrepresented students. I also co-direct [*Razones y Personas*](https://www.razonesypersonas.com/), a 14-year-old blog where more than 50 social scientists publish weekly pieces on politics and policy, with a focus on Latin America and Uruguay. Before moving to the United States, I worked in Uruguayan politics as a grassroots organizer and advised a member of Congress. Earlier, I worked at KPMG, an experience that broadened my perspective on industry and continues to complement my academic work.
+/* section rhythm */
+.about-section{
+margin-top:22px;
+}
+.about-section strong{
+display:block;
+margin-bottom:6px;
+}
+</style>
 
-Please feel free to contact me at: gonzalez.rostani [at] usc.edu.
+<div class="about-hero">
+  <h2>Political economy of automation, inequality, and political behavior</h2>
+  <p>
+    I study how technological change—especially automation and artificial intelligence—reshapes political attitudes, parties, and institutions across advanced economies and the Global South, using causal inference and computational text analysis (NLP and large language models).
+  </p>
+
+  <div class="about-chips">
+    <span class="about-chip">🤖 Automation & AI</span>
+    <span class="about-chip">🗳️ Populism & Political Behavior</span>
+    <span class="about-chip">📊 Text-as-Data (NLP & LLMs)</span>
+  </div>
+
+  <div class="about-buttons">
+    <a class="about-btn" href="/research/">Research</a>
+    <a class="about-btn" href="/teaching/">Teaching</a>
+    <a class="about-btn" href="/resources/">Toolkit</a>
+    <a class="about-btn" href="https://gonzalez-rostani.com/img/Papers/CV_GonzalezRostani.pdf" target="_blank" rel="noopener">CV</a>
+  </div>
+</div>
+
+<div class="about-section">
+<strong>Position.</strong>
+I am an Assistant Professor in the Department of Political Science and International Relations at the 
+[University of Southern California](https://dornsife.usc.edu/poir/). 
+Before joining USC, I was a Postdoctoral Research Associate at 
+[Princeton University](https://politics.princeton.edu/).
+</div>
+
+<div class="about-section">
+<strong>Research.</strong>
+My research examines how technological change—especially automation and artificial intelligence—reshapes politics and society. 
+I study how these shifts affect political attitudes and the rise of populist movements, with work spanning advanced economies and the Global South. 
+I also work on international trade, inequality, and political methodology, and develop machine-learning tools to measure political discourse and populist rhetoric.
+</div>
+
+<div class="about-section">
+<strong>Publications & service.</strong>
+My work has been published or is forthcoming in 
+<i>Journal of Politics</i>, <i>Economics & Politics</i>, <i>Legislative Studies Quarterly</i>, and 
+<i>PS: Political Science & Politics</i>. 
+I am a member of the <i>2025 APSA Task Force on AI and Political Science</i>, where I serve on the committee on economic inequality and the labor force.
+</div>
+
+<div class="about-section">
+<strong>Public engagement & mentoring.</strong>
+I care deeply about making scientific knowledge accessible. 
+I am affiliated with the 
+[Mobilization & Political Economy NSF-REU program](https://mpeprogram.com/), 
+which supports the research paths of underrepresented students. 
+I also co-direct 
+[*Razones y Personas*](https://www.razonesypersonas.com/), 
+a long-running blog where social scientists publish weekly pieces on politics and policy, with a focus on Latin America and Uruguay.
+</div>
+
+<div class="about-section">
+<strong>Background.</strong>
+Before moving to the United States, I worked in Uruguayan politics as a grassroots organizer and advised a member of Congress. 
+Earlier, I worked at KPMG—an experience that broadened my perspective on industry and continues to complement my academic work.
+</div>
+
+<div class="about-section">
+<strong>Contact.</strong>
+You can reach me at <code>gonzalez.rostani [at] usc.edu</code>.
+</div>
