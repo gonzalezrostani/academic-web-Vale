@@ -1,4 +1,4 @@
-7+++
++++
 # A Demo section created with the Blank widget.
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
