@@ -4,7 +4,7 @@ headless = true
 active = true
 weight = 26
 
-title = "Research"
+title = ""
 subtitle = ""
 
 [design]
