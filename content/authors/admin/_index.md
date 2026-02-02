@@ -151,8 +151,7 @@ I am affiliated with the
 <a href="https://mpeprogram.com/" target="_blank" rel="noopener">Mobilization & Political Economy NSF-REU program</a>, 
 which supports the research paths of underrepresented students. 
 I also co-direct 
-<a href="https://www.razonesypersonas.com/" target="_blank" rel="noopener"><i>Razones y Personas</i></a>, 
-a long-running blog where social scientists publish weekly pieces on politics and policy, with a focus on Latin America and Uruguay.
+<a href="https://www.razonesypersonas.com/" target="_blank" rel="noopener"><i>Razones y Personas</i></a>, a 14-year-old blog where more than 50 social scientists publish weekly pieces on politics and policy, with a focus on Latin America and Uruguay.
 </div>
 
 <div class="about-section">
