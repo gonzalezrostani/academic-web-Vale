@@ -227,6 +227,12 @@ subtitle = ""
           <td>Los Angeles, CA</td>
         </tr>
         <tr>
+          <td>June 2026</td>
+          <td><span class="event-type type-panel">Conference</span></td>
+          <td>When Machines Manage: Workers’ Demands and Trade Union Responses to AI (with Paolo Agnolin) <span class="scheduled-tag">(upcoming)</span></td>
+          <td>EPSS Belfast</td>
+        </tr>
+        <tr>
           <td>May 2026</td>
           <td><span class="event-type type-panel">Conference</span></td>
           <td>PolMeth Europe: Who Influences Whom? Analyzing the Interplay of Mainstream and Outsider Parties in Social Media Campaigns (with Claudia Salas Gimenez) <span class="scheduled-tag">(upcoming)</span></td>
