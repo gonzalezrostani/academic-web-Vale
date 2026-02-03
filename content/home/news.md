@@ -235,7 +235,7 @@ subtitle = ""
         <tr>
           <td>May 2026</td>
           <td><span class="event-type type-panel">Conference</span></td>
-          <td>PolMeth Europe: Who Influences Whom? Analyzing the Interplay of Mainstream and Outsider Parties in Social Media Campaigns (with Claudia Salas Gimenez) <span class="scheduled-tag">(upcoming)</span></td>
+          <td>Who Influences Whom? Analyzing the Interplay of Mainstream and Outsider Parties in Social Media Campaigns (with Claudia Salas Gimenez) <span class="scheduled-tag">(upcoming)</span></td>
           <td>PolMeth Europe · Trinity College Dublin</td>
         </tr>
         <tr>
