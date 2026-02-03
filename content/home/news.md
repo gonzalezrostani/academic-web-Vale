@@ -230,7 +230,7 @@ subtitle = ""
           <td>June 2026</td>
           <td><span class="event-type type-panel">Conference</span></td>
           <td>When Machines Manage: Workers’ Demands and Trade Union Responses to AI (with Paolo Agnolin) <span class="scheduled-tag">(upcoming)</span></td>
-          <td>EPSS Belfast</td>
+          <td>European Political Science Society EPSS - Belfast</td>
         </tr>
         <tr>
           <td>May 2026</td>
