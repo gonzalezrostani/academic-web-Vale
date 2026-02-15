@@ -105,6 +105,21 @@ details p{margin:0;color:#374151;line-height:1.6}
 </div>
 </article>
 
+<article class="paper" data-status="forthcoming" data-themes="automation">
+<div class="paper-top">
+<div>
+<h3 class="paper-title"><a href="https://gonzalez-rostani.com/img/Papers/Env_automation_EE.pdf" target="_blank" rel="noopener">Labour Market Risk Shapes Individuals’ Environmental Attitudes and Policy Preferences</a></h3>
+<div class="paper-meta"><div><strong>with <a href="https://sites.pitt.edu/~jch61/" target="_blank" rel="noopener">Liam F. Beiser-McGrath, and Michaël Aklin</a></strong></div><div><em>Accepted at Ecological Economics</em> (2026)</div></div>
+<details><summary>Abstract</summary><p>In an era of increasing economic precarity and labour market polarization, meaningful efforts to mitigate climate challenges face a fundamental political challenge. We examine how indviduals' long-term labour market risk shapes their environmental attitudes and support for green policies. We argue that long-term labour market risk is expected to reduce environmental concern amongst those affected due to a deprioritization of problems with high levels of uncertainty and that require deep reforms to be addressed. Therefore, we expect labour market risk to subsequently reduce support of environmental policy that imposes immediate direct costs, such as carbon taxation. Using European Social Survey data from 2002 to 2018 and several waves of the International Social Survey Programme across European countries, our analysis reveals that individuals' facing long-term labour market risks are less likely to hold environmental concerns and less supportive of carbon taxes that impose immediate visible costs. Our findings have important implications for understanding how structural transformations in the economy shape individuals' preferences for tackling long-term societal problems like climate change. </p>
+</details> &nbsp; 
+<details><summary><a href=https://gonzalez-rostani.com/img/Papers/LoV_updated.pdf>Manuscript</a> </summary><p> </p>  
+</details> &nbsp; <br>
+<div class="tags"><span class="tag">Environment</span><span class="tag">Public Opinion</span></div>
+</div>
+<span class="badge forthcoming">Accepted</span>
+</div>
+</article>
+  
 <article class="paper" data-status="forthcoming" data-themes="trade populism">
 <div class="paper-top">
 <div>
