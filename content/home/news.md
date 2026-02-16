@@ -215,6 +215,12 @@ subtitle = ""
       </thead>
       <tbody>
         <tr>
+          <td>February 2026</td>
+          <td><span class="event-type type-publication">Publication</span></td>
+          <td><a href="https://gonzalez-rostani.com/img/Papers/Env_automation_EE.pdf">Labor Market Risk Shapes Individuals’ Environmental Attitudes and Policy Preferences</a> (with Liam F. Beiser-McGrath, and Michaël Aklin) - <i>Ecological Economics</i> <span class="scheduled-tag">(Accepted)</span></td>
+          <td>Forthcoming</td>
+        </tr>
+        <tr>
           <td>January 2026</td>
           <td><span class="event-type type-publication">Publication</span></td>
           <td><a href="https://www.journals.uchicago.edu/doi/10.1086/734533">Elections, Right-Wing Populism, and Political-Economic Polarization: The Role of Institutions and Political Outsiders</a> - <i>The Journal of Politics</i>, Vol. 88, No. 1</td>
