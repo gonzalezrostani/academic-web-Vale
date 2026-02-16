@@ -221,6 +221,12 @@ subtitle = ""
           <td>Forthcoming</td>
         </tr>
         <tr>
+          <td>February 2026</td>
+          <td><span class="event-type type-publication">New Working Paper</span></td>
+          <td><a href="https://gonzalez-rostani.com/img/Papers/manuscript_GR_LC">Can Taxing the Top 1% Unite Labor? Narrative Politics and Redistribution from the Super-Rich</a> (with Santiago Lopez-Cariboni) <span class="scheduled-tag">(draft)</span></td>
+          <td>Under Review</td>
+        </tr>
+        <tr>
           <td>January 2026</td>
           <td><span class="event-type type-publication">Publication</span></td>
           <td><a href="https://www.journals.uchicago.edu/doi/10.1086/734533">Elections, Right-Wing Populism, and Political-Economic Polarization: The Role of Institutions and Political Outsiders</a> - <i>The Journal of Politics</i>, Vol. 88, No. 1</td>
