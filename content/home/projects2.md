@@ -288,7 +288,7 @@ details p{margin:0;color:#374151;line-height:1.6}
 <article class="paper" data-status="under-review" data-themes="latin-america methods">
 <div class="paper-top">
 <div>
-<h3 class="paper-title"><a href="https://gonzalez-rostani.com/img/Papers/manuscript_GR_LC.pdf" target="_blank" rel="noopener">Can Taxing the Top 1\% Unite Labor? Narrative Politics and Redistribution from the Super-Rich</a></h3>
+<h3 class="paper-title"><a href="https://gonzalez-rostani.com/img/Papers/manuscript_GR_LC.pdf" target="_blank" rel="noopener">Can Taxing the Top 1% Unite Labor? Narrative Politics and Redistribution from the Super-Rich</a></h3>
 
 <div class="paper-meta">
 <div><strong>with <a href="https://lopez-cariboni.info/" target="_blank" rel="noopener">Santiago Lopez-Cariboni</a></strong></div>
