@@ -223,7 +223,7 @@ subtitle = ""
         <tr>
           <td>February 2026</td>
           <td><span class="event-type type-publication">New Working Paper</span></td>
-          <td><a href="https://gonzalez-rostani.com/img/Papers/manuscript_GR_LC">Can Taxing the Top 1% Unite Labor? Narrative Politics and Redistribution from the Super-Rich</a> (with Santiago Lopez-Cariboni) <span class="scheduled-tag">(draft)</span></td>
+          <td><a href="https://gonzalez-rostani.com/img/Papers/manuscript_GR_LC.pdf">Can Taxing the Top 1% Unite Labor? Narrative Politics and Redistribution from the Super-Rich</a> (with Santiago Lopez-Cariboni) <span class="scheduled-tag">(draft)</span></td>
           <td>Under Review</td>
         </tr>
         <tr>
