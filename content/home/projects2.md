@@ -109,7 +109,7 @@ details p{margin:0;color:#374151;line-height:1.6}
 <div class="paper-top">
 <div>
 <h3 class="paper-title"><a href="https://gonzalez-rostani.com/img/Papers/Env_automation_EE.pdf" target="_blank" rel="noopener">Labour Market Risk Shapes Individuals’ Environmental Attitudes and Policy Preferences</a></h3>
-<div class="paper-meta"><div><strong>with <a href="https://sites.pitt.edu/~jch61/" target="_blank" rel="noopener">Liam F. Beiser-McGrath, and Michaël Aklin</a></strong></div><div><em>Accepted at Ecological Economics</em> (2026)</div></div>
+<div class="paper-meta"><div><strong>with <a href="http://www.liambeisermcgrath.com/" target="_blank" rel="noopener">Liam F. Beiser-McGrath</a> and <a href="https://michaelaklin.github.io/" target="_blank" rel="noopener">Michaël Aklin</a></strong></div><div><em>Accepted at Ecological Economics</em> (2026)</div></div>
 <details><summary>Abstract</summary><p>In an era of increasing economic precarity and labour market polarization, meaningful efforts to mitigate climate challenges face a fundamental political challenge. We examine how indviduals' long-term labour market risk shapes their environmental attitudes and support for green policies. We argue that long-term labour market risk is expected to reduce environmental concern amongst those affected due to a deprioritization of problems with high levels of uncertainty and that require deep reforms to be addressed. Therefore, we expect labour market risk to subsequently reduce support of environmental policy that imposes immediate direct costs, such as carbon taxation. Using European Social Survey data from 2002 to 2018 and several waves of the International Social Survey Programme across European countries, our analysis reveals that individuals' facing long-term labour market risks are less likely to hold environmental concerns and less supportive of carbon taxes that impose immediate visible costs. Our findings have important implications for understanding how structural transformations in the economy shape individuals' preferences for tackling long-term societal problems like climate change. </p>
 </details> &nbsp; 
 <details><summary><a href=https://gonzalez-rostani.com/img/Papers/LoV_updated.pdf>Manuscript</a> </summary><p> </p>  
@@ -285,46 +285,7 @@ details p{margin:0;color:#374151;line-height:1.6}
 </article>
 
 
-<article class="paper" data-status="under-review" data-themes="automation">
-<div class="paper-top">
-<div>
-<h3 class="paper-title">
-<a href="https://osf.io/esm98/" target="_blank" rel="noopener">
-The Threat of Automation and Public Support for Environmental Policies
-</a>
-</h3>
 
-<div class="paper-meta">
-<div>
-<strong>
-with <a href="http://www.liambeisermcgrath.com/" target="_blank" rel="noopener">Liam F. Beiser-McGrath</a>
-and <a href="https://michaelaklin.github.io/" target="_blank" rel="noopener">Michaël Aklin</a>
-</strong>
-</div>
-<div><em>Under Review</em> (2022)</div>
-</div>
-
-<details>
-<summary>Abstract</summary>
-<div>
-<p>The rise of automation has transformed economies around the world. We examine how its effects spill over and affect people's views about environmental issues and policies. We argue that the long-term economic threat posed by automation is expected to reduce environmental concern amongst those affected due to a deprioritization of problems with high levels of uncertainty and that require deep reforms to be addressed. Therefore, we expect automation risk to subsequently reduce support of environmental policy that imposes immediate direct costs, such as carbon taxation. Meanwhile, support for policies with diffuse costs, such as environmental subsidies, will only be affected by automation indirectly, to the extent that it reduces individuals' general environmental concern. Using European Social Survey data from 2002 to 2018 for 23 European countries, our analysis reveals that individuals exposed to automation are less likely to hold environmental concerns and less supportive of carbon taxes that impose immediate visible costs. Mediation analysis suggests that automation reduces support for environmental policies through its negative effect on environmental concern, with this effect being larger for subsidies. Our findings have important implications for understanding how structural transformations in the economy shape individuals' preferences for tackling long-term societal problems like climate change.</p>
-</div>
-</details>
-
-<details>
-<summary><a href="https://osf.io/esm98/" target="_blank" rel="noopener">Manuscript</a></summary>
-<div><p>OSF.</p></div>
-</details>
-
-<div class="tags">
-<span class="tag">Automation</span>
-<span class="tag">Environment</span>
-</div>
-</div>
-
-<span class="badge under-review">Under Review</span>
-</div>
-</article>
 
 
 <article class="paper" data-status="under-review" data-themes="latin-america methods">
