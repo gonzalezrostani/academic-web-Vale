@@ -285,6 +285,37 @@ details p{margin:0;color:#374151;line-height:1.6}
 </article>
 
 
+<article class="paper" data-status="under-review" data-themes="latin-america methods">
+<div class="paper-top">
+<div>
+<h3 class="paper-title"><a href="https://gonzalez-rostani.com/img/Papers/manuscript_GR_LC.pdf" target="_blank" rel="noopener">Can Taxing the Top 1\% Unite Labor? Narrative Politics and Redistribution from the Super-Rich</a></h3>
+
+<div class="paper-meta">
+<div><strong>with <a href="https://lopez-cariboni.info/" target="_blank" rel="noopener">Santiago Lopez-Cariboni</a></strong></div>
+<div><em>Under Review</em> (2025)</div>
+</div>
+
+<details>
+<summary>Abstract</summary>
+<div><p>How do individuals perceive technological risk, particularly job insecurity, in the era of AI-driven change? This paper explores how people navigate the uncertainty created by the pace of technology and experts' unclear predictions about its impact on jobs. We focus on three perceptions: techno-optimists, techno-pessimists, and those exposed to rapid technological change, examining their demographic characteristics and implications for political coalition-building. Using data from three original surveys, including open-ended responses, we show that personal and vicarious experiences shape these perceptions, with exposed workers occupying a middle ground between optimism and pessimism. Contrary to the view that high-skilled workers are less vulnerable, we find that perceived employment risks rise with the use of complex technologies like programming languages. Exposed workers and pessimists share political traits, such as support for illiberal policies, while optimists lean toward liberal policies. These results deepen our understanding of how technological risk perceptions influence politics.</p></div>
+</details>
+
+<details>
+<summary><a href="https://gonzalez-rostani.com/img/Papers/manuscript_GR_LC.pdf" target="_blank" rel="noopener">Manuscript</a></summary>
+<div><p>PDF.</p></div>
+</details>
+
+<div class="tags">
+<span class="tag">Super-Rich</span>
+<span class="tag">Taxation</span>
+<span class="tag">Survey</span>
+<span class="tag">Text-as-data</span>
+</div>
+</div>
+
+<span class="badge under-review">Under Review</span>
+</div>
+</article>
 
 
 
