@@ -170,11 +170,11 @@ details p{margin:0;color:#374151;line-height:1.6}
 <article class="paper" data-status="published" data-themes="methods latin-america">
 <div class="paper-top">
 <div>
-<h3 class="paper-title"><a href="https://onlinelibrary.wiley.com/doi/10.1111/lsq.12481" target="_blank" rel="noopener">Social Media versus Surveys: A New Scalable Approach to Understanding Political Discourse</a></h3>
+<h3 class="paper-title"><a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/lsq.12481" target="_blank" rel="noopener">Social Media versus Surveys: A New Scalable Approach to Understanding Political Discourse</a></h3>
 <div class="paper-meta"><div><strong>with <a href="https://joseincio.com/" target="_blank" rel="noopener">Jose Luis Incio</a> and <a href="https://guillelezama.netlify.app/" target="_blank" rel="noopener">Guillermo Lezama</a></strong></div><div><em>Legislative Studies Quarterly</em> (2024)</div></div>
 <details><summary>Abstract</summary><p>Many legislators do not have consistently progressive or conservative policy positions. How does the mix of issue positions relate to the manner in which the legislators consider their placement on the left-right ideological scale? Analyzing data from the Parliamentary Elites in Latin America (PELA) survey, this paper counterposes combinations of legislators’ moral and economic policy positions with their self-located ideological score. Our results confirm the importance of economics, which is consistent with older studies, but we also find that moral issues are at least consistent with – and perhaps germane– to the left-right placement of many of the region’s legislators. Among the findings are that the left is more heterogeneous, especially with respect to moral views, than is the right. We also show that many centrists are closeted conservatives, supporting the “ashamed right” thesis.</p>
 </details> &nbsp; 
-<details><summary><a href=https://onlinelibrary.wiley.com/doi/10.1111/lsq.12476>First View</a> </summary><p> </p>
+<details><summary><a href=https://onlinelibrary.wiley.com/doi/epdf/10.1111/lsq.12481>First View</a> </summary><p> </p>
 <div class="tags"><span class="tag">Text-as-Data</span><span class="tag">Latin America</span></div>
 </div>
 <span class="badge published">Published</span>
