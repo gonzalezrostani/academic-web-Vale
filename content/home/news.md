@@ -247,7 +247,7 @@ subtitle = ""
 <tr>
   <td>March 2026</td>
   <td><span class="event-type type-workshop">Workshop</span></td>
-  <td>Texas A&amp;M, Globalization Backlash</td>
+  <td>Texas A&amp;M, <a href="https://bush.tamu.edu/globalization-backlash-new-theory-and-evidence/">Globalization Backlash</a></td>
   <td>Texas</td>
 </tr>
         <tr>
