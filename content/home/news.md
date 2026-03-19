@@ -215,6 +215,42 @@ subtitle = ""
       </thead>
       <tbody>
         <tr>
+  <td>March 2026</td>
+  <td><span class="event-type type-publication">Publication</span></td>
+  <td><a href="https://www.sciencedirect.com/science/article/pii/S0921800926000583">Labor market risk shapes individuals’ environmental attitudes and policy preferences</a></td>
+  <td>Published</td>
+</tr>
+<tr>
+  <td>March 2026</td>
+  <td><span class="event-type type-talk">Talk</span></td>
+  <td>Invited, upcoming: University of Zurich, <i>A New Politics of Artificial Intelligence?</i></td>
+  <td>Zurich</td>
+</tr>
+<tr>
+  <td>March 2026</td>
+  <td><span class="event-type type-talk">Talk</span></td>
+  <td>Invited, upcoming: Bocconi University, <i>AI and Society</i></td>
+  <td>Milan</td>
+</tr>
+<tr>
+  <td>March 2026</td>
+  <td><span class="event-type type-talk">Talk</span></td>
+  <td>Invited, upcoming: Northeastern University, <i>AI and Politics</i></td>
+  <td>Boston</td>
+</tr>
+<tr>
+  <td>March 2026</td>
+  <td><span class="event-type type-talk">Talk</span></td>
+  <td>UC Riverside</td>
+  <td>California</td>
+</tr>
+<tr>
+  <td>March 2026</td>
+  <td><span class="event-type type-talk">Talk</span></td>
+  <td>Texas A&amp;M, Globalization Backlash</td>
+  <td>Texas</td>
+</tr>
+        <tr>
           <td>February 2026</td>
           <td><span class="event-type type-publication">Publication</span></td>
           <td><a href="https://gonzalez-rostani.com/img/Papers/Env_automation_EE.pdf">Labor Market Risk Shapes Individuals’ Environmental Attitudes and Policy Preferences</a> (with Liam F. Beiser-McGrath, and Michaël Aklin) - <i>Ecological Economics</i> <span class="scheduled-tag">(Accepted)</span></td>
