@@ -214,6 +214,42 @@ subtitle = ""
         </tr>
       </thead>
       <tbody>
+          <tr>
+          <td>March 2026</td>
+          <td><span class="event-type type-publication">Publication</span></td>
+          <td><a href="https://www.sciencedirect.com/science/article/pii/S0921800926000583">Labor market risk shapes individuals’ environmental attitudes and policy preferences</i></td>
+          <td>Published</td>
+        </tr>
+         <tr>
+          <td>March 2026</td>
+          <td><span class="event-type type-talk">Talk</span></td>
+          <td>Invited-upcoming: University of Zurich, A New Politics of Artificial Intelligence? </td>
+          <td>Zurich</td>
+        </tr>
+         <tr>
+          <td>March 2026</td>
+          <td><span class="event-type type-talk">Talk</span></td>
+          <td>Invited-upcoming: Bocconi University, AI and Society </td>
+          <td>Zurich</td>
+        </tr>
+        <tr>
+          <td>March 2026</td>
+          <td><span class="event-type type-talk">Talk</span></td>
+          <td>Invited-upcoming: Northestern University, AI and Politics </td>
+          <td>Zurich</td>
+        </tr>
+        <tr>
+          <td>March 2026</td>
+          <td><span class="event-type type-talk">Talk</span></td>
+          <td>UC Riverside</td>
+          <td>CA</td>
+        </tr>
+        <tr>
+          <td>March 2026</td>
+          <td><span class="event-type type-talk">Talk</span></td>
+          <td>Texas A & M, Globalization Backlask</td>
+          <td>TX</td>
+        </tr>
         <tr>
           <td>January 2026</td>
           <td><span class="event-type type-publication">Publication</span></td>
