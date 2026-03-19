@@ -230,13 +230,13 @@ subtitle = ""
           <td>March 2026</td>
           <td><span class="event-type type-workshop">Workshop</span></td>
           <td>Invited-upcoming: Bocconi University, AI and Society </td>
-          <td>Zurich</td>
+          <td>Milan</td>
         </tr>
         <tr>
           <td>March 2026</td>
           <td><span class="event-type type-workshop">Workshop</span></td>
           <td>Invited-upcoming: Northeastern University, AI and Politics </td>
-          <td>Zurich</td>
+          <td>Boston</td>
         </tr>
         <tr>
           <td>March 2026</td>
