@@ -215,11 +215,11 @@ subtitle = ""
       </thead>
       <tbody>
           <tr>
-          <td>March 2026</td>
-          <td><span class="event-type type-publication">Publication</span></td>
-            <td><a href="https://www.sciencedirect.com/science/article/pii/S0921800926000583">Labor market risk shapes individuals’ environmental attitudes and policy preferences</a></td>
-            <td>Published</td>
-        </tr>
+  <td>March 2026</td>
+  <td><span class="event-type type-publication">Publication</span></td>
+  <td><a href="https://www.sciencedirect.com/science/article/pii/S0921800926000583">Labor market risk shapes individuals’ environmental attitudes and policy preferences</a></td>
+  <td>Published</td>
+</tr>
          <tr>
           <td>March 2026</td>
           <td><span class="event-type type-workshop">Workshop</span></td>
@@ -247,7 +247,7 @@ subtitle = ""
         <tr>
           <td>March 2026</td>
           <td><span class="event-type type-workshop">Workshop</span></td>
-          <td>Texas A & M, Globalization Backlask</td>
+          <td>Texas A M, Globalization Backlask</td>
           <td>TX</td>
         </tr>
         <tr>
