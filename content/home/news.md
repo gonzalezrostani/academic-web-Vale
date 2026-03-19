@@ -222,19 +222,19 @@ subtitle = ""
 </tr>
 <tr>
   <td>March 2026</td>
-  <td><span class="event-type type-talk">Talk</span></td>
+  <td><span class="event-type type-workshop">Workshop</span></td>
   <td>Invited, upcoming: University of Zurich, <i>A New Politics of Artificial Intelligence?</i></td>
   <td>Zurich</td>
 </tr>
 <tr>
   <td>March 2026</td>
-  <td><span class="event-type type-talk">Talk</span></td>
+  <td><span class="event-type type-workshop">Workshop</span></td>
   <td>Invited, upcoming: Bocconi University, <i>AI and Society</i></td>
   <td>Milan</td>
 </tr>
 <tr>
   <td>March 2026</td>
-  <td><span class="event-type type-talk">Talk</span></td>
+  <td><span class="event-type type-workshop">Workshop</span></td>
   <td>Invited, upcoming: Northeastern University, <i>AI and Politics</i></td>
   <td>Boston</td>
 </tr>
@@ -246,7 +246,7 @@ subtitle = ""
 </tr>
 <tr>
   <td>March 2026</td>
-  <td><span class="event-type type-talk">Talk</span></td>
+  <td><span class="event-type type-workshop">Workshop</span></td>
   <td>Texas A&amp;M, Globalization Backlash</td>
   <td>Texas</td>
 </tr>
