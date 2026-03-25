@@ -356,13 +356,27 @@ details p{margin:0;color:#374151;line-height:1.6}
 <div class="paper-top">
 <div>
 <h3 class="paper-title">Who Influences Whom? Analyzing the Interplay of Mainstream and Outsider Parties in Social Media Campaigns</h3>
-<div class="paper-meta"><div><strong>Valentina González-Rostani</strong></div><div><em>Working Paper</em> (2024)</div></div>
-<details><summary>Abstract</summary><p>Do mainstream parties respond to outsider parties, or vice versa? Previous research suggests an alignment between the issues prioritized by both mainstream and outsider parties, but definitive evidence on who influences whom is limited. I investigate this with fine-grained temporal analyses of YouTube videos posted by political parties in the year leading up to elections since 2015 in the UK and Spain. Using dictionaries, Wordscores, and transformer-based models, I classify the content by issues and communication characteristics, such as whether a message is populist or extreme. I then apply vector autoregression models to explore short-term dynamics of rhetorical influence. In the UK, a majoritarian system, mainstream right and left parties respond to each other, while the outsider right follows mainstream parties. In Spain, a multi-party system, mainstream parties influence each other, and outsider parties influence the mainstream left and each other. More importantly, in both systems, mainstream parties more often lead than follow outsiders' messages. These findings have important implications for understanding party dynamics and competition during electoral campaigns.</p>
-<div class="tags"><span class="tag">Campaigns</span><span class="tag">YouTube</span><span class="tag">VAR</span><span class="tag">Text-as-Data</span></div>
+<div class="paper-meta">
+  <div><strong>Valentina González-Rostani</strong>, <strong>Claudia Sala</strong></div>
+  <div><em>Working Paper</em> (2026)</div>
 </div>
+<details><summary>Abstract</summary><p>Electoral campaigns are high-frequency environments in which parties receive rapid feedback and face immediate incentives to adjust both message content and presentation. Yet most research on party competition relies on low-frequency texts, such as manifestos, or on election-to-election change, obscuring strategic adaptation within campaigns. We address this gap by analyzing more than 8,000 YouTube transcripts produced by parties in Spain and the United Kingdom during the year before elections between 2015 and 2024. We develop a general framework for studying campaign communication with social media data and recent language models, combining embeddings, BERT-based measures, and large language models. Substantively, we show that parties adapt ideological stances as elections approach, shift issue emphasis, and respond selectively to rivals, especially on particular issues and within ideological families, rather than converging uniformly. Methodologically, our approach captures movement not only in topics, but also in positions, framing, and rhetorical style.</p>
+<div class="tags">
+  <span class="tag">Campaigns</span>
+  <span class="tag">YouTube</span>
+  <span class="tag">VAR</span>
+  <span class="tag">Text-as-Data</span>
+</div>
+</details>
+</div>
+<details>
+  <summary><a href="https://gonzalez-rostani.com/img/Papers/YouTube.pdf">Manuscript</a></summary>
+  <p></p>
+</details>
 <span class="badge working">Working</span>
 </div>
 </article>
+
 
 <!-- Creating Pathways to Graduate Success -->
 <article class="paper" data-status="under-review" data-themes="teaching">
