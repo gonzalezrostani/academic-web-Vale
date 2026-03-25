@@ -217,8 +217,8 @@ subtitle = ""
          <tr>
   <td>March 2026</td>
   <td><span class="event-type type-publication">New Working Paper</span></td>
-  <td> New working paper is now available: <a href="https://gonzalez-rostani.com/img/Papers/YouTube.pdf">Who Influences Whom? Measuring the Interplay of Mainstream and Outsider Parties in Social Media Campaigns</a> to be presented at "Using Large Language Models (LLMs) and Other AI Tools to Gather and Analyse Political Elite Network" University of Innsbruck, Austria </td>
-  <td>Published</td>
+  <td> New working paper is now available: <a href="https://gonzalez-rostani.com/img/Papers/YouTube.pdf">Who Influences Whom? Measuring the Interplay of Mainstream and Outsider Parties in Social Media Campaigns</a> to be presented at "Using Large Language Models (LLMs) and Other AI Tools to Gather and Analyse Political Elite Network" University of Innsbruck </td>
+  <td>Austria</td>
 </tr>
         <tr>
   <td>March 2026</td>
