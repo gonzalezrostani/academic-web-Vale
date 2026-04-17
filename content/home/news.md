@@ -214,7 +214,6 @@ subtitle = ""
         </tr>
       </thead>
       <tbody>
-           <tr>
   <td>April 2026</td>
   <td><span class="event-type type-publication">New Working Paper</span></td>
   <td> New working paper is now available: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6576218">Tracing AI Assistance and AI Agents in Survey Research</a> w/ Shir Raviv </td>
