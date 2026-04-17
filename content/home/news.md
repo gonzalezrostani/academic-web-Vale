@@ -213,17 +213,17 @@ subtitle = ""
           <th style="width: 25%;">Place</th>
         </tr>
       </thead>
-      <tbody>
+   <tbody>
+<tr>
   <td>April 2026</td>
   <td><span class="event-type type-publication">New Working Paper</span></td>
-  <td> New working paper is now available: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6576218">Tracing AI Assistance and AI Agents in Survey Research</a> w/ Shir Raviv </td>
+  <td>New working paper is now available: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6576218">Tracing AI Assistance and AI Agents in Survey Research</a> w/ Shir Raviv</td>
   <td>SSRN</td>
 </tr>
-        
-         <tr>
+<tr>
   <td>March 2026</td>
   <td><span class="event-type type-publication">New Working Paper</span></td>
-  <td> New working paper is now available: <a href="https://gonzalez-rostani.com/img/Papers/YouTube.pdf">Who Influences Whom? Measuring the Interplay of Mainstream and Outsider Parties in Social Media Campaigns</a> to be presented at "Using Large Language Models (LLMs) and Other AI Tools to Gather and Analyse Political Elite Network" University of Innsbruck </td>
+  <td>New working paper is now available: <a href="https://gonzalez-rostani.com/img/Papers/YouTube.pdf">Who Influences Whom? Measuring the Interplay of Mainstream and Outsider Parties in Social Media Campaigns</a> to be presented at "Using Large Language Models (LLMs) and Other AI Tools to Gather and Analyse Political Elite Network" University of Innsbruck</td>
   <td>Austria</td>
 </tr>
         <tr>
