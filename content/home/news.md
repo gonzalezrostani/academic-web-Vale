@@ -216,6 +216,12 @@ subtitle = ""
    <tbody>
 <tr>
   <td>April 2026</td>
+  <td><span class="event-type type-talk">Talk</span></td>
+  <td>University of Washington</td>
+  <td>Seattle</td>
+</tr>     
+<tr>
+  <td>April 2026</td>
   <td><span class="event-type type-workshop">Workshop</span></td>
   <td> Invited upcoming: 
     <a href="https://yalefds.swoogo.com/socialscience/Presentations" target="_blank">
