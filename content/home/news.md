@@ -216,6 +216,26 @@ subtitle = ""
    <tbody>
 <tr>
   <td>April 2026</td>
+  <td><span class="event-type type-workshop">Workshop</span></td>
+  <td>
+    <a href="https://yalefds.swoogo.com/socialscience/Presentations" target="_blank">
+      Yale University, <i>AI for Social Science Research Methods</i>
+    </a>
+  </td>
+  <td>New Haven</td>
+</tr>     
+<tr>
+  <td>May 2026</td>
+  <td><span class="event-type type-workshop">Workshop</span></td>
+  <td>
+    <a href="https://ischool.utoronto.ca/event/2nd-colloquium-on-applications-of-ai/" target="_blank">
+      University of Toronto, <i>Applications of AI</i>
+    </a> with Jae Yeon Kim and Charles Crabtree
+  </td>
+  <td>Toronto/hybrid</td>
+</tr>  
+<tr>
+  <td>April 2026</td>
   <td><span class="event-type type-publication">New Working Paper</span></td>
   <td>New working paper is now available: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6576218">Tracing AI Assistance and AI Agents in Survey Research</a> w/ Shir Raviv</td>
   <td>SSRN</td>
