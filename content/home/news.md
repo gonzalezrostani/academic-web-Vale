@@ -215,7 +215,7 @@ subtitle = ""
       </thead>
    <tbody>
 <tr>
-  <td>April 2026</td>
+  <td>May 2026</td>
   <td><span class="event-type type-workshop">Workshop</span></td>
   <td>
     <a href="https://yalefds.swoogo.com/socialscience/Presentations" target="_blank">
@@ -246,6 +246,17 @@ subtitle = ""
   <td>New working paper is now available: <a href="https://gonzalez-rostani.com/img/Papers/YouTube.pdf">Who Influences Whom? Measuring the Interplay of Mainstream and Outsider Parties in Social Media Campaigns</a> to be presented at "Using Large Language Models (LLMs) and Other AI Tools to Gather and Analyse Political Elite Network" University of Innsbruck</td>
   <td>Austria</td>
 </tr>
+  <tr>
+  <td>March 2026</td>
+  <td><span class="event-type type-publication">New Working Paper</span></td>
+  <td>
+    New working paper is now available:
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6583578" target="_blank">
+      Automation from Abroad: External Technological Change and the Reorganization of Globalization
+    </a>
+  </td>
+  <td>SSRN</td>
+</tr>   
         <tr>
   <td>March 2026</td>
   <td><span class="event-type type-publication">Publication</span></td>
