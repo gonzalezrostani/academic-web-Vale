@@ -215,9 +215,9 @@ subtitle = ""
       </thead>
    <tbody>
 <tr>
-  <td>May 2026</td>
+  <td>April 2026</td>
   <td><span class="event-type type-workshop">Workshop</span></td>
-  <td>
+  <td> Invited upcoming: 
     <a href="https://yalefds.swoogo.com/socialscience/Presentations" target="_blank">
       Yale University, <i>AI for Social Science Research Methods</i>
     </a>
@@ -225,9 +225,9 @@ subtitle = ""
   <td>New Haven</td>
 </tr>     
 <tr>
-  <td>May 2026</td>
+  <td>April 2026</td>
   <td><span class="event-type type-workshop">Workshop</span></td>
-  <td>
+  <td> Invited upcoming: 
     <a href="https://ischool.utoronto.ca/event/2nd-colloquium-on-applications-of-ai/" target="_blank">
       University of Toronto, <i>Applications of AI</i>
     </a> with Jae Yeon Kim and Charles Crabtree
