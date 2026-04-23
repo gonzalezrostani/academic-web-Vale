@@ -214,6 +214,23 @@ subtitle = ""
         </tr>
       </thead>
    <tbody>
+     <tr>
+  <td>June 2026</td>
+  <td><span class="event-type type-workshop">Workshop</span></td>
+  <td>
+    Invited participant at the <a href="https://www.schmidtsciences.org/ai-at-work/" target="_blank">Schmidt Sciences AI at Work Convening</a>, where I will workshop <i>Collective Bargaining, Worker Voice and Adjustment in the Age of AI</i> <span class="scheduled-tag">(upcoming)</span>
+  </td>
+  <td>Scottsdale, AZ</td>
+</tr>
+
+<tr>
+  <td>April 2026</td>
+  <td><span class="event-type type-award">Grant</span></td>
+  <td>
+    Received a <a href="https://www.schmidtsciences.org/ai-at-work/" target="_blank">Schmidt Sciences AI at Work Proposal Development Award</a> ($10,000) for the project <i>Collective Bargaining, Worker Voice and Adjustment in the Age of AI</i>; invited to apply for a full award of up to $200,000
+  </td>
+  <td>Schmidt Sciences</td>
+</tr>
 <tr>
   <td>April 2026</td>
   <td><span class="event-type type-talk">Talk</span></td>
