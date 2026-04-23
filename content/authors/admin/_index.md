@@ -120,8 +120,7 @@ margin-bottom:6px;
 <div class="about-hero">
   <h2>Welcome!</h2>
   <p>
-    I study how technological change—especially automation and artificial intelligence—reshapes political attitudes, parties, and democratic institutions across advanced economies and the Global South, using causal inference and computational text analysis (NLP and large language models).
-  </p>
+I work at the intersection of political economy and political methodology. My research examines how automation and artificial intelligence reshape work, representation, and democratic politics, while developing computational and survey-based tools to study politics in the age of AI.  </p>
 
   <div class="about-chips">
     <span class="about-chip">🤖 Automation & AI</span>
@@ -144,9 +143,8 @@ Before joining USC, I was a Postdoctoral Research Associate at
 
 <div class="about-section">
 <strong>Research.</strong>
-My research examines how technological change—especially automation and artificial intelligence—reshapes politics and society. 
-I study how these shifts affect political attitudes and the rise of populist movements, with work spanning advanced economies and the Global South. 
-I also work on international trade, inequality, and political methodology, and develop machine-learning tools to measure political discourse and populist rhetoric.
+My work has two closely connected strands. One examines how globalization and technological change jointly reshape labor markets, political conflict, and democratic institutions. I study how trade, global production, migration, automation, and AI interact to influence political attitudes, populism, inequality, and labor politics across advanced economies and the Global South. The other develops research methods for studying politics in the AI era, including scalable text-as-data pipelines, sentence-level measures of populist narratives, tools for detecting AI-assisted survey responses, and work on agentic AI as support for measurement, research design, and validation.
+
 </div>
 
 <div class="about-section">
@@ -156,14 +154,14 @@ I am a member of the <i>APSA Task Force on AI and Political Science</i>, where I
 </div>
 
 <div class="about-section">
-<strong>Public engagement & mentoring.</strong>
-I care deeply about making scientific knowledge accessible. 
-I am affiliated with the 
+<strong>Teaching, mentoring & public engagement.</strong>
+I care deeply about teaching and about building inclusive pathways into research. At USC, my teaching interests include text-as-data, data analysis, and international political economy, and I enjoy helping students connect substantive questions about trade, labor, democracy, and technological change with the development of new methodological and measurement tools. I am affiliated with the 
 <a href="https://mpeprogram.com/" target="_blank" rel="noopener">Mobilization & Political Economy NSF-REU program</a>, 
-which supports the research paths of underrepresented students. 
-I also co-direct 
-<a href="https://www.razonesypersonas.com/" target="_blank" rel="noopener"><i>Razones y Personas</i></a>, a 14-year-old blog where more than 50 social scientists publish weekly pieces on politics and policy, with a focus on Latin America and Uruguay.
+where I mentor students from underrepresented backgrounds as they prepare for graduate study and research careers. I also care about making social science accessible beyond the university. I co-direct 
+<a href="https://www.razonesypersonas.com/" target="_blank" rel="noopener"><i>Razones y Personas</i></a>, 
+a long-running blog where social scientists publish public-facing work on politics and policy, with a particular focus on Latin America and Uruguay.
 </div>
+
 
 <div class="about-section">
 <strong>Background.</strong>
