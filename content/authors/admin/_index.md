@@ -120,12 +120,11 @@ margin-bottom:6px;
 <div class="about-hero">
   <h2>Welcome!</h2>
   <p>
-I work at the intersection of political economy and political methodology. My research examines how automation and artificial intelligence reshape work, representation, and democratic politics, while developing computational and survey-based tools to study politics in the age of AI.  </p>
-
+I work at the intersection of political economy and political methodology. My research examines how automation and artificial intelligence reshape work, representation, and democratic politics. I also develop computational and survey-based tools to study politics in the age of AI.
   <div class="about-chips">
     <span class="about-chip">🤖 Automation & AI</span>
     <span class="about-chip">🗳️ Populism & Political Behavior</span>
-    <span class="about-chip">📊 Text-as-Data (NLP & LLMs)</span>
+    <span class="about-chip">📊 Text-as-Data & LLMs</span>
   </div>
 </div>
 
