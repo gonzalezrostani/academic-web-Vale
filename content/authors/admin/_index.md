@@ -154,7 +154,7 @@ I am a member of the <i>APSA Task Force on AI and Political Science</i>, where I
 
 <div class="about-section">
 <strong>Teaching, mentoring & public engagement.</strong>
-I care deeply about teaching and about building inclusive pathways into research. At USC, my teaching interests include text-as-data, data analysis, and international political economy, and I enjoy helping students connect substantive questions about trade, labor, democracy, and technological change with the development of new methodological and measurement tools. I am affiliated with the 
+I care deeply about teaching and about building inclusive pathways into research. At USC, I teach courses on text-as-data, data analysis, and international political economy. I enjoy helping students connect substantive questions about trade, labor, democracy, and technological change with new methodological and measurement tools. I am affiliated with the 
 <a href="https://mpeprogram.com/" target="_blank" rel="noopener">Mobilization & Political Economy NSF-REU program</a>, 
 where I mentor students from underrepresented backgrounds as they prepare for graduate study and research careers. I also care about making social science accessible beyond the university. I co-direct 
 <a href="https://www.razonesypersonas.com/" target="_blank" rel="noopener"><i>Razones y Personas</i></a>, 
