@@ -214,6 +214,18 @@ subtitle = ""
         </tr>
       </thead>
    <tbody>
+         <tr>
+  <td>September 2026</td>
+  <td><span class="event-type type-panel">Conference</span></td>
+  <td>Paper accepted to be presented at APSA <a href="https://gonzalez-rostani.com/img/Papers/Agnolin_GonzalezRostani.pdf">When Technology Manages: Workers Demands and Union Responses to AI and Emerging Digital Tools</a></td>
+  <td>APSA, Boston</td>
+</tr>
+     <tr>
+  <td>July 2026</td>
+  <td><span class="event-type type-panel">Conference</span></td>
+  <td>Paper accepted to be presented at PolMeth, panel on Video as Data <a href="https://gonzalez-rostani.com/img/Papers/YouTube.pdf">Who Influences Whom? Measuring the Interplay of Mainstream and Outsider Parties in Social Media Campaigns</a></td>
+  <td>PolMeth-MSU</td>
+</tr>
      <tr>
   <td>June 2026</td>
   <td><span class="event-type type-workshop">Workshop</span></td>
