@@ -229,12 +229,27 @@ subtitle = ""
      <tr>
   <td>June 2026</td>
   <td><span class="event-type type-workshop">Workshop</span></td>
+  <td>Invited, upcoming: Bocconi University, <i>AI and Society</i></td>
+  <td>Milan</td>
+</tr>
+     <tr>
+  <td>June 2026</td>
+  <td><span class="event-type type-workshop">Workshop</span></td>
   <td>
     Invited participant at the <a href="https://www.schmidtsciences.org/ai-at-work/" target="_blank">Schmidt Sciences AI at Work Convening</a>, where I will workshop <i>Collective Bargaining, Worker Voice and Adjustment in the Age of AI</i> <span class="scheduled-tag">(upcoming)</span>
   </td>
   <td>Scottsdale, AZ</td>
 </tr>
-
+<tr>
+  <td>May 2026</td>
+  <td><span class="event-type type-workshop">Workshop</span></td>
+  <td> Invited upcoming: 
+    <a href="https://ischool.utoronto.ca/event/2nd-colloquium-on-applications-of-ai/" target="_blank">
+      University of Toronto, <i>Applications of AI</i>
+    </a> with Jae Yeon Kim and Charles Crabtree
+  </td>
+  <td>Toronto/hybrid</td>
+</tr>  
 <tr>
   <td>April 2026</td>
   <td><span class="event-type type-award">Grant</span></td>
@@ -259,16 +274,7 @@ subtitle = ""
   </td>
   <td>New Haven</td>
 </tr>     
-<tr>
-  <td>April 2026</td>
-  <td><span class="event-type type-workshop">Workshop</span></td>
-  <td> Invited upcoming: 
-    <a href="https://ischool.utoronto.ca/event/2nd-colloquium-on-applications-of-ai/" target="_blank">
-      University of Toronto, <i>Applications of AI</i>
-    </a> with Jae Yeon Kim and Charles Crabtree
-  </td>
-  <td>Toronto/hybrid</td>
-</tr>  
+
 <tr>
   <td>April 2026</td>
   <td><span class="event-type type-publication">New Working Paper</span></td>
@@ -304,12 +310,7 @@ subtitle = ""
   <td>Invited, upcoming: University of Zurich, <i>A New Politics of Artificial Intelligence?</i></td>
   <td>Zurich</td>
 </tr>
-<tr>
-  <td>March 2026</td>
-  <td><span class="event-type type-workshop">Workshop</span></td>
-  <td>Invited, upcoming: Bocconi University, <i>AI and Society</i></td>
-  <td>Milan</td>
-</tr>
+
 <tr>
   <td>March 2026</td>
   <td><span class="event-type type-workshop">Workshop</span></td>
