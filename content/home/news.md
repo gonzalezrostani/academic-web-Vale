@@ -214,14 +214,7 @@ subtitle = ""
         </tr>
       </thead>
    <tbody>
-<tr>
-  <td>May 2026</td>
-  <td><span class="event-type type-publication">Book Chapter</span></td>
-  <td>New open-access book chapter is now available as part of the APSA Presidential Task Force on AI and Political Science volume: <a href="https://apsanet.org/wp-content/uploads/2026/05/Lee-TF-APSA-AI-Report-2026-Tucker-Persily.pdf">AI’s Economy and Its Political and Institutional Consequences</a> w/ Carles Boix, Michael Becher, and Daniel Stegmueller</td>
-  <td>APSA</td>
-</tr>
-
-         <tr>
+        <tr>
   <td>September 2026</td>
   <td><span class="event-type type-panel">Conference</span></td>
   <td>Paper accepted to be presented at APSA <a href="https://gonzalez-rostani.com/img/Papers/Agnolin_GonzalezRostani.pdf">When Technology Manages: Workers Demands and Union Responses to AI and Emerging Digital Tools</a></td>
