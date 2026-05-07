@@ -214,6 +214,12 @@ subtitle = ""
         </tr>
       </thead>
    <tbody>
+     <tr>
+  <td>May 2026</td>
+  <td><span class="event-type type-publication">Book Chapter</span></td>
+  <td>New open-access book chapter is now available as part of the APSA Presidential Task Force on AI and Political Science volume: <a href="https://apsanet.org/wp-content/uploads/2026/05/Lee-TF-APSA-AI-Report-2026-Tucker-Persily.pdf">AI’s Economy and Its Political and Institutional Consequences</a> w/ Carles Boix, Michael Becher, and Daniel Stegmueller</td>
+  <td>APSA</td>
+</tr>
         <tr>
   <td>September 2026</td>
   <td><span class="event-type type-panel">Conference</span></td>
