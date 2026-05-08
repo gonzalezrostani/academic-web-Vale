@@ -44,6 +44,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/gonzalezrostani
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/valentina-gonz%C3%A1lez-rostani-35510371/
 - icon: github
   icon_pack: fab
   link: https://github.com/gonzalezrostani
