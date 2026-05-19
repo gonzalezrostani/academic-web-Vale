@@ -214,6 +214,12 @@ subtitle = ""
         </tr>
       </thead>
    <tbody>
+   <tr>
+  <td>May 2026</td>
+  <td><span class="event-type type-publication">New Working Paper</span></td>
+  <td>New working paper is now available: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6761358">When Technology Manages: Workers, Unions, and Collective Bargaining in the Age of AI</a> w/ Paolo Agnolin</td>
+  <td>SSRN</td>
+</tr>  
      <tr>
   <td>May 2026</td>
   <td><span class="event-type type-publication">Book Chapter</span></td>
