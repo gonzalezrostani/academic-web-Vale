@@ -148,7 +148,7 @@ I work at the intersection of political economy and political methodology. My re
 </div>
 
 <div class="about-section">
-  My work has been published or is forthcoming in journals including the <i>Journal of Politics</i>, <i>Ecological Economics</i>, <i>Political Science Research and Methods</i>, and <i>Legislative Studies Quarterly</i>. My dissertation received the <a href="https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-25/#dissertation" target="_blank" rel="noopener"><i>Mancur Olson Best Dissertation Award in Political Economy (2026)</i></a>, and my research has been supported by organization such as Schmidt Sciences, the Mobilization &amp; Political Economy NSF-REU program, and the APSA Political Economy Section. I am a member of the <i>APSA Task Force on AI and Political Science</i> (2025-2026), where I serve on the committee on economic inequality and the labor force.  
+  My work has been published or is forthcoming in journals including the <i>Journal of Politics</i>, <i>Ecological Economics</i>, <i>Political Science Research and Methods</i>, and <i>Legislative Studies Quarterly</i>. My dissertation received the <a href="https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-25/#dissertation" target="_blank" rel="noopener"><i>Mancur Olson Best Dissertation Award in Political Economy (2026)</i></a>, and my research has been supported by organization such as Schmidt Sciences, the NSF-REU program, and the APSA Political Economy Section. I am a member of the <i>APSA Task Force on AI and Political Science</i> (2025-2026), where I serve on the committee on economic inequality and the labor force.  
 </div>
 
 <div class="about-section">
