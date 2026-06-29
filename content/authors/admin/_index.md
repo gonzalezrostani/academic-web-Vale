@@ -136,39 +136,31 @@ I work at the intersection of political economy and political methodology. My re
 </div>
 
 <div class="about-section">
-<strong>Position.</strong>
-I am an Assistant Professor in the Department of Political Science and International Relations at the 
-<a href="https://dornsife.usc.edu/poir/" target="_blank" rel="noopener">University of Southern California</a>. 
-Before joining USC, I was a Postdoctoral Research Associate at 
-<a href="https://politics.princeton.edu/" target="_blank" rel="noopener">Princeton University</a>.
+  I am an Assistant Professor in the Department of Political Science and International Relations at the
+  <a href="https://dornsife.usc.edu/poir/" target="_blank" rel="noopener">University of Southern California</a>.
+  Before joining USC, I was a Postdoctoral Research Associate at
+  <a href="https://politics.princeton.edu/" target="_blank" rel="noopener">Princeton University</a>.
+  As a political scientist, my research sits at the intersection of international political economy, political behavior, and technological change. I study how globalization, migration, automation, and AI reshape labor markets, political conflict, democratic institutions, inequality, and labor politics across advanced economies and the Global South.
 </div>
 
 <div class="about-section">
-<strong>Research.</strong>
-My work has two closely connected strands. One examines how globalization and technological change jointly reshape labor markets, political conflict, and democratic institutions. I study how trade, global production, migration, automation, and AI interact to influence political attitudes, populism, inequality, and labor politics across advanced economies and the Global South. The other develops research methods for studying politics in the AI era, including scalable text-as-data pipelines, sentence-level measures of populist narratives, tools for detecting AI-assisted survey responses, and work on agentic AI as support for measurement, research design, and validation.
-
+  Methodologically, I combine quantitative and computational social science with close attention to measurement and research design. My work develops scalable text-as-data pipelines, sentence-level measures of populist narratives, tools for detecting AI-assisted survey responses, and research on how agentic AI can support measurement, validation, and empirical social science more broadly.
 </div>
 
 <div class="about-section">
-<strong>Publications & service.</strong> My work has been published or is forthcoming in journals including the <i>Journal of Politics</i>, <i>Ecological Economics</i>, <i>Political Science Research and Methods</i>, and 
-<i>Legislative Studies Quarterly</i>. 
-I am a member of the <i>APSA Task Force on AI and Political Science</i>, where I serve on the committee on economic inequality and the labor force.
+  My work has been published or is forthcoming in journals including the <i>Journal of Politics</i>, <i>Ecological Economics</i>, <i>Political Science Research and Methods</i>, and <i>Legislative Studies Quarterly</i>. My dissertation received the <a href="https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-25/#dissertation" target="_blank" rel="noopener"><i>Mancur Olson Best Dissertation Award in Political Economy (2026)</i></a>, and my research has been supported by organization such as Schmidt Sciences, the Mobilization &amp; Political Economy NSF-REU program, and the APSA Political Economy Section. I am a member of the <i>APSA Task Force on AI and Political Science</i> (2025-2026), where I serve on the committee on economic inequality and the labor force.  
 </div>
 
 <div class="about-section">
-<strong>Teaching, mentoring & public engagement.</strong>
-I care deeply about teaching and about building inclusive pathways into research. At USC, I teach courses on text-as-data, data analysis, and international political economy. I enjoy helping students connect substantive questions about trade, labor, democracy, and technological change with new methodological and measurement tools. I am affiliated with the 
-<a href="https://mpeprogram.com/" target="_blank" rel="noopener">Mobilization & Political Economy NSF-REU program</a>, 
-where I mentor students from underrepresented backgrounds as they prepare for graduate study and research careers. I also care about making social science accessible beyond the university. I co-direct 
-<a href="https://www.razonesypersonas.com/" target="_blank" rel="noopener"><i>Razones y Personas</i></a>, 
-a long-running blog where social scientists publish public-facing work on politics and policy, with a particular focus on Latin America and Uruguay.
+  At USC, I teach courses on text-as-data, data analysis, and international political economy. I care deeply about teaching, mentorship, and building inclusive pathways into research, and I enjoy helping students connect substantive questions about trade, labor, democracy, and technological change with new methodological tools. I am affiliated with the <a href="https://mpeprogram.com/" target="_blank" rel="noopener">Mobilization &amp; Political Economy NSF-REU program</a>, where I mentor students from underrepresented backgrounds as they prepare for graduate study and research careers.
 </div>
 
+<div class="about-section">
+  I also care about making social science accessible beyond the university. I co-direct <a href="https://www.razonesypersonas.com/" target="_blank" rel="noopener"><i>Razones y Personas</i></a>, a long-running blog where social scientists publish public-facing work on politics and policy, with a particular focus on Latin America and Uruguay.
+</div>
 
 <div class="about-section">
-<strong>Background.</strong>
-Before moving to the United States, I worked in Uruguayan politics as a grassroots organizer and advised a member of Congress. 
-Earlier, I worked at KPMG—an experience that broadened my perspective on industry and continues to complement my academic work.
+  Before moving to the United States, I worked in Uruguayan politics as a grassroots organizer and advised a member of Congress. Earlier, I worked at KPMG, an experience that broadened my perspective on industry and continues to inform my academic work.
 </div>
 
 <div class="about-section">
