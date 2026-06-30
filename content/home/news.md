@@ -220,7 +220,12 @@ subtitle = ""
   <td>Received the <a href="https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-25/" target="_blank">Mancur Olson Best Dissertation Award in Political Economy</a> from APSA for the dissertation <i>Political-Economic Polarization</i>.</td>
   <td>APSA</td>
 </tr>
-
+<tr>
+  <td>June 2026</td>
+  <td><span class="event-type type-publication">Publication</span></td>
+  <td><a href="https://gonzalez-rostani.com/img/Papers/MPE2.pdf" target="_blank">Creating Pathways to Graduate Success: Reducing Barriers for Underrepresented Minority Students in the Social Sciences</a> (with Tania Ramírez, Chie Togami, Mariely López-Santana, Fernando Tormos-Aponte, and Mayra Vélez) <span class="scheduled-tag">(Conditionally Accepted)</span></td>
+  <td>Forthcoming</td>
+</tr>
 <tr>
   <td>June 2026</td>
   <td><span class="event-type type-workshop">Workshop</span></td>
