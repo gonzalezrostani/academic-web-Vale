@@ -223,10 +223,10 @@ subtitle = ""
 <tr>
   <td>June 2026</td>
   <td><span class="event-type type-publication">Publication</span></td>
-  <td><a href="https://gonzalez-rostani.com/img/Papers/MPE2.pdf" target="_blank">Creating Pathways to Graduate Success: Reducing Barriers for Underrepresented Minority Students in the Social Sciences</a> (with Tania Ramírez, Chie Togami, Mariely López-Santana, Fernando Tormos-Aponte, and Mayra Vélez) <span class="scheduled-tag">(Conditionally Accepted)</span></td>
+  <td><a href="https://gonzalez-rostani.com/img/Papers/MPE2.pdf" target="_blank">Creating Pathways to Graduate Success: Reducing Barriers for Underrepresented Minority Students in the Social Sciences</a> (with Tania Ramírez, Chie Togami, Mariely López-Santana, Fernando Tormos-Aponte, and Mayra Vélez) - <i>Teaching Sociology</i> <span class="scheduled-tag">(Conditionally Accepted)</span></td>
   <td>Forthcoming</td>
 </tr>
-<tr>
+     <tr>
   <td>June 2026</td>
   <td><span class="event-type type-workshop">Workshop</span></td>
   <td>Presented new work on collective bargaining and AI at Bocconi University's <a href="https://www.unibocconi.it/en/events/ai-and-society-conference-0" target="_blank"><i>AI and Society</i> workshop</a>.</td>
