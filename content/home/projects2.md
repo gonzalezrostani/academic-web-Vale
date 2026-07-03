@@ -85,7 +85,11 @@ details p{margin:0;color:#374151;line-height:1.6}
 
 <hr class="hr"/>
 
-<h2 class="section-title">Publications</h2>
+<h2 class="section-title">Selected Publications</h2>
+
+<p class="section-note">
+  See my <a href="https://gonzalez-rostani.com/img/Papers/CV_GonzalezRostani.pdf" target="_blank" rel="noopener">CV</a> for a full list of publications and current projects.
+</p>
 
 <div class="grid" id="papers">
 
