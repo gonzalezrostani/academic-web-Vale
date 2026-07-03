@@ -361,7 +361,7 @@ details p{margin:0;color:#374151;line-height:1.6}
 <details><summary>Abstract</summary><p>Electoral campaigns are high-frequency environments in which parties receive rapid feedback and face immediate incentives to adjust both what they say and how they say it. Yet most research on party competition relies on low-frequency texts, such as manifestos, or on election-to-election change, obscuring strategic adaptation within campaigns. We address this gap by analyzing more than 8,000 YouTube transcripts produced by political parties in Spain and the United Kingdom during the year before elections between 2015 and 2024. Using embeddings, BERT-based measures, dictionaries, and large language models, we develop a general framework for studying campaign communication with social media data. We show that parties adapt ideological positioning as elections approach, shift issue emphasis, and respond selectively to rivals, especially on particular issues and within ideological families, rather than converging uniformly. More broadly, the approach captures movement not only in topics, but also in positions, framing, and rhetorical style.</p>
 <div class="tags"><span class="tag">Campaigns</span><span class="tag">YouTube</span><span class="tag">VAR</span><span class="tag">Text-as-Data</span></div>
 </details>
-<details><summary><a href="https://gonzalez-rostani.com/img/Papers/YouTube.pdf">Manuscript</a></summary><p> </p></details>
+<details><summary><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7050058">Manuscript</a></summary><p> </p></details>
 </div>
 <span class="badge working">Working</span>
 </div>
