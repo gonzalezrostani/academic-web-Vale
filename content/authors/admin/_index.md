@@ -140,7 +140,7 @@ I work at the intersection of political economy and political methodology. My re
   <a href="https://dornsife.usc.edu/poir/" target="_blank" rel="noopener">University of Southern California</a>.
   Before joining USC, I was a Postdoctoral Research Associate at
   <a href="https://politics.princeton.edu/" target="_blank" rel="noopener">Princeton University</a>.
-  As a political scientist, my research sits at the intersection of international political economy, political behavior, and technological change. I study how globalization, migration, automation, and AI reshape labor markets, political conflict, democratic institutions, inequality, and labor politics across advanced economies and the Global South.
+  My research sits at the intersection of political economy and political methodology. I study how globalization, automation, and AI reshape labor markets, political conflict, democratic institutions, inequality, and labor politics across advanced economies and the Global South.
 </div>
 
 <div class="about-section">
