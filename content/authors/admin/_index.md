@@ -151,7 +151,7 @@ My research sits at the intersection of political economy and political methodol
 
 
 <div class="about-section">
-  At USC, I teach courses on text-as-data, data analysis, and international political economy. I care deeply about teaching, mentorship, and building inclusive pathways into research, and I enjoy helping students connect substantive questions about trade, labor, democracy, and technological change with new methodological tools. I am affiliated with the <a href="https://mpeprogram.com/" target="_blank" rel="noopener">Mobilization &amp; Political Economy NSF-REU program</a>, where I mentor students from underrepresented backgrounds as they prepare for graduate study and research careers.
+At USC, I teach courses on text-as-data, data analysis, and international political economy, and I serve as the faculty representative for methods on the PhD Steering Committee. I care deeply about teaching, mentorship, and building inclusive pathways into research. I especially enjoy helping students connect substantive questions about trade, labor, democracy, and technological change with new methodological tools. I am also affiliated with the <a href="https://mpeprogram.com/" target="_blank" rel="noopener">Mobilization & Political Economy NSF-REU program</a>, where I mentor students from underrepresented backgrounds as they prepare for graduate study and research careers.
 </div>
 
 <div class="about-section">
