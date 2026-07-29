@@ -138,9 +138,7 @@ I work at the intersection of political economy and political methodology. My re
 <div class="about-section">
   I am an Assistant Professor in the Department of Political Science and International Relations at the
   <a href="https://dornsife.usc.edu/poir/" target="_blank" rel="noopener">University of Southern California</a>.
-  Before joining USC, I was a Postdoctoral Research Associate at
-  <a href="https://politics.princeton.edu/" target="_blank" rel="noopener">Princeton University</a>.
-  My research sits at the intersection of political economy and political methodology. I study how globalization, automation, and AI reshape labor markets, political conflict, democratic institutions, inequality, and labor politics across advanced economies and the Global South.
+My research sits at the intersection of political economy and political methodology. I study how globalization, automation, and AI reshape labor markets, political conflict, democratic institutions, inequality, and labor politics across advanced economies and the Global South.
 </div>
 
 <div class="about-section">
@@ -148,7 +146,7 @@ I work at the intersection of political economy and political methodology. My re
 </div>
 
 <div class="about-section">
-  My work has been published or is forthcoming in journals including the <i>Journal of Politics</i>, <i>Ecological Economics</i>, <i>Political Science Research and Methods</i>, and <i>Legislative Studies Quarterly</i>. My scholarship has been recognized with prestigious awards in political science, including the <a href="https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-25/#dissertation" target="_blank" rel="noopener"><i>Mancur Olson Best Dissertation Award in Political Economy</i></a> (2026). My research has been supported by sources including Schmidt Sciences AI at work, the NSF REU program, and the APSA Political Economy Section, the Bobst Center for Peace and Justice at Princeton University, among others. I am a member of the <a href="https://apsanet.org/wp-content/uploads/2026/05/Lee-TF-APSA-AI-Report-2026-Tucker-Persily.pdf" target="_blank" rel="noopener"><i>APSA Task Force on AI and Political Science</i></a> (2025-2026), where I serve on the committee on economic inequality and the labor force.  
+  My work has been published or is forthcoming in journals including the <i>Journal of Politics</i>, <i>Ecological Economics</i>, <i>Political Science Research and Methods</i>, and <i>Legislative Studies Quarterly</i>. My scholarship has been recognized with prestigious awards in political science, including the <a href="https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-25/#dissertation" target="_blank" rel="noopener"><i>Mancur Olson Best Dissertation Award in Political Economy</i></a> (2026). My research has received support from Schmidt Sciences’ AI at Work initiative, the APSA Political Economy Section’s Rosenbluth Junior Scholar Award, and Princeton University’s Bobst Center for Peace and Justice, among others. I am a member of the <a href="https://apsanet.org/wp-content/uploads/2026/05/Lee-TF-APSA-AI-Report-2026-Tucker-Persily.pdf" target="_blank" rel="noopener"><i>APSA Task Force on AI and Political Science</i></a> (2025-2026), where I serve on the committee on economic inequality and the labor force.  
 </div>
 
 
@@ -161,7 +159,7 @@ I work at the intersection of political economy and political methodology. My re
 </div>
 
 <div class="about-section">
-  Before moving to the United States, I worked in Uruguayan politics as a grassroots organizer and advised a member of Congress. Earlier, I worked at KPMG, an experience that broadened my perspective on industry and continues to inform my academic work.
+Before joining USC, I was a Postdoctoral Research Associate at <a href="https://politics.princeton.edu/" target="_blank" rel="noopener">Princeton University</a>. Prior to moving to the United States, I worked in Uruguayan politics as a grassroots organizer and advisor to a member of Congress. Earlier in my career, I worked at KPMG, where I gained an industry perspective that continues to inform my academic research.
 </div>
 
 <div class="about-section">
