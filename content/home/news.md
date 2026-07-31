@@ -215,6 +215,12 @@ subtitle = ""
       </thead>
    <tbody>
      <tr>
+  <td>August 2026</td>
+  <td><span class="event-type type-award">Award</span></td>
+  <td>Selected to join the inaugural <a href="https://openai.com/index/economic-research-exchange/" target="_blank">OpenAI Economic Research Exchange</a> with a project on collective bargaining, business AI use, and worker adjustment.</td>
+  <td>OpenAI</td>
+</tr>
+     <tr>
   <td>July 2026</td>
   <td><span class="event-type type-award">Award</span></td>
   <td>Received the <a href="https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-25/" target="_blank">Mancur Olson Best Dissertation Award in Political Economy</a> from APSA for the dissertation <i>Political-Economic Polarization</i>.</td>
