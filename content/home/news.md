@@ -217,7 +217,7 @@ subtitle = ""
      <tr>
   <td>August 2026</td>
   <td><span class="event-type type-award">Award</span></td>
-  <td>Selected to join the inaugural <a href="https://openai.com/index/economic-research-exchange/" target="_blank">OpenAI Economic Research Exchange</a> with a project on collective bargaining, business AI use, and worker adjustment.</td>
+  <td>Selected to join the inaugural <a href="https://openai.com/index/economic-research-exchange/" target="_blank">OpenAI Economic Research Exchange</a> with a project on collective bargaining, business AI use, and worker adjustment ($115,000).</td>
   <td>OpenAI</td>
 </tr>
      <tr>
