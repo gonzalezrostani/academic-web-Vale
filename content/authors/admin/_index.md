@@ -170,7 +170,7 @@ user_groups:
   <h2>Welcome!</h2>
 
   <p>
-    I am an Assistant Professor in the Department of Political Science and International Relations at the
+    I am Assistant Professor in the Department of Political Science and International Relations at the
     <a href="https://dornsife.usc.edu/poir/" target="_blank" rel="noopener">University of Southern California</a>
     and a Fellow of OpenAI’s
     <a href="https://openai.com/economic-research-exchange/" target="_blank" rel="noopener"><i>Economic Research Exchange</i></a>
