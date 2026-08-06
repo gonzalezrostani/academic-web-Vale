@@ -64,73 +64,123 @@ user_groups:
 - Visitors
 ---
 
+
 <style>
-/* ABOUT HERO (matches Research/Teaching style) */
-.about-hero{
-margin:8px 0 22px;
-padding:22px 22px 20px;
-background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);
-border-radius:18px;
-color:#fff;
-}
-.about-hero h2{
-margin:0 0 8px;
-font-weight:900;
-font-size:1.6em;
-line-height:1.25;
-}
-.about-hero p{
-margin:0;
-opacity:.95;
-line-height:1.6;
-font-size:1.05em;
-max-width:900px;
+/* ABOUT HERO — matches Research/Teaching style */
+.about-hero {
+  margin: 8px 0 22px;
+  padding: 22px 22px 20px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 18px;
+  color: #ffffff;
 }
 
-/* chips */
-.about-chips{
-display:flex;
-gap:10px;
-flex-wrap:wrap;
-margin-top:14px;
-}
-.about-chip{
-padding:6px 12px;
-border-radius:999px;
-background:rgba(255,255,255,.15);
-border:1px solid rgba(255,255,255,.35);
-font-weight:800;
-font-size:.85em;
+.about-hero h2 {
+  margin: 0 0 8px;
+  color: #ffffff;
+  font-size: 1.6em;
+  font-weight: 900;
+  line-height: 1.25;
 }
 
-  .about-subtitle{
-margin:8px 0 18px;
-color:#6b7280;
-font-size:1.05em;
-font-weight:500;
+.about-hero p {
+  max-width: 900px;
+  margin: 0;
+  color: rgba(255, 255, 255, 0.95);
+  font-size: 1.05em;
+  line-height: 1.6;
 }
 
-/* section rhythm */
-.about-section{
-margin-top:18px;
+/* Links inside the hero */
+.about-hero a,
+.about-hero a:visited {
+  color: #ffffff !important;
+  font-weight: 700;
+  text-decoration: underline;
+  text-decoration-color: rgba(255, 255, 255, 0.55);
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 3px;
+  transition: color 0.2s ease, text-decoration-color 0.2s ease;
 }
-.about-section strong{
-display:block;
-margin-bottom:6px;
+
+.about-hero a:hover,
+.about-hero a:focus-visible {
+  color: #fef3c7 !important;
+  text-decoration-color: #fef3c7;
+}
+
+/* Research chips */
+.about-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 14px;
+}
+
+.about-chip {
+  padding: 6px 12px;
+  color: #ffffff;
+  background: rgba(255, 255, 255, 0.15);
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  border-radius: 999px;
+  font-size: 0.85em;
+  font-weight: 800;
+}
+
+/* Subtitle below the hero */
+.about-subtitle {
+  margin: 8px 0 18px;
+  color: #6b7280;
+  font-size: 1.05em;
+  font-weight: 500;
+}
+
+/* Spacing between sections */
+.about-section {
+  margin-top: 18px;
+}
+
+.about-section strong {
+  display: block;
+  margin-bottom: 6px;
+}
+
+/* Mobile adjustments */
+@media (max-width: 600px) {
+  .about-hero {
+    padding: 18px;
+    border-radius: 14px;
+  }
+
+  .about-hero h2 {
+    font-size: 1.4em;
+  }
+
+  .about-hero p {
+    font-size: 1em;
+  }
+
+  .about-chip {
+    font-size: 0.8em;
+  }
 }
 </style>
 
 <div class="about-hero">
   <h2>Welcome!</h2>
+
   <p>
-I am an Assistant Professor in the Department of Political Science and International Relations at the
-<a href="https://dornsife.usc.edu/poir/" target="_blank" rel="noopener">University of Southern California</a>
-and a Fellow of OpenAI’s
-<a href="https://openai.com/economic-research-exchange/" target="_blank" rel="noopener"><i>Economic Research Exchange</i></a>
-(2026–2027). My research sits at the intersection of political economy and political methodology. I examine how globalization, automation, and AI reshape work, inequality, collective action, political representation, and democratic politics across advanced economies and the Global South. I also develop computational and survey-based methods for studying politics in the age of AI.  <div class="about-chips">
-    <span class="about-chip">🤖 Automation & AI</span>
-    <span class="about-chip">🗳️ Populism & Political Behavior</span>
-    <span class="about-chip">📊 Text-as-Data & LLMs</span>
+    I am an Assistant Professor in the Department of Political Science and International Relations at the
+    <a href="https://dornsife.usc.edu/poir/" target="_blank" rel="noopener">University of Southern California</a>
+    and a Fellow of OpenAI’s
+    <a href="https://openai.com/economic-research-exchange/" target="_blank" rel="noopener"><i>Economic Research Exchange</i></a>
+    (2026–2027). My research sits at the intersection of political economy and political methodology. I examine how globalization, automation, and AI reshape work, inequality, collective action, political representation, and democratic politics across advanced economies and the Global South. I also develop computational and survey-based methods for studying politics in the age of AI.
+  </p>
+
+  <div class="about-chips">
+    <span class="about-chip">🤖 Automation &amp; AI</span>
+    <span class="about-chip">🗳️ Populism &amp; Political Behavior</span>
+    <span class="about-chip">📊 Text-as-Data &amp; LLMs</span>
   </div>
 </div>
 
