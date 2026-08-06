@@ -194,9 +194,6 @@ user_groups:
   (2025–2026), contributing to its committee on economic inequality and the labor force. I study these questions using a range of data and methods, including a cross-national archive of more than 80,000 collective bargaining agreements, measures of business AI use and occupational exposure, and original surveys of workers and managers. Related work investigates how globalization, automation, and labor-market change affect unions, political representation, populism, inequality, and democratic conflict across Europe, North America, and Latin America.
 </div>
 
-<div class="about-section">
-  My research examines how technological and economic change reshapes work and politics. A central focus is how businesses adopt AI, how unions and collective bargaining govern its use, and whether worker voice and protections keep pace with technological change.I study these questions using a range of data and methods, including a cross-national archive of more than 80,000 collective bargaining agreements, measures of business AI use and occupational exposure, and original surveys of workers and managers. Related work investigates how globalization, automation, and labor-market change affect unions, political representation, populism, inequality, and democratic conflict across Europe, North America, and Latin America.
-</div>
 
 
 
