@@ -123,7 +123,7 @@ margin-bottom:6px;
 <div class="about-hero">
   <h2>Welcome!</h2>
   <p>
-I work at the intersection of political economy and political methodology. My research examines how automation and artificial intelligence reshape work, representation, and democratic politics. I also develop computational and survey-based tools to study politics in the age of AI.
+I work at the intersection of political economy and political methodology, studying how automation and artificial intelligence reshape work, representation, and democratic politics. I also develop computational and survey-based methods for studying politics in the age of AI.
   <div class="about-chips">
     <span class="about-chip">🤖 Automation & AI</span>
     <span class="about-chip">🗳️ Populism & Political Behavior</span>
@@ -137,29 +137,50 @@ I work at the intersection of political economy and political methodology. My re
 
 <div class="about-section">
   I am an Assistant Professor in the Department of Political Science and International Relations at the
-  <a href="https://dornsife.usc.edu/poir/" target="_blank" rel="noopener">University of Southern California</a>.
-My research sits at the intersection of political economy and political methodology. I study how globalization, automation, and AI reshape labor markets, political conflict, democratic institutions, inequality, and labor politics across advanced economies and the Global South.
+  <a href="https://dornsife.usc.edu/poir/" target="_blank" rel="noopener">University of Southern California</a>
+  and an inaugural Fellow of OpenAI’s
+  <a href="https://openai.com/economic-research-exchange/" target="_blank" rel="noopener"><i>Economic Research Exchange</i></a>
+  (2026–2027). I study the political economy of technological change: how globalization, automation, and AI reshape work, inequality, collective action, and democratic politics across advanced economies and the Global South.
 </div>
 
 <div class="about-section">
-  Methodologically, I combine quantitative and computational social science with close attention to measurement and research design. My work develops scalable text-as-data pipelines, sentence-level measures of populist narratives, tools for detecting AI-assisted survey responses, and research on how agentic AI can support measurement, validation, and empirical social science more broadly.
-</div>
-
-<div class="about-section">
-My work has been published or is forthcoming in leading journals, including the <i>Journal of Politics</i>, <i>Ecological Economics</i>, <i>Political Science Research and Methods</i>, and <i>Legislative Studies Quarterly</i>. My scholarship has received several honors, including the <a href="https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-25/#dissertation" target="_blank" rel="noopener"><i>Mancur Olson Best Dissertation Award in Political Economy</i></a> (2026). My research has been supported by Schmidt Sciences’ AI at Work initiative, OpenAI, the APSA Political Economy Section’s Rosenbluth Junior Scholar Award, and Princeton University’s Bobst Center for Peace and Justice, among others. I served on the <a href="https://apsanet.org/wp-content/uploads/2026/05/Lee-TF-APSA-AI-Report-2026-Tucker-Persily.pdf" target="_blank" rel="noopener"><i>APSA Task Force on AI and Political Science</i></a> (2025–2026), contributing to its committee on economic inequality and the labor force. I am also a member of the inaugural cohort of OpenAI’s <a href="https://openai.com/index/economic-research-exchange/" target="_blank" rel="noopener"><i>Economic Research Exchange</i></a> (2026).
+  My research examines how technological and economic change reshapes work and politics. A central focus is how businesses adopt AI, how unions and collective bargaining govern its use, and whether worker voice and protections keep pace with technological change.I study these questions using a range of data and methods, including a cross-national archive of more than 80,000 collective bargaining agreements, measures of business AI use and occupational exposure, and original surveys of workers and managers. Related work investigates how globalization, automation, and labor-market change affect unions, political representation, populism, inequality, and democratic conflict across Europe, North America, and Latin America.
 </div>
 
 
+
 <div class="about-section">
-At USC, I teach courses on text-as-data, data analysis, and international political economy, and I serve as the faculty representative for methods on the PhD Steering Committee. I care deeply about teaching, mentorship, and building inclusive pathways into research. I especially enjoy helping students connect substantive questions about trade, labor, democracy, and technological change with new methodological tools. I am also affiliated with the <a href="https://mpeprogram.com/" target="_blank" rel="noopener">Mobilization & Political Economy NSF-REU program</a>, where I mentor students from underrepresented backgrounds as they prepare for graduate study and research careers.
+  Methodologically, I combine causal inference, survey and conjoint experiments, computational text analysis, and LLM-assisted measurement. I build reproducible pipelines for analyzing large collections of unstructured text and develop validated measures that connect technological and institutional change with labor-market and political outcomes. My methodological contributions include sentence-level measures of political narratives, tools for detecting AI-assisted survey responses, and frameworks for using agentic AI to support transparent measurement and validation in empirical social science.
 </div>
 
 <div class="about-section">
-  I also care about making social science accessible beyond the university. I co-direct <a href="https://www.razonesypersonas.com/" target="_blank" rel="noopener"><i>Razones y Personas</i></a>, a long-running blog where social scientists publish public-facing work on politics and policy, with a particular focus on Latin America and Uruguay.
+My work has been published or is forthcoming in journals including the <i>Journal of Politics</i>, <i>Ecological Economics</i>, <i>Political Science Research and Methods</i>, and <i>Legislative Studies Quarterly</i>. My scholarship has received several honors, including the
+<a href="https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-25/#dissertation" target="_blank" rel="noopener"><i>Mancur Olson Best Dissertation Award in Political Economy</i></a>
+(2026). My research has received support from Schmidt Sciences’ AI at Work initiative, OpenAI’s Economic Research Exchange, the APSA Political Economy Section’s Rosenbluth Junior Scholar Award, and Princeton University’s Bobst Center for Peace and Justice, among others.
 </div>
 
 <div class="about-section">
-Before joining USC, I was a Postdoctoral Research Associate at <a href="https://politics.princeton.edu/" target="_blank" rel="noopener">Princeton University</a>. Prior to moving to the United States, I worked in Uruguayan politics as a grassroots organizer and advisor to a member of Congress. Earlier in my career, I worked at KPMG, where I gained an industry perspective that continues to inform my academic research.
+  I served on the
+  <a href="https://apsanet.org/wp-content/uploads/2026/05/Lee-TF-APSA-AI-Report-2026-Tucker-Persily.pdf" target="_blank" rel="noopener"><i>APSA Task Force on AI and Political Science</i></a>
+  (2025–2026), contributing to its committee on economic inequality and the labor force.
+</div>
+
+<div class="about-section">
+  At USC, I teach courses on text-as-data, data analysis, and international political economy, and I serve as the faculty representative for methods on the PhD Steering Committee. I care deeply about teaching, mentorship, and building inclusive pathways into research. I am also affiliated with the
+  <a href="https://mpeprogram.com/" target="_blank" rel="noopener">Mobilization &amp; Political Economy NSF-REU program</a>,
+  where I mentor students from underrepresented backgrounds as they prepare for graduate study and research careers.
+</div>
+
+<div class="about-section">
+  I co-direct
+  <a href="https://www.razonesypersonas.com/" target="_blank" rel="noopener"><i>Razones y Personas</i></a>,
+  a long-running platform where social scientists publish public-facing work on politics and policy, with a particular focus on Latin America and Uruguay.
+</div>
+
+<div class="about-section">
+  Before joining USC, I was a Postdoctoral Research Associate at
+  <a href="https://politics.princeton.edu/" target="_blank" rel="noopener">Princeton University</a>.
+  Prior to moving to the United States, I worked in Uruguayan politics as a grassroots organizer and advisor to a member of Congress. Earlier in my career, I worked at KPMG, where I gained an industry perspective that continues to inform my academic research.
 </div>
 
 <div class="about-section">
