@@ -123,8 +123,11 @@ margin-bottom:6px;
 <div class="about-hero">
   <h2>Welcome!</h2>
   <p>
-I work at the intersection of political economy and political methodology, studying how automation and artificial intelligence reshape work, representation, and democratic politics. I also develop computational and survey-based methods for studying politics in the age of AI.
-  <div class="about-chips">
+I am an Assistant Professor in the Department of Political Science and International Relations at the
+<a href="https://dornsife.usc.edu/poir/" target="_blank" rel="noopener">University of Southern California</a>
+and a Fellow of OpenAI’s
+<a href="https://openai.com/economic-research-exchange/" target="_blank" rel="noopener"><i>Economic Research Exchange</i></a>
+(2026–2027). My research sits at the intersection of political economy and political methodology. I examine how globalization, automation, and AI reshape work, inequality, collective action, political representation, and democratic politics across advanced economies and the Global South. I also develop computational and survey-based methods for studying politics in the age of AI.  <div class="about-chips">
     <span class="about-chip">🤖 Automation & AI</span>
     <span class="about-chip">🗳️ Populism & Political Behavior</span>
     <span class="about-chip">📊 Text-as-Data & LLMs</span>
@@ -135,13 +138,7 @@ I work at the intersection of political economy and political methodology, study
   Background, research interests, and public engagement.
 </div>
 
-<div class="about-section">
-  I am an Assistant Professor in the Department of Political Science and International Relations at the
-  <a href="https://dornsife.usc.edu/poir/" target="_blank" rel="noopener">University of Southern California</a>
-  and a Fellow of OpenAI’s
-  <a href="https://openai.com/economic-research-exchange/" target="_blank" rel="noopener"><i>Economic Research Exchange</i></a>
-  (2026–2027). I study the political economy of technological change: how globalization, automation, and AI reshape work, inequality, collective action, and democratic politics across advanced economies and the Global South.
-</div>
+
 
 <div class="about-section">
   My research examines how technological and economic change reshapes work and politics. A central focus is how businesses adopt AI, how unions and collective bargaining govern its use, and whether worker voice and protections keep pace with technological change.I study these questions using a range of data and methods, including a cross-national archive of more than 80,000 collective bargaining agreements, measures of business AI use and occupational exposure, and original surveys of workers and managers. Related work investigates how globalization, automation, and labor-market change affect unions, political representation, populism, inequality, and democratic conflict across Europe, North America, and Latin America.
