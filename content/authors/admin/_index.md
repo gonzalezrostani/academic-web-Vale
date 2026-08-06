@@ -188,7 +188,11 @@ user_groups:
   Background, research interests, and public engagement.
 </div>
 
-
+<div class="about-section">
+  My research examines how technological and economic change reshapes work and politics. A central focus is how businesses adopt AI, how unions and collective bargaining govern its use, and whether worker voice and protections keep pace with technological change. Reflecting this research agenda, I served on the
+  <a href="https://apsanet.org/wp-content/uploads/2026/05/Lee-TF-APSA-AI-Report-2026-Tucker-Persily.pdf" target="_blank" rel="noopener"><i>APSA Task Force on AI and Political Science</i></a>
+  (2025–2026), contributing to its committee on economic inequality and the labor force. I study these questions using a range of data and methods, including a cross-national archive of more than 80,000 collective bargaining agreements, measures of business AI use and occupational exposure, and original surveys of workers and managers. Related work investigates how globalization, automation, and labor-market change affect unions, political representation, populism, inequality, and democratic conflict across Europe, North America, and Latin America.
+</div>
 
 <div class="about-section">
   My research examines how technological and economic change reshapes work and politics. A central focus is how businesses adopt AI, how unions and collective bargaining govern its use, and whether worker voice and protections keep pace with technological change.I study these questions using a range of data and methods, including a cross-national archive of more than 80,000 collective bargaining agreements, measures of business AI use and occupational exposure, and original surveys of workers and managers. Related work investigates how globalization, automation, and labor-market change affect unions, political representation, populism, inequality, and democratic conflict across Europe, North America, and Latin America.
@@ -206,11 +210,7 @@ My work has been published or is forthcoming in journals including the <i>Journa
 (2026). My research has received support from Schmidt Sciences’ AI at Work initiative, OpenAI’s Economic Research Exchange, the APSA Political Economy Section’s Rosenbluth Junior Scholar Award, and Princeton University’s Bobst Center for Peace and Justice, among others.
 </div>
 
-<div class="about-section">
-  I served on the
-  <a href="https://apsanet.org/wp-content/uploads/2026/05/Lee-TF-APSA-AI-Report-2026-Tucker-Persily.pdf" target="_blank" rel="noopener"><i>APSA Task Force on AI and Political Science</i></a>
-  (2025–2026), contributing to its committee on economic inequality and the labor force.
-</div>
+
 
 <div class="about-section">
   At USC, I teach courses on text-as-data, data analysis, and international political economy, and I serve as the faculty representative for methods on the PhD Steering Committee. I care deeply about teaching, mentorship, and building inclusive pathways into research. I am also affiliated with the
