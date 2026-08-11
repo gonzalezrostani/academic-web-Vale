@@ -190,7 +190,7 @@ user_groups:
 
 <div class="about-section">
   My research examines how technological and economic change reshapes work and politics. A central focus is how businesses adopt AI, how unions and collective bargaining govern its use, and whether worker voice and protections keep pace with technological change. Reflecting this research agenda, I served on the
-  <a href="https://apsanet.org/wp-content/uploads/2026/05/Lee-TF-APSA-AI-Report-2026-Tucker-Persily.pdf" target="_blank" rel="noopener"><i>APSA Task Force on AI and Political Science</i></a>
+  <a href="https://www.cambridge.org/us/universitypress/subjects/politics-international-relations/comparative-politics/artificial-intelligence-politics-and-political-science?format=PB&isbn=9781047774727#description" target="_blank" rel="noopener"><i>APSA Task Force on AI and Political Science</i></a>
   (2025–2026), contributing to its committee on economic inequality and the labor force. I study these questions using a range of data and methods, including a cross-national archive of more than 80,000 collective bargaining agreements, measures of business AI use and occupational exposure, and original surveys of workers and managers. Related work investigates how globalization, automation, and labor-market change affect unions, political representation, populism, inequality, and democratic conflict across Europe, North America, and Latin America.
 </div>
 
