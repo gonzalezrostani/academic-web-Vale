@@ -204,29 +204,28 @@ devtools::install_github("judechays/STADL", dependencies = TRUE)</code></pre>
 </div>
 </article>
 
+
 <!-- Discussant Guide -->
 <article class="tool-card" data-topics="professionalization">
-  <div class="tool-box">
-    <h3 class="tool-title">💬 Discussant Guide</h3>
-    <div class="tool-meta">How to prepare constructive comments for conferences and workshops</div>
+<div class="tool-box">
+<h3 class="tool-title">💬 Discussant Guide</h3>
+<div class="tool-meta">How to prepare constructive comments for conferences and workshops</div>
 
-    <div class="tool-body">
-      <p>A guide for graduate students on evaluating research, selecting consequential comments, preparing discussant slides, offering practical suggestions, and encouraging a productive scholarly discussion.</p>
+<div class="tool-body">
+<p>A guide for graduate students on evaluating research, selecting consequential comments, preparing discussant slides, offering practical suggestions, and encouraging a productive scholarly discussion.</p>
 
-      <div class="tool-tags">
-        <span class="tool-tag">Conferences</span>
-        <span class="tool-tag">Professionalization</span>
-      </div>
-    </div>
+<div class="tool-tags">
+<span class="tool-tag">Conferences</span>
+<span class="tool-tag">Professionalization</span>
+</div>
+</div>
 
-    <div class="tool-actions">
-      <a class="action-btn"
-         href="https://gonzalez-rostani.com/img/papers/discussant.pdf"
-         target="_blank"
-         rel="noopener">📄 Download</a>
-    </div>
-  </div>
+<div class="tool-actions">
+<a class="action-btn" href="https://gonzalez-rostani.com/img/papers/discussant.pdf" target="_blank" rel="noopener">📄 Download</a>
+</div>
+</div>
 </article>
+
 
 
 <!-- Job Talk Tips -->
