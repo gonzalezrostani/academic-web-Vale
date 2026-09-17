@@ -162,6 +162,29 @@ devtools::install_github("judechays/STADL", dependencies = TRUE)</code></pre>
 </div>
 </article>
 
+<!-- AI as a Research Tool -->
+<article class="tool-card" data-topics="methods tools">
+<div class="tool-box">
+<h3 class="tool-title">🤖 AI as a Research Tool</h3>
+<div class="tool-meta">Failing faster, learning better in social science research</div>
+
+<div class="tool-body">
+<p>A slide handout covering six applications of AI: annotation and measurement, experiments, synthetic surveys, simulations, data collection, and AI auditing. Includes examples and best practices for testing ideas, detecting failures early, and validating results.</p>
+
+<div class="tool-tags">
+<span class="tool-tag">AI</span>
+<span class="tool-tag">Research Methods</span>
+<span class="tool-tag">Social Science</span>
+</div>
+</div>
+
+<div class="tool-actions">
+<a class="action-btn" href="https://gonzalez-rostani.com/img/papers/ai_social_science_research_en_v22_handout.pdf" target="_blank" rel="noopener" hreflang="en">📄 English (PDF)</a>
+<a class="action-btn" href="https://gonzalez-rostani.com/img/papers/ia_investigacion_ciencias_sociales_es_v21_handout.pdf" target="_blank" rel="noopener" hreflang="es" lang="es">📄 Español (PDF)</a>
+</div>
+</div>
+</article>
+
 <!-- Starting your PhD -->
 <article class="tool-card" data-topics="professionalization">
 <div class="tool-box">
