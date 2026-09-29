@@ -272,6 +272,27 @@ devtools::install_github("judechays/STADL", dependencies = TRUE)</code></pre>
 </div>
 </article>
 
+<!-- Conversation with Visiting Scholars -->
+<article class="tool-card" data-topics="professionalization">
+  <div class="tool-box">
+    <h3 class="tool-title">☕ Visiting Scholar Meetings</h3>
+    <div class="tool-meta">Preparing for one-on-one meetings and breakfasts</div>
+
+    <div class="tool-body">
+      <p>A guide for graduate students on what to expect from meetings with visiting scholars, preparing a concise elevator pitch, discussing research ideas, seeking feedback, and learning about academic life. Includes sample pitches and questions to help the conversation flow.</p>
+
+      <div class="tool-tags">
+        <span class="tool-tag">Visiting Scholars</span>
+        <span class="tool-tag">Professionalization</span>
+      </div>
+    </div>
+
+    <div class="tool-actions">
+      <a class="action-btn" href="https://gonzalez-rostani.com/img/papers/Visiting.pdf" target="_blank" rel="noopener">📄 Download</a>
+    </div>
+  </div>
+</article>
+
 <!-- LaTeX Tips -->
 <article class="tool-card" data-topics="tools">
 <div class="tool-box">
