@@ -203,7 +203,7 @@ subtitle = ""
     📅 2027 
     <span class="toggle-icon" id="icon-2027">▼</span>
   </div>
-  <div class="year-content expanded" id="content-2026">
+  <div class="year-content expanded" id="content-2027">
     <table class="news-table">
       <thead>
         <tr>
@@ -220,6 +220,11 @@ subtitle = ""
   <td>Department Methods Speaker Series, University of California, San Diego. <span class="scheduled-tag">(Scheduled)</span></td>
   <td>San Diego, CA</td>
 </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
 <div class="year-section">
   <div class="year-header" onclick="toggleYear('2026')">
     📅 2026 
