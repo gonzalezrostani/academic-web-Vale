@@ -214,6 +214,51 @@ subtitle = ""
         </tr>
       </thead>
    <tbody>
+
+     <tr>
+  <td>November 2026</td>
+  <td><span class="event-type type-workshop">Workshop</span></td>
+  <td>Department Speaker Series, Department of Sociology, University of Southern California. <span class="scheduled-tag">(Scheduled)</span></td>
+  <td>Los Angeles, CA</td>
+</tr>
+<tr>
+  <td>October 2026</td>
+  <td><span class="event-type type-publication">Publication</span></td>
+  <td>Can Taxing the Super-Rich Unite Workers? Billionaire Visibility and Coalitional Potential (with Santiago Lopez Cariboni) - <i>Latin American Politics and Society</i> <span class="scheduled-tag">(Conditionally Accepted)</span></td>
+  <td>Forthcoming</td>
+</tr>
+<tr>
+  <td>October 2026</td>
+  <td><span class="event-type type-publication">Publication</span></td>
+  <td><a href="https://doi.org/10.1017/psrm.2026.10127" target="_blank">Love of variety? An experimental study of heterogeneous responses to foreign brands in the marketplace</a> (with Jude C. Hays) - <i>Political Science Research and Methods</i>. Now available open access.</td>
+  <td>Published</td>
+</tr>
+
+<tr>
+  <td>October 2026</td>
+  <td><span class="event-type type-workshop">Workshop</span></td>
+  <td><i>The Political Economy of Technological Change</i> workshop at Washington University in St. Louis.</td>
+  <td>St. Louis, MO</td>
+</tr>
+<tr>
+  <td>October 2026</td>
+  <td><span class="event-type type-workshop">Workshop</span></td>
+  <td>CPEIR Seminar (Comparative Politics, Political Economy, and International Relations) at the University of California, Santa Barbara.</td>
+  <td>Santa Barbara, CA</td>
+</tr>
+<tr>
+  <td>September 2026</td>
+  <td><span class="event-type type-workshop">Workshop</span></td>
+  <td><i>AGI Economics</i> workshop at OpenAI.</td>
+  <td>OpenAI</td>
+</tr>
+<tr>
+  <td>September 2026</td>
+  <td><span class="event-type type-workshop">Workshop</span></td>
+  <td><i>SoCalMeth</i> workshop at the University of California, San Diego.</td>
+  <td>San Diego, CA</td>
+</tr>
+
      <tr>
   <td>August 2026</td>
   <td><span class="event-type type-award">Award</span></td>
