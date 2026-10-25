@@ -214,8 +214,7 @@ subtitle = ""
         </tr>
       </thead>
    <tbody>
-
-     <tr>
+<tr>
   <td>November 2026</td>
   <td><span class="event-type type-workshop">Workshop</span></td>
   <td>Department Speaker Series, Department of Sociology, University of Southern California. <span class="scheduled-tag">(Scheduled)</span></td>
