@@ -199,6 +199,28 @@ subtitle = ""
 <div class="news-section">
 
 <div class="year-section">
+  <div class="year-header" onclick="toggleYear('2027')">
+    📅 2027 
+    <span class="toggle-icon" id="icon-2027">▼</span>
+  </div>
+  <div class="year-content expanded" id="content-2026">
+    <table class="news-table">
+      <thead>
+        <tr>
+          <th style="width: 12%;">Date</th>
+          <th style="width: 15%;">Type</th>
+          <th style="width: 48%;">Event</th>
+          <th style="width: 25%;">Place</th>
+        </tr>
+      </thead>
+   <tbody>
+<tr>
+  <td>January 2027</td>
+  <td><span class="event-type type-talk">Talk</span></td>
+  <td>Department Methods Speaker Series, University of California, San Diego. <span class="scheduled-tag">(Scheduled)</span></td>
+  <td>San Diego, CA</td>
+</tr>
+<div class="year-section">
   <div class="year-header" onclick="toggleYear('2026')">
     📅 2026 
     <span class="toggle-icon" id="icon-2026">▼</span>
