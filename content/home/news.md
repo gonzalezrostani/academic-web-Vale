@@ -224,7 +224,7 @@ subtitle = ""
 <tr>
   <td>October 2026</td>
   <td><span class="event-type type-publication">Publication</span></td>
-  <td>Can Taxing the Super-Rich Unite Workers? Billionaire Visibility and Coalitional Potential (with Santiago Lopez Cariboni) - <i>Latin American Politics and Society</i> <span class="scheduled-tag">(Conditionally Accepted)</span></td>
+  <td><a href="https://gonzalez-rostani.com/img/Papers/manuscript_GR_LC.pdf" target="_blank">Can Taxing the Super-Rich Unite Workers? Billionaire Visibility and Coalitional Potential</a> (with Santiago Lopez Cariboni) - <i>Latin American Politics and Society</i> <span class="scheduled-tag">(Conditionally Accepted)</span></td>
   <td>Forthcoming</td>
 </tr>
 <tr>
