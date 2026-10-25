@@ -216,7 +216,7 @@ subtitle = ""
    <tbody>
 <tr>
   <td>November 2026</td>
-  <td><span class="event-type type-workshop">Workshop</span></td>
+  <td><span class="event-type type-talk">Talk</span></td>
   <td>Department Speaker Series, Department of Sociology, University of Southern California. <span class="scheduled-tag">(Scheduled)</span></td>
   <td>Los Angeles, CA</td>
 </tr>
@@ -241,7 +241,7 @@ subtitle = ""
 </tr>
 <tr>
   <td>October 2026</td>
-  <td><span class="event-type type-workshop">Workshop</span></td>
+  <td><span class="event-type type-talk">Talk</span></td>
   <td>CPEIR Seminar (Comparative Politics, Political Economy, and International Relations) at the University of California, Santa Barbara.</td>
   <td>Santa Barbara, CA</td>
 </tr>
