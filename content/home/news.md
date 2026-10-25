@@ -250,7 +250,7 @@ subtitle = ""
   <td>September 2026</td>
   <td><span class="event-type type-workshop">Workshop</span></td>
   <td><i>AGI Economics</i> workshop at OpenAI.</td>
-  <td>OpenAI</td>
+  <td>San Francisco, CA</td>
 </tr>
 <tr>
   <td>September 2026</td>
