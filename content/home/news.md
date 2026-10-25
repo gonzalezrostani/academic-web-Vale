@@ -232,7 +232,6 @@ subtitle = ""
   <td><a href="https://doi.org/10.1017/psrm.2026.10127" target="_blank">Love of variety? An experimental study of heterogeneous responses to foreign brands in the marketplace</a> (with Jude C. Hays) - <i>Political Science Research and Methods</i>. Now available open access.</td>
   <td>Published</td>
 </tr>
-
 <tr>
   <td>October 2026</td>
   <td><span class="event-type type-workshop">Workshop</span></td>
@@ -257,8 +256,7 @@ subtitle = ""
   <td><i>SoCalMeth</i> workshop at the University of California, San Diego.</td>
   <td>San Diego, CA</td>
 </tr>
-
-     <tr>
+<tr>
   <td>August 2026</td>
   <td><span class="event-type type-award">Award</span></td>
   <td>Selected to join the inaugural <a href="https://openai.com/index/economic-research-exchange/" target="_blank">OpenAI Economic Research Exchange</a> with a project on collective bargaining, business AI use, and worker adjustment ($115,000).</td>
