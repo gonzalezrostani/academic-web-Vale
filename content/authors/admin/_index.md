@@ -202,7 +202,7 @@ user_groups:
 </div>
 
 <div class="about-section">
-  My work has been published or is forthcoming in journals including the <i>Journal of Politics</i>, <i>Ecological Economics</i>, <i>Political Science Research and Methods</i>, and <i>Legislative Studies Quarterly</i>. My scholarship has received several honors, including the
+  My work has been published or is forthcoming in journals including the <i>Journal of Politics</i>, <i>Comparative Political Studies</i>, <i>Ecological Economics</i>, and <i>Political Science Research and Methods</i>. My scholarship has received several honors, including the
   <a href="https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-25/#dissertation" target="_blank" rel="noopener"><i>Mancur Olson Best Dissertation Award in Political Economy</i></a>
   (2026). My research has received support from
   <a href="https://www.schmidtsciences.org/ai-at-work/" target="_blank" rel="noopener">Schmidt Sciences’ AI at Work initiative</a>,
