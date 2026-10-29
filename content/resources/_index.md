@@ -124,7 +124,7 @@ devtools::install_github("judechays/STADL", dependencies = TRUE)</code></pre>
 </div>
 </div>
 <div class="tool-actions">
-<a class="action-btn" href="https://gonzalez-rostani.com/img/Papers/5ys_PhD_Advising_Guidelines" target="_blank" rel="noopener noreferrer">📄 Read the guide</a>
+<a class="action-btn" href="https://gonzalez-rostani.com/img/Papers/5ys_PhD_Advising_Guidelines.pdf" target="_blank" rel="noopener noreferrer">📄 Read the guide</a>
 </div>
 </div>
 </article>
