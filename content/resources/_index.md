@@ -114,7 +114,7 @@ devtools::install_github("judechays/STADL", dependencies = TRUE)</code></pre>
 </article>
 <article class="tool-card" aria-labelledby="tool-title-3" data-topics="professionalization">
 <div class="tool-box">
-<h2 class="tool-title" id="tool-title-3">5 year PhD Plan 📅 </h2>
+<h2 class="tool-title" id="tool-title-3">📅 5-year PhD Plan  </h2>
 <div class="tool-meta">Notes based on my experience—things I wish I had known before starting</div>
 <div class="tool-body">
 <p>Five years in a PhD can go by quickly, so it helps to have a plan from the start. I wrote this guide for students I advise and those considering working with me. It covers coursework, research, preparation for academic and industry jobs, and how we will work together.</p>
