@@ -383,7 +383,7 @@ subtitle = ""
 <article class="vgr-paper" id="paper-navigating-uncertainty" data-status="review" data-topics="ai representation" aria-labelledby="title-navigating-uncertainty">
 <div class="vgr-paper-body">
 <div class="vgr-paper-top">
-<h4 id="title-navigating-uncertainty"><a href="https://gonzalez-rostani.com/img/Papers/Subjective_Techrisk.pdf">Navigating Uncertainty: How Experience Shapes Perception and Politics in the AI Era</a></h4>
+<h4 id="title-navigating-uncertainty"><a href="https://gonzalez-rostani.com/img/Papers/Subjective_Techrisk.pdf">Working with Technology, Worrying about Work: Job Insecurity and Political Attitudes</a></h4>
 <span class="vgr-badge vgr-badge-review">Revise &amp; resubmit</span>
 </div>
 <p class="vgr-authors">With Tobias Tober</p>
